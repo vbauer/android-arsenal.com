@@ -33,6 +33,15 @@ categories:
           url: http://jakewharton.github.io/butterknife/
         - name: Mortar
           url: https://github.com/square/mortar
+          
+    - name: Changelog
+      projects:
+        - name: ChangeLog Library
+          url: https://github.com/gabrielemariotti/changeloglib
+        - name: ckChangeLog
+          url: https://github.com/cketti/ckChangeLog
+        - name: android-change-log
+          url: https://code.google.com/p/android-change-log/
 
     - name: Data Structures
       projects:
@@ -100,16 +109,28 @@ categories:
       projects:
         - name: GSON
           url: http://code.google.com/p/google-gson/
+        - name: Jackson
+          url: http://jackson.codehaus.org
+        - name: Jackson jr
+          url: https://github.com/FasterXML/jackson-jr
 
     - name: List Views
       projects:
         - name: CustomListView
           url: http://listview.android-libraries.com
-        
+        - name: FunDapter
+          url: http://amigold.github.io/FunDapter/
+        - name: MultiChoiceAdapter
+          url: https://github.com/ManuelPeinado/MultiChoiceAdapter
+          
     - name: Maps
       projects:
         - name: mAppWidget
           url: http://mapp.android-libraries.com
+        - name: MapNavigator
+          url: https://github.com/tyczj/MapNavigator
+        - name: Polaris
+          url: https://github.com/cyrilmottier/Polaris
           
     - name: Navigation History
       projects:
@@ -174,3 +195,8 @@ categories:
       projects:
         - name: Crouton
           url: https://github.com/keyboardsurfer/Crouton
+
+    - name: Validation
+      projects:
+        - name: Android-Validator
+          url: https://github.com/throrin19/Android-Validator

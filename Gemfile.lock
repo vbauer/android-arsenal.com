@@ -22,4 +22,3 @@ PLATFORMS
 DEPENDENCIES
   sinatra (~> 1.4.4)
   thin
-
