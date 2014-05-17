@@ -1,0 +1,3 @@
+require './web'
+run Application
+

@@ -1,0 +1,21 @@
+
+body {
+    font-family: 'Lora', sans-serif;
+}
+
+.container {
+    max-width: 730px;
+}
+
+.footer {
+    border: 1px solid #e7e7e7;
+    background-color: #f8f8f8;
+    color: #777;
+}
+
+.footer p {
+    float: right;
+    padding-top: 15px;
+    margin-right: 30px;
+}
+

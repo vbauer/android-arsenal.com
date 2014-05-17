@@ -1,0 +1,16 @@
+<% @categories.sort.each_with_index do |(category, projects), index|%>
+    <%='</div>' if index>0 && index % 3 == 0 %>
+    <%='<div class="row">' if index % 3==0 %>
+
+    <div class="col-md-4">
+        <h4><%= category %></h4>
+        <p>
+            <ul>
+                <% projects.each do |project| %>
+                <li><a href="<%= project['url'] %>"><%= project[ 'name'] %></a></li>
+                <% end %>
+            </ul>
+        </p>
+    </div>
+<% end %>
+<%='</div>' if @categories.length>0 %>

@@ -1,0 +1,176 @@
+
+categories:
+
+    - name: Action Bar
+      projects:
+        - name: ActionBarSherlock
+          url: http://actionbarsherlock.com
+
+    - name: Animations
+      projects:
+        - name: NineOldAndroids
+          url: https://github.com/JakeWharton/NineOldAndroids
+          
+    - name: Annotations
+      projects:
+        - name: AndroidAnnotations
+          url: http://androidannotations.org
+
+    - name: Automation Testing
+      projects:
+        - name: Robotium
+          url: http://code.google.com/p/robotium/
+        - name: Spoon
+          url: https://github.com/square/spoon
+        - name: Android FEST
+          url: https://github.com/square/fest-android
+          
+    - name: Bar Codes
+      projects:
+        - name: ZXing
+          url: http://code.google.com/p/zxing/
+        - name: Butter Knife
+          url: http://jakewharton.github.io/butterknife/
+        - name: Mortar
+          url: https://github.com/square/mortar
+
+    - name: Data Structures
+      projects:
+        - name: Tape
+          url: https://github.com/square/tape
+          
+    - name: Date Pickers
+      projects:
+        - name: TimesSquare for Android
+          url: https://github.com/square/android-times-square
+
+    - name: Dependency Injections
+      projects:
+        - name: Dagger
+          url: http://square.github.io/dagger/
+        - name: RoboGuice
+          url: https://github.com/roboguice/roboguice
+
+    - name: Event Buses
+      projects:
+        - name: GreenRobot's EventBus
+          url: https://github.com/greenrobot/EventBus
+        - name: Otto
+          url: http://square.github.io/otto/
+    
+    - name: Graphics
+      projects:
+        - name: AChartEngine
+          url: http://www.achartengine.org
+        - name: GraphWidget
+          url: http://graphwidget.android-libraries.com
+
+    - name: Gyroscope
+      projects:
+        - name: Seismic
+          url: https://github.com/square/seismic
+        
+    - name: HTTP & SPDY clients
+      projects:
+        - name: Retrofit
+          url: https://github.com/square/retrofit
+        - name: OkHttp
+          url: https://github.com/square/okhttp
+
+    - name: IDE Plugins
+      projects:
+        - name: Otto IntelliJ Plugin
+          url: https://github.com/square/otto-intellij-plugin
+        - name: Dagger IntelliJ Plugin
+          url: https://github.com/square/dagger-intellij-plugin
+    
+    - name: Image Loaders
+      projects:
+        - name: Universal Image Loader
+          url: https://github.com/nostra13/Android-Universal-Image-Loader
+        - name: Picasso
+          url: https://github.com/square/picasso
+
+    - name: I/O
+      projects:
+        - name: Okia
+          url: https://github.com/square/okio
+
+    - name: JSON Parsers
+      projects:
+        - name: GSON
+          url: http://code.google.com/p/google-gson/
+
+    - name: List Views
+      projects:
+        - name: CustomListView
+          url: http://listview.android-libraries.com
+        
+    - name: Maps
+      projects:
+        - name: mAppWidget
+          url: http://mapp.android-libraries.com
+          
+    - name: Navigation History
+      projects:
+        - name: Flow
+          url: https://github.com/square/flow
+    
+    - name: OCR Engines
+      projects:
+        - name: Tesseract
+          url: https://code.google.com/p/tesseract-ocr/
+      
+    - name: OpenGL
+      projects:
+        - name: Rajawali
+          url: https://github.com/MasDennis/Rajawali
+    
+    - name: ORM
+      projects:
+        - name: ActiveAndroid
+          url: https://github.com/pardom/ActiveAndroid
+        - name: OrmLight
+          url: http://ormlite.com
+        - name: greenDAO
+          url: http://greendao-orm.com
+          
+    - name: Page View Indicators
+      projects:
+        - name: ViewPagerIndicator
+          url: http://viewpagerindicator.com
+
+    - name: Protocol Buffers
+      projects:
+        - name: wire
+          url: https://github.com/square/wire
+    
+    - name: Pull To Refresh
+      projects:
+        - name: Android-PullToRefresh
+          url: https://github.com/chrisbanes/Android-PullToRefresh
+          
+    - name: Push Notifications
+      projects:
+        - name: java-apns
+          url: https://github.com/notnoop/java-apns
+          
+    - name: Reactive Programming
+      projects:
+        - name: RxJava
+          url: https://github.com/Netflix/RxJava
+                    
+    - name: Scripting
+      projects:
+        - name: android-scripting
+          url: https://code.google.com/p/android-scripting/
+          
+    - name: Template Languages
+      projects:
+        - name: Phrase
+          url: https://github.com/square/phrase
+          
+    - name: Toasts
+      projects:
+        - name: Crouton
+          url: https://github.com/keyboardsurfer/Crouton
