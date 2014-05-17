@@ -1,10 +1,14 @@
 
 categories:
 
-    - name: Action Bar
+    - name: Action Bars
       projects:
         - name: ActionBarSherlock
           url: http://actionbarsherlock.com
+        - name: Extended ActionBar
+          url: https://github.com/Takhion/android-extendedactionbar
+        - name: FadingActionBar
+          url: https://github.com/ManuelPeinado/FadingActionBar
 
     - name: Animations
       projects:
@@ -34,6 +38,11 @@ categories:
         - name: Mortar
           url: https://github.com/square/mortar
           
+    - name: Calendars
+      projects:
+        - name: ExtendedCalendarView
+          url: https://github.com/tyczj/ExtendedCalendarView
+          
     - name: Changelog
       projects:
         - name: ChangeLog Library
@@ -42,6 +51,11 @@ categories:
           url: https://github.com/cketti/ckChangeLog
         - name: android-change-log
           url: https://code.google.com/p/android-change-log/
+          
+    - name: Color Pickers
+      projects:
+        - name: ColorPickerPreference
+          url: https://github.com/attenzione/android-ColorPickerPreference
 
     - name: Data Structures
       projects:
@@ -73,6 +87,8 @@ categories:
           url: http://www.achartengine.org
         - name: GraphWidget
           url: http://graphwidget.android-libraries.com
+        - name: HoloGraphLibrary
+          url: https://bitbucket.org/danielnadeau/holographlibrary/wiki/Home
 
     - name: Gyroscope
       projects:
@@ -170,6 +186,8 @@ categories:
       projects:
         - name: Android-PullToRefresh
           url: https://github.com/chrisbanes/Android-PullToRefresh
+        - name: ActionBar-PullToRefresh
+          url: https://github.com/chrisbanes/ActionBar-PullToRefresh
           
     - name: Push Notifications
       projects:
