@@ -191,20 +191,22 @@ categories:
         - name: Seismic
           url: https://github.com/square/seismic
         
-    - name: HTTP & SPDY clients
+    - name: Networking
       projects:
-        - name: Retrofit
-          url: https://github.com/square/retrofit
-        - name: OkHttp
-          url: https://github.com/square/okhttp
         - name: DataDroid
           url: https://github.com/foxykeep/DataDroid
+        - name: Ion
+          url: https://github.com/koush/ion
+        - name: Loopj
+          url: http://loopj.com/android-async-http/
+        - name: OkHttp
+          url: https://github.com/square/okhttp
+        - name: Retrofit
+          url: https://github.com/square/retrofit
         - name: RoboSpice
           url: https://github.com/stephanenicolas/robospice
         - name: Volley
           url: https://android.googlesource.com/platform/frameworks/volley
-        - name: Loopj
-          url: http://loopj.com/android-async-http/
 
     - name: IDE
       projects:
@@ -251,8 +253,14 @@ categories:
           url: http://listview.android-libraries.com
         - name: FunDapter
           url: http://amigold.github.io/FunDapter/
+        - name: ListViewAnimations
+          url: https://github.com/nhaarman/ListViewAnimations
         - name: MultiChoiceAdapter
           url: https://github.com/ManuelPeinado/MultiChoiceAdapter
+        - name: PullToRefresh-ListView
+          url: https://github.com/erikwt/PullToRefresh-ListView
+        - name: StickyListHeaders
+          url: https://github.com/emilsjolander/StickyListHeaders
           
     - name: Logging
       projects:
@@ -277,11 +285,25 @@ categories:
     
     - name: OCR Engines
       projects:
+        - name: ABBYY Mobile OCR Engine
+          url: http://www.abbyy.com/mobileocr/android/
+        - name: android-ocr
+          url: https://github.com/rmtheis/android-ocr
         - name: Tesseract
           url: https://code.google.com/p/tesseract-ocr/
       
     - name: OpenGL
       projects:
+        - name: AndEngine
+          url: http://www.andengine.org
+        - name: Dwarf
+          url: https://code.google.com/p/dwarf-fw/
+        - name: jPCT AE
+          url: http://www.jpct.net/jpct-ae/
+        - name: libGDX
+          url: https://github.com/libgdx/libgdx/
+        - name: min3d
+          url: https://code.google.com/p/min3d/
         - name: Rajawali
           url: https://github.com/MasDennis/Rajawali
     
@@ -296,11 +318,6 @@ categories:
         - name: ActiveRecord for Android
           url: https://code.google.com/p/android-active-record/
           
-    - name: Page View Indicators
-      projects:
-        - name: ViewPagerIndicator
-          url: http://viewpagerindicator.com
-
     - name: Protocol Buffers
       projects:
         - name: wire
@@ -327,6 +344,8 @@ categories:
       projects:
         - name: android-scripting
           url: https://code.google.com/p/android-scripting/
+        - name: FASL
+          url: https://mad.cs.fau.de/fasl/
           
     - name: Social Networking
       projects:
@@ -335,6 +354,8 @@ categories:
     
     - name: Template Languages
       projects:
+        - name: Chunk
+          url: http://www.x5software.com/chunk/
         - name: Phrase
           url: https://github.com/square/phrase
           
@@ -351,3 +372,10 @@ categories:
           url: https://github.com/throrin19/Android-Validator
         - name: Android Saripaar
           url: https://github.com/ragunathjawahar/android-saripaar
+
+    - name: View Pagers
+      projects:
+        - name: PagerSlidingTabStrip
+          url: https://github.com/astuetz/PagerSlidingTabStrip
+        - name: ViewPagerIndicator
+          url: http://viewpagerindicator.com
