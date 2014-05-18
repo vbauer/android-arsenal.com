@@ -45,26 +45,30 @@ categories:
           url: https://github.com/kaeppler/ignition
         - name: GreenDroid
           url: http://greendroid.cyrilmottier.com
+        - name: Mortar
+          url: https://github.com/square/mortar
         - name: Spring for Android
           url: http://projects.spring.io/spring-android/
       
     - name: Automation Testing
       projects:
-        - name: Robotium
-          url: http://code.google.com/p/robotium/
-        - name: Spoon
-          url: https://github.com/square/spoon
         - name: Android FEST
           url: https://github.com/square/fest-android
         - name: Android Mock
           url: http://code.google.com/p/android-mock
+        - name: Robotium
+          url: http://code.google.com/p/robotium/
+        - name: Spoon
+          url: https://github.com/square/spoon
           
     - name: Bar Codes
       projects:
         - name: ZXing
           url: http://code.google.com/p/zxing/
-        - name: Mortar
-          url: https://github.com/square/mortar
+        - name: Android Barcode Generator
+          url: http://www.onbarcode.com/products/android_barcode/
+        - name: Scandit
+          url: http://www.scandit.com/barcode-scanner-sdk/
           
     - name: Bare Necessities
       projects:
