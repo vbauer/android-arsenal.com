@@ -11,11 +11,15 @@ categories:
           url: https://github.com/Takhion/android-extendedactionbar
         - name: FadingActionBar
           url: https://github.com/ManuelPeinado/FadingActionBar
+        - name: v7 appcompat library
+          url: http://developer.android.com/tools/support-library/features.html#v7-appcompat
           
     - name: Advertisements
       projects:
         - name: Google Mobile Ads SDK
           url: https://developers.google.com/mobile-ads-sdk/
+        - name: AdMob
+          url: http://www.google.com/ads/admob/
 
     - name: Analytics
       projects:
@@ -49,8 +53,6 @@ categories:
       projects:
         - name: ZXing
           url: http://code.google.com/p/zxing/
-        - name: Butter Knife
-          url: http://jakewharton.github.io/butterknife/
         - name: Mortar
           url: https://github.com/square/mortar
           
@@ -106,6 +108,8 @@ categories:
           url: http://square.github.io/dagger/
         - name: RoboGuice
           url: https://github.com/roboguice/roboguice
+        - name: Butter Knife
+          url: http://jakewharton.github.io/butterknife/
 
     - name: Event Buses
       projects:
