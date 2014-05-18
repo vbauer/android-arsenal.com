@@ -35,11 +35,17 @@ categories:
         - name: NineOldAndroids
           url: https://github.com/JakeWharton/NineOldAndroids
           
-    - name: Annotations
+    - name: Architecture
       projects:
-        - name: AndroidAnnotations
-          url: http://androidannotations.org
-
+        - name: DroidParts
+          url: http://droidparts.org
+        - name: Ignition
+          url: https://github.com/kaeppler/ignition
+        - name: GreenDroid
+          url: http://greendroid.cyrilmottier.com
+        - name: Spring for Android
+          url: http://projects.spring.io/spring-android/
+      
     - name: Automation Testing
       projects:
         - name: Robotium
@@ -48,6 +54,8 @@ categories:
           url: https://github.com/square/spoon
         - name: Android FEST
           url: https://github.com/square/fest-android
+        - name: Android Mock
+          url: http://code.google.com/p/android-mock
           
     - name: Bar Codes
       projects:
@@ -104,6 +112,8 @@ categories:
 
     - name: Dependency Injections
       projects:
+        - name: AndroidAnnotations
+          url: http://androidannotations.org
         - name: Dagger
           url: http://square.github.io/dagger/
         - name: RoboGuice
@@ -111,6 +121,23 @@ categories:
         - name: Butter Knife
           url: http://jakewharton.github.io/butterknife/
 
+    - name: Design
+      projects:
+        - name: Android Patterns
+          url: http://www.androidpatterns.com
+        - name: Google Android Design Guide
+          url: http://developer.android.com/design/index.html
+        - name: Android App Patterns
+          url: http://www.android-app-patterns.com
+        - name: Android 4.0 Design Startkit
+          url: http://www.androiddesign.info
+        - name: Android Niceties
+          url: http://androidniceties.tumblr.com
+        - name: Android Holo Colors Generator 
+          url: http://android-holo-colors.com
+        - name: ICS Apps
+          url: http://ics-apps.tumblr.com
+          
     - name: Event Buses
       projects:
         - name: GreenRobot's EventBus
@@ -149,7 +176,14 @@ categories:
           url: https://github.com/stephanenicolas/robospice
         - name: Volley
           url: https://android.googlesource.com/platform/frameworks/volley
+        - name: Loopj
+          url: http://loopj.com/android-async-http/
 
+    - name: IDE
+      projects:
+        - name: Android Studio
+          url: http://developer.android.com/sdk/installing/studio.html
+          
     - name: IDE Plugins
       projects:
         - name: Otto IntelliJ Plugin
@@ -226,6 +260,8 @@ categories:
           url: http://ormlite.com
         - name: greenDAO
           url: http://greendao-orm.com
+        - name: ActiveRecord for Android
+          url: https://code.google.com/p/android-active-record/
           
     - name: Page View Indicators
       projects:
