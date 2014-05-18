@@ -16,12 +16,16 @@ categories:
           
     - name: Advertisements
       projects:
-        - name: Google Mobile Ads SDK
-          url: https://developers.google.com/mobile-ads-sdk/
         - name: AdMob
           url: http://www.google.com/ads/admob/
+        - name: Google Mobile Ads SDK
+          url: https://developers.google.com/mobile-ads-sdk/
         - name: InMobi
           url: http://www.inmobi.com
+        - name: MoPub
+          url: http://www.mopub.com
+        - name: Tapjoy
+          url: http://home.tapjoy.com
 
     - name: Analytics
       projects:
@@ -31,11 +35,6 @@ categories:
           url: http://www.flurry.com
         - name: Capptain
           url: http://www.capptain.com
-      
-    - name: Animations
-      projects:
-        - name: NineOldAndroids
-          url: http://nineoldandroids.com
           
     - name: Architecture
       projects:
@@ -60,7 +59,14 @@ categories:
           url: http://code.google.com/p/robotium/
         - name: Spoon
           url: https://github.com/square/spoon
-          
+
+    - name: Backward Compatibility
+      projects:
+        - name: NineOldAndroids
+          url: http://nineoldandroids.com
+        - name: Support Library
+          url: http://developer.android.com/tools/support-library/index.html
+
     - name: Bar Codes
       projects:
         - name: ZXing
@@ -105,7 +111,7 @@ categories:
         - name: Crashlytics
           url: http://try.crashlytics.com
 
-    - name: CSV Parsers
+    - name: CSV
       projects:
         - name: opencsv
           url: https://code.google.com/p/opencsv/
@@ -210,23 +216,13 @@ categories:
         - name: Seismic
           url: https://github.com/square/seismic
         
-    - name: Networking
+    - name: HTML
       projects:
-        - name: DataDroid
-          url: https://github.com/foxykeep/DataDroid
-        - name: Ion
-          url: https://github.com/koush/ion
-        - name: Loopj
-          url: http://loopj.com/android-async-http/
-        - name: OkHttp
-          url: https://github.com/square/okhttp
-        - name: Retrofit
-          url: https://github.com/square/retrofit
-        - name: RoboSpice
-          url: https://github.com/stephanenicolas/robospice
-        - name: Volley
-          url: https://android.googlesource.com/platform/frameworks/volley
-
+        - name: HtmlCleaner
+          url: http://htmlcleaner.sourceforge.net
+        - name: jsoup
+          url: http://jsoup.org
+          
     - name: IDE
       projects:
         - name: Android Studio
@@ -254,7 +250,7 @@ categories:
         - name: UrlImageViewHelper
           url: https://github.com/koush/UrlImageViewHelper
 
-    - name: JSON Parsers
+    - name: JSON
       projects:
         - name: GSON
           url: http://code.google.com/p/google-gson/
@@ -262,6 +258,8 @@ categories:
           url: http://jackson.codehaus.org
         - name: Jackson jr
           url: https://github.com/FasterXML/jackson-jr
+        - name: JSON.simple
+          url: https://code.google.com/p/json-simple/
 
     - name: List Views
       projects:
@@ -269,6 +267,8 @@ categories:
           url: http://listview.android-libraries.com
         - name: FunDapter
           url: http://amigold.github.io/FunDapter/
+        - name: LazyList
+          url: https://github.com/thest1/LazyList/
         - name: ListViewAnimations
           url: https://github.com/nhaarman/ListViewAnimations
         - name: MultiChoiceAdapter
@@ -291,6 +291,8 @@ categories:
           url: http://mapp.android-libraries.com
         - name: MapNavigator
           url: https://github.com/tyczj/MapNavigator
+        - name: osmdroid
+          url: https://github.com/osmdroid/osmdroid
         - name: Polaris
           url: https://github.com/cyrilmottier/Polaris
           
@@ -298,7 +300,24 @@ categories:
       projects:
         - name: Flow
           url: https://github.com/square/flow
-    
+
+    - name: Networking
+      projects:
+        - name: DataDroid
+          url: https://github.com/foxykeep/DataDroid
+        - name: Ion
+          url: https://github.com/koush/ion
+        - name: Loopj
+          url: http://loopj.com/android-async-http/
+        - name: OkHttp
+          url: https://github.com/square/okhttp
+        - name: Retrofit
+          url: https://github.com/square/retrofit
+        - name: RoboSpice
+          url: https://github.com/stephanenicolas/robospice
+        - name: Volley
+          url: https://android.googlesource.com/platform/frameworks/volley
+
     - name: OCR Engines
       projects:
         - name: ABBYY Mobile OCR Engine
@@ -336,6 +355,8 @@ categories:
           
     - name: Protocol Buffer
       projects:
+        - name: micro-protobuf
+          url: https://code.google.com/p/micro-protobuf/
         - name: platform_external_protobuf
           url: https://github.com/android/platform_external_protobuf
         - name: protobuf-j2me
@@ -366,11 +387,17 @@ categories:
           url: https://code.google.com/p/android-scripting/
         - name: FASL
           url: https://mad.cs.fau.de/fasl/
+        - name: jnlua-android
+          url: https://code.google.com/p/jnlua-android/
           
     - name: Social Networking
       projects:
+        - name: Bitlyj
+          url: https://code.google.com/p/bitlyj/
         - name: Facebook SDK
           url: https://developers.facebook.com/docs/android/
+        - name: JTwitter
+          url: http://www.winterwell.com/software/jtwitter.php
         - name: Twitter4J
           url: http://twitter4j.org
     
@@ -390,8 +417,14 @@ categories:
 
     - name: Utils
       projects:
+        - name: Apache Commons Codec
+          url: http://commons.apache.org/proper/commons-codec/
+        - name: Apache Commons IO
+          url: http://commons.apache.org/proper/commons-io/
         - name: AQuery
           url: https://code.google.com/p/android-query/
+        - name: Guava
+          url: https://code.google.com/p/guava-libraries/
         - name: Okio
           url: https://github.com/square/okio
         - name: Tape
@@ -410,3 +443,10 @@ categories:
           url: https://github.com/astuetz/PagerSlidingTabStrip
         - name: ViewPagerIndicator
           url: http://viewpagerindicator.com
+
+    - name: XML
+      projects:
+        - name: kXML
+          url: http://kxml.org
+        - name: Simple
+          url: http://simple.sourceforge.net
