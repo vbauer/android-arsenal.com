@@ -55,6 +55,8 @@ categories:
           url: https://github.com/square/fest-android
         - name: Android Mock
           url: http://code.google.com/p/android-mock
+        - name: JUnit
+          url: http://junit.org
         - name: Robotium
           url: http://code.google.com/p/robotium/
         - name: Spoon
@@ -265,6 +267,8 @@ categories:
       projects:
         - name: CustomListView
           url: http://listview.android-libraries.com
+        - name: DragSortListView
+          url: https://github.com/bauerca/drag-sort-listview
         - name: FunDapter
           url: http://amigold.github.io/FunDapter/
         - name: LazyList
@@ -352,6 +356,19 @@ categories:
           url: http://greendao-orm.com
         - name: ActiveRecord for Android
           url: https://code.google.com/p/android-active-record/
+          
+    - name: Platforms
+      projects:
+        - name: Adobe AIR
+          url: http://www.adobe.com/products/air.html
+        - name: Appcelerator (Titanium Mobile)
+          url: http://www.appcelerator.com/developers/
+        - name: Corona SDK
+          url: http://coronalabs.com/products/corona-sdk/
+        - name: PhoneGap
+          url: http://phonegap.com
+        - name: Unity
+          url: http://unity3d.com
           
     - name: Protocol Buffer
       projects:
@@ -446,6 +463,8 @@ categories:
 
     - name: XML
       projects:
+        - name: JDOM
+          url: http://www.jdom.org
         - name: kXML
           url: http://kxml.org
         - name: Simple
