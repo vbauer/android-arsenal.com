@@ -5,11 +5,20 @@ categories:
       projects:
         - name: ActionBarSherlock
           url: http://actionbarsherlock.com
+        - name: Android Action Bar Style Generator
+          url: http://jgilfelt.github.io/android-actionbarstylegenerator
         - name: Extended ActionBar
           url: https://github.com/Takhion/android-extendedactionbar
         - name: FadingActionBar
           url: https://github.com/ManuelPeinado/FadingActionBar
 
+    - name: Analytics
+      projects:
+        - name: Google Analytics
+          url: https://developers.google.com/analytics/devguides/collection/android/
+        - name: Flurry
+          url: http://www.flurry.com
+      
     - name: Animations
       projects:
         - name: NineOldAndroids
@@ -38,6 +47,11 @@ categories:
         - name: Mortar
           url: https://github.com/square/mortar
           
+    - name: Bare Necessities
+      projects:
+        - name: AQuery
+          url: https://code.google.com/p/android-query/
+          
     - name: Calendars
       projects:
         - name: ExtendedCalendarView
@@ -57,6 +71,11 @@ categories:
         - name: ColorPickerPreference
           url: https://github.com/attenzione/android-ColorPickerPreference
 
+    - name: Crash Reports
+      projects:
+        - name: ACRA
+          url: https://github.com/ACRA/acra
+          
     - name: Data Structures
       projects:
         - name: Tape
