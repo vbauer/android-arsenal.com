@@ -4,7 +4,7 @@
 If you want to make this world a little bit better you can:
 
 - Fork this repository
-- Modify **project.yaml**: add some new interesting projects or fix mistakes
+- Modify **project.yml**: add some new interesting projects or fix mistakes
 - Send back a pull request
 
 
