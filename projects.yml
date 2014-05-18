@@ -35,7 +35,7 @@ categories:
     - name: Animations
       projects:
         - name: NineOldAndroids
-          url: https://github.com/JakeWharton/NineOldAndroids
+          url: http://nineoldandroids.com
           
     - name: Architecture
       projects:
@@ -70,13 +70,17 @@ categories:
         - name: Scandit
           url: http://www.scandit.com/barcode-scanner-sdk/
           
-    - name: Bare Necessities
+    - name: Caching
       projects:
-        - name: AQuery
-          url: https://code.google.com/p/android-query/
+        - name: Android-BitmapCache
+          url: https://github.com/chrisbanes/Android-BitmapCache
+        - name: DiskLruCache
+          url: https://github.com/JakeWharton/DiskLruCache
           
     - name: Calendars
       projects:
+        - name: MFCalendarView
+          url: https://github.com/MustafaFerhan/MFCalendarView
         - name: ExtendedCalendarView
           url: https://github.com/tyczj/ExtendedCalendarView
           
@@ -108,18 +112,13 @@ categories:
         - name: CSVReader
           url: https://code.google.com/p/secrets-for-android/source/browse/trunk/src/au/com/bytecode/opencsv/CSVReader.java
           
-    - name: Curl/Flip effects
+    - name: Curl/Flip Effects
       projects:
         - name: android_page_curl
           url: https://github.com/harism/android_page_curl
         - name: android-flip
           url: https://github.com/openaphid/android-flip
-    
-    - name: Data Structures
-      projects:
-        - name: Tape
-          url: https://github.com/square/tape
-          
+              
     - name: Date Pickers
       projects:
         - name: TimesSquare for Android
@@ -131,6 +130,15 @@ categories:
         - name: android-datepicker
           url: https://github.com/SimonVT/android-datepicker
 
+    - name: Demos
+      projects:
+        - name: DevAppsDirect
+          url: https://play.google.com/store/apps/details?id=com.inappsquared.devappsdirect
+        - name: Google I/O App
+          url: https://code.google.com/p/iosched/
+        - name: Libraries for developers
+          url: https://play.google.com/store/apps/details?id=com.desarrollodroide.repos
+      
     - name: Dependency Injections
       projects:
         - name: AndroidAnnotations
@@ -161,15 +169,19 @@ categories:
           
     - name: Event Buses
       projects:
-        - name: GreenRobot's EventBus
-          url: https://github.com/greenrobot/EventBus
+        - name: greenrobot/EventBus
+          url: http://greenrobot.github.io/EventBus/
         - name: Otto
           url: http://square.github.io/otto/
+        - name: stickyd/eventbus
+          url: https://github.com/stickyd/eventbus
     
     - name: Fonts
       projects:
         - name: Calligraphy
           url: https://github.com/chrisjenx/Calligraphy
+        - name: PixlUI
+          url: https://github.com/neopixl/PixlUI
     
     - name: Graphics
       projects:
@@ -186,6 +198,13 @@ categories:
         - name: GraphView
           url: http://android-graphview.org
 
+    - name: Grid Views
+      projects:
+        - name: AndroidStaggeredGrid
+          url: https://github.com/etsy/AndroidStaggeredGrid
+        - name: StaggeredGridView
+          url: https://github.com/maurycyw/StaggeredGridView
+          
     - name: Gyroscope
       projects:
         - name: Seismic
@@ -228,15 +247,12 @@ categories:
     
     - name: Image Loaders
       projects:
-        - name: Universal Image Loader for Android
-          url: https://github.com/nostra13/Android-Universal-Image-Loader
         - name: Picasso
           url: https://github.com/square/picasso
-
-    - name: I/O
-      projects:
-        - name: Okia
-          url: https://github.com/square/okio
+        - name: Universal Image Loader for Android
+          url: https://github.com/nostra13/Android-Universal-Image-Loader
+        - name: UrlImageViewHelper
+          url: https://github.com/koush/UrlImageViewHelper
 
     - name: JSON Parsers
       projects:
@@ -318,8 +334,12 @@ categories:
         - name: ActiveRecord for Android
           url: https://code.google.com/p/android-active-record/
           
-    - name: Protocol Buffers
+    - name: Protocol Buffer
       projects:
+        - name: platform_external_protobuf
+          url: https://github.com/android/platform_external_protobuf
+        - name: protobuf-j2me
+          url: https://code.google.com/p/protobuf-j2me/
         - name: wire
           url: https://github.com/square/wire
     
@@ -351,6 +371,8 @@ categories:
       projects:
         - name: Facebook SDK
           url: https://developers.facebook.com/docs/android/
+        - name: Twitter4J
+          url: http://twitter4j.org
     
     - name: Template Languages
       projects:
@@ -365,6 +387,15 @@ categories:
           url: https://github.com/keyboardsurfer/Crouton
         - name: MessageBar
           url: http://simonvt.github.io/MessageBar/
+
+    - name: Utils
+      projects:
+        - name: AQuery
+          url: https://code.google.com/p/android-query/
+        - name: Okio
+          url: https://github.com/square/okio
+        - name: Tape
+          url: https://github.com/square/tape
 
     - name: Validation
       projects:
