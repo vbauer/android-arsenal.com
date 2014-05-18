@@ -20,6 +20,8 @@ categories:
           url: https://developers.google.com/mobile-ads-sdk/
         - name: AdMob
           url: http://www.google.com/ads/admob/
+        - name: InMobi
+          url: http://www.inmobi.com
 
     - name: Analytics
       projects:
@@ -94,11 +96,20 @@ categories:
           url: https://github.com/ACRA/acra
         - name: Crashlytics
           url: http://try.crashlytics.com
+
+    - name: CSV Parsers
+      projects:
+        - name: opencsv
+          url: https://code.google.com/p/opencsv/
+        - name: CSVReader
+          url: https://code.google.com/p/secrets-for-android/source/browse/trunk/src/au/com/bytecode/opencsv/CSVReader.java
           
     - name: Curl/Flip effects
       projects:
         - name: android_page_curl
           url: https://github.com/harism/android_page_curl
+        - name: android-flip
+          url: https://github.com/openaphid/android-flip
     
     - name: Data Structures
       projects:
@@ -109,6 +120,12 @@ categories:
       projects:
         - name: TimesSquare for Android
           url: https://github.com/square/android-times-square
+        - name: android-betterpickers
+          url: https://github.com/derekbrameyer/android-betterpickers
+        - name: DateTimePicker
+          url: https://github.com/flavienlaurent/datetimepicker
+        - name: android-datepicker
+          url: https://github.com/SimonVT/android-datepicker
 
     - name: Dependency Injections
       projects:
@@ -144,7 +161,7 @@ categories:
           url: https://github.com/greenrobot/EventBus
         - name: Otto
           url: http://square.github.io/otto/
-          
+    
     - name: Fonts
       projects:
         - name: Calligraphy
@@ -158,6 +175,12 @@ categories:
           url: http://graphwidget.android-libraries.com
         - name: HoloGraphLibrary
           url: https://bitbucket.org/danielnadeau/holographlibrary/wiki/Home
+        - name: AFreeChart
+          url: https://code.google.com/p/afreechart/
+        - name: Androidplot
+          url: http://androidplot.com
+        - name: GraphView
+          url: http://android-graphview.org
 
     - name: Gyroscope
       projects:
@@ -309,6 +332,8 @@ categories:
       projects:
         - name: Crouton
           url: https://github.com/keyboardsurfer/Crouton
+        - name: MessageBar
+          url: http://simonvt.github.io/MessageBar/
 
     - name: Validation
       projects:
