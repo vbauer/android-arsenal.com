@@ -300,6 +300,13 @@ categories:
         - name: Polaris
           url: https://github.com/cyrilmottier/Polaris
           
+    - name: MIME
+      projects:
+        - name: Apache HttpMime
+          url: http://hc.apache.org/httpcomponents-client-ga/httpmime/dependency-info.html
+        - name: Mime4j
+          url: http://james.apache.org/mime4j/
+          
     - name: Navigation History
       projects:
         - name: Flow
@@ -387,6 +394,13 @@ categories:
           url: https://github.com/chrisbanes/Android-PullToRefresh
         - name: ActionBar-PullToRefresh
           url: https://github.com/chrisbanes/ActionBar-PullToRefresh
+          
+    - name: Purchases
+      projects:
+        - name: Google Play in-app billing
+          url: http://developer.android.com/google/play/billing/index.html
+        - name: Amazon in-app purchasing
+          url: https://developer.amazon.com/welcome.html
           
     - name: Push Notifications
       projects:
