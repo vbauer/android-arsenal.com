@@ -210,6 +210,12 @@ categories:
       projects:
         - name: Android Studio
           url: http://developer.android.com/sdk/installing/studio.html
+        - name: AIDE
+          url: http://www.android-ide.com
+        - name: Eclipse ADT
+          url: http://developer.android.com/tools/sdk/eclipse-adt.html
+        - name: IntelliJ IDEA
+          url: http://www.jetbrains.com/idea/features/android.html
           
     - name: IDE Plugins
       projects:
