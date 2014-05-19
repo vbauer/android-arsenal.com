@@ -295,6 +295,8 @@ categories:
 
     - name: List Views
       projects:
+		- name: Android-MultiStateListView
+		  url: https://github.com/jenzz/Android-MultiStateListView
         - name: Android-ScrollBarPanel
           url: https://github.com/rno/Android-ScrollBarPanel
         - name: CustomListView
@@ -399,6 +401,8 @@ categories:
       projects:
         - name: ActiveAndroid
           url: https://github.com/pardom/ActiveAndroid
+		- name: Content Provider Helper
+	      url: https://github.com/jenzz/ContentProviderHelper
         - name: OrmLite
           url: http://ormlite.com
         - name: greenDAO
@@ -503,6 +507,8 @@ categories:
           
     - name: Toasts
       projects:
+		- name: Android-UndoBar
+		  url: https://github.com/jenzz/Android-UndoBar
         - name: AppMsg
           url: https://github.com/johnkil/Android-AppMsg
         - name: Crouton
