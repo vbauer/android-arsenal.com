@@ -57,6 +57,8 @@ categories:
           url: http://code.google.com/p/android-mock
         - name: JUnit
           url: http://junit.org
+        - name: Mockito
+          url: https://code.google.com/p/mockito
         - name: Robolectric
           url: http://robolectric.org
         - name: Robotium
