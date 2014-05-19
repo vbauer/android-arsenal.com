@@ -57,6 +57,8 @@ categories:
           url: http://code.google.com/p/android-mock
         - name: JUnit
           url: http://junit.org
+        - name: Robolectric
+          url: http://robolectric.org
         - name: Robotium
           url: http://code.google.com/p/robotium/
         - name: Spoon
@@ -254,6 +256,15 @@ categories:
         - name: UrlImageViewHelper
           url: https://github.com/koush/UrlImageViewHelper
 
+    - name: Image Views
+      projects:
+        - name: PhotoView
+          url: https://github.com/chrisbanes/PhotoView
+        - name: Smart Image View
+          url: https://github.com/loopj/android-smart-image-view
+        - name: TouchImageView
+          url: https://github.com/MikeOrtiz/TouchImageView
+          
     - name: JSON
       projects:
         - name: GSON
@@ -267,6 +278,8 @@ categories:
 
     - name: List Views
       projects:
+        - name: Android-ScrollBarPanel
+          url: https://github.com/rno/Android-ScrollBarPanel
         - name: CustomListView
           url: http://listview.android-libraries.com
         - name: DragSortListView
@@ -375,13 +388,8 @@ categories:
           url: https://code.google.com/p/android-active-record/
         - name: Cupboard
           url: https://bitbucket.org/qbusict/cupboard
-        - name: simpleprovider
-          url: https://github.com/Triple-T/simpleprovider
-          
-    - name: Panels
-      projects:
-        - name: Android Sliding Up Panel
-          url: https://github.com/umano/AndroidSlidingUpPanel      
+        - name: SimpleProvider
+          url: http://triple-t.github.io/simpleprovider/
           
     - name: Platforms
       projects:
@@ -444,7 +452,12 @@ categories:
           url: https://mad.cs.fau.de/fasl/
         - name: jnlua-android
           url: https://code.google.com/p/jnlua-android/
-          
+
+    - name: Sliding Panels
+      projects:
+        - name: Android Sliding Up Panel
+          url: https://github.com/umano/AndroidSlidingUpPanel
+
     - name: Social Networking
       projects:
         - name: Bitlyj
@@ -465,10 +478,10 @@ categories:
           
     - name: Toasts
       projects:
-        - name: Crouton
-          url: https://github.com/keyboardsurfer/Crouton
         - name: AppMsg
           url: https://github.com/johnkil/Android-AppMsg
+        - name: Crouton
+          url: https://github.com/keyboardsurfer/Crouton
         - name: MessageBar
           url: http://simonvt.github.io/MessageBar/
 
