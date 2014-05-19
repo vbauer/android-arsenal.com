@@ -157,6 +157,8 @@ categories:
           url: https://github.com/roboguice/roboguice
         - name: Butter Knife
           url: http://jakewharton.github.io/butterknife/
+        - name: Transfuse
+          url: http://androidtransfuse.org/
 
     - name: Design
       projects:
@@ -277,6 +279,8 @@ categories:
           url: https://github.com/nhaarman/ListViewAnimations
         - name: MultiChoiceAdapter
           url: https://github.com/ManuelPeinado/MultiChoiceAdapter
+        - name: Parallax ScrollView and ListView for Android
+          url: https://github.com/nirhart/ParallaxScroll
         - name: PullToRefresh-ListView
           url: https://github.com/erikwt/PullToRefresh-ListView
         - name: StickyListHeaders
@@ -363,6 +367,13 @@ categories:
           url: http://greendao-orm.com
         - name: ActiveRecord for Android
           url: https://code.google.com/p/android-active-record/
+        - name: Cupboard
+          url: https://bitbucket.org/qbusict/cupboard
+          
+    - name: Panels
+      projects:
+        - name: Android Sliding Up Panel
+          url: https://github.com/umano/AndroidSlidingUpPanel      
           
     - name: Platforms
       projects:
@@ -406,6 +417,11 @@ categories:
       projects:
         - name: java-apns
           url: https://github.com/notnoop/java-apns
+          
+    - name: Ratings
+      projects:
+        - name: Discreet App Rate
+          url: https://github.com/PomepuyN/discreet-app-rate      
           
     - name: Reactive Programming
       projects:
