@@ -373,6 +373,8 @@ categories:
           url: https://code.google.com/p/android-active-record/
         - name: Cupboard
           url: https://bitbucket.org/qbusict/cupboard
+        - name: simpleprovider
+          url: https://github.com/Triple-T/simpleprovider
           
     - name: Panels
       projects:
