@@ -112,8 +112,12 @@ categories:
       projects:
         - name: ACRA
           url: https://github.com/ACRA/acra
+        - name: Bugsnag
+          url: https://bugsnag.com/
         - name: Crashlytics
           url: http://try.crashlytics.com
+        - name: Crittercism
+          url: http://www.crittercism.com/
 
     - name: CSV
       projects:
