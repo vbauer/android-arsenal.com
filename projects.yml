@@ -300,6 +300,8 @@ categories:
           url: https://github.com/erikwt/PullToRefresh-ListView
         - name: StickyListHeaders
           url: https://github.com/emilsjolander/StickyListHeaders
+        - name: SuperListview
+          url: https://github.com/dommerq/SuperListview
           
     - name: Logging
       projects:
