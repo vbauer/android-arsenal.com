@@ -292,6 +292,10 @@ categories:
           url: https://github.com/tony19/logback-android
         - name: SLF4J
           url: http://www.slf4j.org
+        - name: Timber
+          url: https://github.com/JakeWharton/timber
+        - name: slf4j-timber
+          url: https://github.com/arcao/slf4j-timber
           
     - name: Maps
       projects:
