@@ -465,6 +465,8 @@ categories:
       projects:
         - name: Crouton
           url: https://github.com/keyboardsurfer/Crouton
+        - name: AppMsg
+          url: https://github.com/johnkil/Android-AppMsg
         - name: MessageBar
           url: http://simonvt.github.io/MessageBar/
 
