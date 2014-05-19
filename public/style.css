@@ -1,6 +1,6 @@
 
 body {
-    font-family: 'Lora', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 .container {
@@ -21,4 +21,13 @@ body {
 
 .yashare-auto-init {
     padding-top: 8px;
+}
+
+.badge {
+    top: -1px;
+    position: relative;
+}
+
+.suggest {
+    text-decoration: underline;
 }

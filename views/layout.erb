@@ -10,7 +10,7 @@
     <title>Android Arsenal</title>
     <link href="favicon.png" rel="shortcut icon">
     <link href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet">
-    <link href='http://fonts.googleapis.com/css?family=Lora&subset=latin,latin-ext,cyrillic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
     <link href="style.css" rel="stylesheet">
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -29,15 +29,12 @@
     <div class="navbar navbar-default navbar-static-top" role="navigation">
         <div class="container">
             <div class="navbar-header">
-                <a class="navbar-brand" href="/">The Android Arsenal</a>
+                <a class="navbar-brand" href="/">The Android Arsenal <span class="badge"><%= @pcount %></span></a>
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="https://github.com/vbauer/android-arsenal.com"
-                           title="Library suggestions can be submitted">
-                            Suggest project
-                        </a>
+                        <a href="https://github.com/vbauer/android-arsenal.com" title="Library suggestions can be submitted" class="suggest">Suggest project</a>
                     </li>
                     <li>
                         <script type="text/javascript" src="//yandex.st/share/share.js"
