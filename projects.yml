@@ -214,6 +214,8 @@ categories:
           url: https://github.com/etsy/AndroidStaggeredGrid
         - name: StaggeredGridView
           url: https://github.com/maurycyw/StaggeredGridView
+        - name: DynamicGrid
+          url: https://github.com/askerov/DynamicGrid
           
     - name: Gyroscope
       projects:
@@ -455,6 +457,10 @@ categories:
           url: http://www.winterwell.com/software/jtwitter.php
         - name: Twitter4J
           url: http://twitter4j.org
+        - name: AndroidSocialNetworks
+          url: https://github.com/antonkrasov/AndroidSocialNetworks
+        - name: scribe-java
+          url: https://github.com/fernandezpablo85/scribe-java
     
     - name: Template Languages
       projects:
