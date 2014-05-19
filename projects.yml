@@ -86,6 +86,8 @@ categories:
           url: https://github.com/chrisbanes/Android-BitmapCache
         - name: DiskLruCache
           url: https://github.com/JakeWharton/DiskLruCache
+        - name: carbonite
+          url: https://github.com/eveliotc/carbonite
           
     - name: Calendars
       projects:
@@ -398,6 +400,8 @@ categories:
           url: https://bitbucket.org/qbusict/cupboard
         - name: SimpleProvider
           url: http://triple-t.github.io/simpleprovider/
+        - name: Persistence
+          url: https://github.com/casidiablo/persistence
           
     - name: Platforms
       projects:
