@@ -271,6 +271,8 @@ categories:
           url: http://listview.android-libraries.com
         - name: DragSortListView
           url: https://github.com/bauerca/drag-sort-listview
+        - name: EnhancedListView
+          url: https://github.com/timroes/EnhancedListView
         - name: FunDapter
           url: http://amigold.github.io/FunDapter/
         - name: LazyList
