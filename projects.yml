@@ -365,7 +365,7 @@ categories:
       projects:
         - name: ActiveAndroid
           url: https://github.com/pardom/ActiveAndroid
-        - name: OrmLight
+        - name: OrmLite
           url: http://ormlite.com
         - name: greenDAO
           url: http://greendao-orm.com
