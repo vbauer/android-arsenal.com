@@ -64,6 +64,15 @@ categories:
         - name: Spoon
           url: https://github.com/square/spoon
 
+    - name: Background Processing
+      projects:
+        - name: Tape
+          url: https://github.com/square/tape
+        - name: Android Priority Job Queue
+          url: https://github.com/path/android-priority-jobqueue
+        - name: Groundy
+          url: https://github.com/telly/groundy
+          
     - name: Backward Compatibility
       projects:
         - name: NineOldAndroids
@@ -513,8 +522,6 @@ categories:
           url: https://code.google.com/p/guava-libraries/
         - name: Okio
           url: https://github.com/square/okio
-        - name: Tape
-          url: https://github.com/square/tape
 
     - name: Validation
       projects:
