@@ -587,6 +587,8 @@ categories:
           url: https://github.com/astuetz/PagerSlidingTabStrip
         - name: ViewPagerIndicator
           url: http://viewpagerindicator.com
+        - name: Android-ParallaxHeaderViewPager
+          url: https://github.com/kmshack/Android-ParallaxHeaderViewPager
 
     - name: XML
       projects:
