@@ -354,6 +354,8 @@ categories:
           url: https://github.com/jenzz/Android-MultiStateListView
         - name: Android-ScrollBarPanel
           url: https://github.com/rno/Android-ScrollBarPanel
+		- name: Android-SlideExpandableListView
+		  url: https://github.com/tjerkw/Android-SlideExpandableListView
         - name: CustomListView
           url: http://listview.android-libraries.com
         - name: DragSortListView
