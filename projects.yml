@@ -549,6 +549,8 @@ categories:
           
     - name: Ratings
       projects:
+        - name: AppRater
+          url: https://github.com/codechimp-org/AppRater    
         - name: Discreet App Rate
           url: https://github.com/PomepuyN/discreet-app-rate      
           
