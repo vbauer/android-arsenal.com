@@ -258,6 +258,8 @@ categories:
           url: http://androidplot.com
         - name: GraphView
           url: http://android-graphview.org
+        - name: TeeChart for Android
+          url: http://www.steema.com/teechart/mobile
 
     - name: Grid Views
       projects:
