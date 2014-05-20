@@ -146,6 +146,8 @@ categories:
           url: http://try.crashlytics.com
         - name: Crittercism
           url: http://www.crittercism.com
+        - name: BugSense
+          url: https://www.bugsense.com/
 
     - name: CSV
       projects:
