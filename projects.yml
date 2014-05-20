@@ -149,7 +149,7 @@ categories:
         - name: Crittercism
           url: http://www.crittercism.com
         - name: BugSense
-          url: https://www.bugsense.com/
+          url: https://www.bugsense.com
 
     - name: CSV
       projects:
@@ -231,6 +231,10 @@ categories:
     
     - name: Graphics
       projects:
+        - name: AndroidCharts
+          url: https://github.com/dacer/AndroidCharts
+        - name: Android-Charts
+          url: https://github.com/limccn/Android-Charts
         - name: AChartEngine
           url: http://www.achartengine.org
         - name: GraphWidget
@@ -330,6 +334,8 @@ categories:
           url: https://github.com/thest1/LazyList/
         - name: ListViewAnimations
           url: https://github.com/nhaarman/ListViewAnimations
+        - name: ListviewFilter
+          url: https://github.com/bhavyahmehta/ListviewFilter
         - name: MultiChoiceAdapter
           url: https://github.com/ManuelPeinado/MultiChoiceAdapter
         - name: Parallax ScrollView and ListView for Android
@@ -351,6 +357,8 @@ categories:
           url: https://github.com/jpardogo/GoogleProgressBar
         - name: ProgressWheel
           url: https://github.com/Todd-Davies/ProgressWheel
+        - name: TH-ProgressButton
+          url: https://github.com/torryharris/TH-ProgressButton
           
     - name: Logging
       projects:
@@ -392,8 +400,12 @@ categories:
 
     - name: Networking
       projects:
+        - name: Async Http Client
+          url: https://github.com/AsyncHttpClient/async-http-client
         - name: DataDroid
           url: https://github.com/foxykeep/DataDroid
+        - name: Http Request
+          url: https://github.com/kevinsawicki/http-request
         - name: Ion
           url: https://github.com/koush/ion
         - name: Loopj
@@ -587,12 +599,12 @@ categories:
 
     - name: View Pagers
       projects:
+        - name: Android-ParallaxHeaderViewPager
+          url: https://github.com/kmshack/Android-ParallaxHeaderViewPager
         - name: PagerSlidingTabStrip
           url: https://github.com/astuetz/PagerSlidingTabStrip
         - name: ViewPagerIndicator
           url: http://viewpagerindicator.com
-        - name: Android-ParallaxHeaderViewPager
-          url: https://github.com/kmshack/Android-ParallaxHeaderViewPager
 
     - name: XML
       projects:
