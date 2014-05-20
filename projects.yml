@@ -46,6 +46,21 @@ categories:
           url: https://github.com/square/mortar
         - name: Spring for Android
           url: http://projects.spring.io/spring-android/
+          
+    - name: Audio
+      projects:
+        - name: Audio Wife
+          url: https://github.com/jaydeepw/audio-wife
+        - name: Patchfield
+          url: https://github.com/google/patchfield
+        - name: PlayerHater
+          url: https://github.com/PRX/PlayerHater
+        - name: tomahawk-android
+          url: https://github.com/tomahawk-player/tomahawk-android
+        - name: TurtlePlayer
+          url: https://github.com/eddturtle/TurtlePlayer
+        - name: Vanilla
+          url: https://github.com/kreed/vanilla
       
     - name: Automation Testing
       projects:
