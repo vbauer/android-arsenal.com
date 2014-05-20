@@ -91,7 +91,7 @@ categories:
         - name: Scandit
           url: http://www.scandit.com/barcode-scanner-sdk/
         - name: ZBar
-          url: http://zbar.sourceforge.net/
+          url: http://zbar.sourceforge.net
           
     - name: Caching
       projects:
@@ -128,11 +128,11 @@ categories:
         - name: ACRA
           url: https://github.com/ACRA/acra
         - name: Bugsnag
-          url: https://bugsnag.com/
+          url: https://bugsnag.com
         - name: Crashlytics
           url: http://try.crashlytics.com
         - name: Crittercism
-          url: http://www.crittercism.com/
+          url: http://www.crittercism.com
 
     - name: CSV
       projects:
@@ -179,7 +179,7 @@ categories:
         - name: Butter Knife
           url: http://jakewharton.github.io/butterknife/
         - name: Transfuse
-          url: http://androidtransfuse.org/
+          url: http://androidtransfuse.org
 
     - name: Design
       projects:
@@ -359,6 +359,8 @@ categories:
       projects:
         - name: Flow
           url: https://github.com/square/flow
+        - name: ParcelableCodeGenerator
+          url: https://github.com/foxykeep/ParcelableCodeGenerator
 
     - name: Networking
       projects:
@@ -405,20 +407,22 @@ categories:
       projects:
         - name: ActiveAndroid
           url: https://github.com/pardom/ActiveAndroid
-        - name: Content Provider Helper
-          url: https://github.com/jenzz/ContentProviderHelper
-        - name: OrmLite
-          url: http://ormlite.com
-        - name: greenDAO
-          url: http://greendao-orm.com
         - name: ActiveRecord for Android
           url: https://code.google.com/p/android-active-record/
+        - name: Content Provider Helper
+          url: https://github.com/jenzz/ContentProviderHelper
+        - name: ContentProvider Generator
+          url: https://github.com/foxykeep/ContentProviderCodeGenerator
         - name: Cupboard
           url: https://bitbucket.org/qbusict/cupboard
-        - name: SimpleProvider
-          url: http://triple-t.github.io/simpleprovider/
+        - name: greenDAO
+          url: http://greendao-orm.com
+        - name: OrmLite
+          url: http://ormlite.com
         - name: Persistence
           url: https://github.com/casidiablo/persistence
+        - name: SimpleProvider
+          url: http://triple-t.github.io/simpleprovider/
           
     - name: Platforms
       projects:
@@ -489,18 +493,18 @@ categories:
 
     - name: Social Networking
       projects:
+        - name: AndroidSocialNetworks
+          url: https://github.com/antonkrasov/AndroidSocialNetworks
         - name: Bitlyj
           url: https://code.google.com/p/bitlyj/
         - name: Facebook SDK
           url: https://developers.facebook.com/docs/android/
         - name: JTwitter
           url: http://www.winterwell.com/software/jtwitter.php
+        - name: Scribe
+          url: https://github.com/fernandezpablo85/scribe-java
         - name: Twitter4J
           url: http://twitter4j.org
-        - name: AndroidSocialNetworks
-          url: https://github.com/antonkrasov/AndroidSocialNetworks
-        - name: scribe-java
-          url: https://github.com/fernandezpablo85/scribe-java
     
     - name: Template Languages
       projects:
@@ -532,10 +536,6 @@ categories:
           url: https://code.google.com/p/guava-libraries/
         - name: Okio
           url: https://github.com/square/okio
-        - name: ContentProvider Generator
-          url: https://github.com/foxykeep/ContentProviderCodeGenerator
-        - name: ParcelableCodeGenerator
-          url: https://github.com/foxykeep/ParcelableCodeGenerator
 
     - name: Validation
       projects:
