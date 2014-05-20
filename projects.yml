@@ -27,12 +27,14 @@ categories:
 
     - name: Analytics
       projects:
+        - name: Capptain
+          url: http://www.capptain.com
+        - name: Countly
+          url: https://count.ly
         - name: Google Analytics
           url: https://developers.google.com/analytics/devguides/collection/android/
         - name: Flurry
           url: http://www.flurry.com
-        - name: Capptain
-          url: http://www.capptain.com
           
     - name: Architecture
       projects:
@@ -503,6 +505,8 @@ categories:
           url: http://triple-t.github.io/simpleprovider/
         - name: Sprinkles
           url: https://github.com/emilsjolander/sprinkles
+        - name: Sugar ORM
+          url: http://satyan.github.io/sugar/
           
     - name: Platforms
       projects:
