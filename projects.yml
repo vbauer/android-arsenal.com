@@ -315,6 +315,11 @@ categories:
           url: https://github.com/FasterXML/jackson-jr
         - name: JSON.simple
           url: https://code.google.com/p/json-simple/
+    
+    - name: Layouts
+      projects:
+        - name: ImageLayout
+          url: https://github.com/ManuelPeinado/ImageLayout
 
     - name: List Views
       projects:
@@ -346,6 +351,8 @@ categories:
           url: https://github.com/emilsjolander/StickyListHeaders
         - name: SuperListview
           url: https://github.com/dommerq/SuperListview
+        - name: Paralloid 
+          url: https://github.com/chrisjenx/Paralloid
           
     - name: Progress Indicators
       projects:
