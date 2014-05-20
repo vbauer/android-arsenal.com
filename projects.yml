@@ -96,8 +96,6 @@ categories:
           url: http://nineoldandroids.com
         - name: Support Library
           url: http://developer.android.com/tools/support-library/index.html
-        - name: StyledDialogs
-          url: https://github.com/inmite/android-styled-dialogs
 
     - name: Bar Codes
       projects:
@@ -218,7 +216,14 @@ categories:
           url: http://androidniceties.tumblr.com
         - name: ICS Apps
           url: http://ics-apps.tumblr.com
-          
+
+    - name: Dialogs
+      projects:
+        - name: afiledialog
+          url: https://code.google.com/p/afiledialog/
+        - name: StyledDialogs
+          url: https://github.com/inmite/android-styled-dialogs
+
     - name: Event Buses
       projects:
         - name: greenrobot/EventBus
@@ -288,12 +293,12 @@ categories:
           
     - name: IDE Plugins
       projects:
-        - name: Otto IntelliJ Plugin
-          url: https://github.com/square/otto-intellij-plugin
-        - name: Dagger IntelliJ Plugin
-          url: https://github.com/square/dagger-intellij-plugin
         - name: ButterKnifeZelezny
           url: https://github.com/inmite/android-butterknife-zelezny
+        - name: Dagger IntelliJ Plugin
+          url: https://github.com/square/dagger-intellij-plugin
+        - name: Otto IntelliJ Plugin
+          url: https://github.com/square/otto-intellij-plugin
         - name: SelectorChapek
           url: https://github.com/inmite/android-selector-chapek
     
@@ -308,16 +313,16 @@ categories:
 
     - name: Image Views
       projects:
+        - name: Android StackBlur
+          url: https://github.com/kikoso/android-stackblur
         - name: PhotoView
           url: https://github.com/chrisbanes/PhotoView
         - name: Smart Image View
           url: https://github.com/loopj/android-smart-image-view
+        - name: Swipeable cards
+          url: https://github.com/kikoso/Swipeable-Cards
         - name: TouchImageView
           url: https://github.com/MikeOrtiz/TouchImageView
-	- name: Android StackBlur
-          url: https://github.com/kikoso/android-stackblur
-	- name: Swipeable cards
-          url: https://github.com/kikoso/Swipeable-Cards
           
     - name: JSON
       projects:
@@ -332,6 +337,8 @@ categories:
     
     - name: Layouts
       projects:
+        - name: Android Empty Layout
+          url: https://github.com/alamkanak/Android-Empty-Layout
         - name: ImageLayout
           url: https://github.com/ManuelPeinado/ImageLayout
 
