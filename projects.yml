@@ -201,6 +201,9 @@ categories:
           url: https://github.com/flavienlaurent/datetimepicker
         - name: android-datepicker
           url: https://github.com/SimonVT/android-datepicker
+        - name: Android-RecurrencePicker
+          url: https://github.com/Shusshu/Android-RecurrencePicker
+          
 
     - name: Demos
       projects:
