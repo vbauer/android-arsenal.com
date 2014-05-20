@@ -7,6 +7,8 @@ If you want to make this world a little bit better you can:
 - Modify **projects.yml**: add some new interesting projects or fix mistakes
 - Send back a pull request
 
+**NB:** Please, check your indentations in text to prevent possible problems with YAML parser.
+
 
 ## Running server locally
 
