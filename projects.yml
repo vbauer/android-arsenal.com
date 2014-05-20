@@ -657,7 +657,7 @@ categories:
         - name: AndroidAssetStudio
           url: https://romannurik.github.io/AndroidAssetStudio
         - name: HockeyKit
-          url: https://github.com/TheRealKerni
+          url: http://hockeykit.net
         - name: GridWichterle
           url: https://github.com/inmite/android-grid-wichterle
         - name: Scalpel
