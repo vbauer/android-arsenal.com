@@ -440,6 +440,8 @@ categories:
           url: https://github.com/osmdroid/osmdroid
         - name: Polaris
           url: https://github.com/cyrilmottier/Polaris
+        - name: map-controller
+          url: https://github.com/kewangtw/map-controller
           
     - name: MIME
       projects:
