@@ -314,6 +314,10 @@ categories:
           url: https://github.com/loopj/android-smart-image-view
         - name: TouchImageView
           url: https://github.com/MikeOrtiz/TouchImageView
+	- name: Android StackBlur
+          url: https://github.com/kikoso/android-stackblur
+	- name: Swipeable cards
+          url: https://github.com/kikoso/Swipeable-Cards
           
     - name: JSON
       projects:
