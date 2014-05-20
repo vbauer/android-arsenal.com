@@ -472,6 +472,8 @@ categories:
           url: https://github.com/casidiablo/persistence
         - name: SimpleProvider
           url: http://triple-t.github.io/simpleprovider/
+        - name: Sprinkles
+          url: https://github.com/emilsjolander/sprinkles
           
     - name: Platforms
       projects:
