@@ -5,8 +5,6 @@ categories:
       projects:
         - name: ActionBarSherlock
           url: http://actionbarsherlock.com
-        - name: Android Action Bar Style Generator
-          url: http://jgilfelt.github.io/android-actionbarstylegenerator
         - name: Extended ActionBar
           url: https://github.com/Takhion/android-extendedactionbar
         - name: FadingActionBar
@@ -193,8 +191,6 @@ categories:
           url: http://www.androiddesign.info
         - name: Android Niceties
           url: http://androidniceties.tumblr.com
-        - name: Android Holo Colors Generator 
-          url: http://android-holo-colors.com
         - name: ICS Apps
           url: http://ics-apps.tumblr.com
           
@@ -325,6 +321,17 @@ categories:
           url: https://github.com/emilsjolander/StickyListHeaders
         - name: SuperListview
           url: https://github.com/dommerq/SuperListview
+          
+    - name: Progress Indicators
+      projects:
+        - name: android-process-button
+          url: https://github.com/dmytrodanylyk/android-process-button
+        - name: Android-ProgressFragment
+          url: https://github.com/johnkil/Android-ProgressFragment
+        - name: GoogleProgressBar
+          url: https://github.com/jpardogo/GoogleProgressBar
+        - name: ProgressWheel
+          url: https://github.com/Todd-Davies/ProgressWheel
           
     - name: Logging
       projects:
@@ -503,6 +510,8 @@ categories:
           url: http://www.winterwell.com/software/jtwitter.php
         - name: Scribe
           url: https://github.com/fernandezpablo85/scribe-java
+        - name: Simple Social Sharing
+          url: https://github.com/nostra13/Android-Simple-Social-Sharing
         - name: Twitter4J
           url: http://twitter4j.org
     
@@ -524,6 +533,15 @@ categories:
         - name: MessageBar
           url: http://simonvt.github.io/MessageBar/
 
+    - name: Tools
+      projects:
+        - name: Android Action Bar Style Generator
+          url: http://jgilfelt.github.io/android-actionbarstylegenerator
+        - name: Android Holo Colors Generator 
+          url: http://android-holo-colors.com
+        - name: HockeyKit
+          url: https://github.com/TheRealKerni
+          
     - name: Utils
       projects:
         - name: Apache Commons Codec
@@ -534,6 +552,8 @@ categories:
           url: https://code.google.com/p/android-query/
         - name: Guava
           url: https://code.google.com/p/guava-libraries/
+        - name: Joda Time
+          url: http://joda-time.sourceforge.net
         - name: Okio
           url: https://github.com/square/okio
 
