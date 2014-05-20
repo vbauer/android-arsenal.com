@@ -352,6 +352,8 @@ categories:
           
     - name: Logging
       projects:
+        - name: hugo
+          url: https://github.com/JakeWharton/hugo
         - name: logback-android
           url: https://github.com/tony19/logback-android
         - name: SLF4J
