@@ -137,6 +137,8 @@ categories:
       projects:
         - name: ColorPickerPreference
           url: https://github.com/attenzione/android-ColorPickerPreference
+        - name: HoloColorPicker
+          url: https://github.com/LarsWerkman/HoloColorPicker
 
     - name: Crash Reports
       projects:
@@ -579,6 +581,8 @@ categories:
           url: http://jgilfelt.github.io/android-actionbarstylegenerator
         - name: Android Holo Colors Generator 
           url: http://android-holo-colors.com
+        - name: AndroidAssetStudio
+          url: https://romannurik.github.io/AndroidAssetStudio
         - name: HockeyKit
           url: https://github.com/TheRealKerni
           
