@@ -503,6 +503,8 @@ categories:
           url: https://github.com/chrisbanes/Android-PullToRefresh
         - name: ActionBar-PullToRefresh
           url: https://github.com/chrisbanes/ActionBar-PullToRefresh
+        - name: SwipeRefreshLayout (v4 appcompat)
+          url: http://developer.android.com/reference/android/support/v4/widget/SwipeRefreshLayout.html
           
     - name: Purchases
       projects:
