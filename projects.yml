@@ -367,6 +367,8 @@ categories:
           url: https://github.com/dommerq/SuperListview
         - name: Paralloid 
           url: https://github.com/chrisjenx/Paralloid
+        - name: PinnedSectionListView
+          url: https://github.com/beworker/pinned-section-listview
           
     - name: Progress Indicators
       projects:
