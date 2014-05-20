@@ -96,6 +96,8 @@ categories:
           url: http://nineoldandroids.com
         - name: Support Library
           url: http://developer.android.com/tools/support-library/index.html
+        - name: StyledDialogs
+          url: https://github.com/inmite/android-styled-dialogs
 
     - name: Bar Codes
       projects:
@@ -290,6 +292,10 @@ categories:
           url: https://github.com/square/otto-intellij-plugin
         - name: Dagger IntelliJ Plugin
           url: https://github.com/square/dagger-intellij-plugin
+        - name: ButterKnifeZelezny
+          url: https://github.com/inmite/android-butterknife-zelezny
+        - name: SelectorChapek
+          url: https://github.com/inmite/android-selector-chapek
     
     - name: Image Loaders
       projects:
@@ -591,6 +597,8 @@ categories:
           url: https://romannurik.github.io/AndroidAssetStudio
         - name: HockeyKit
           url: https://github.com/TheRealKerni
+        - name: GridWichterle
+          url: https://github.com/inmite/android-grid-wichterle
           
     - name: Utils
       projects:
@@ -613,6 +621,8 @@ categories:
           url: https://github.com/throrin19/Android-Validator
         - name: Android Saripaar
           url: https://github.com/ragunathjawahar/android-saripaar
+        - name: ValidationKomensky
+          url: https://github.com/inmite/android-validation-komensky
 
     - name: View Pagers
       projects:
