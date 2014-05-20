@@ -382,6 +382,8 @@ categories:
           url: https://github.com/chrisjenx/Paralloid
         - name: PinnedSectionListView
           url: https://github.com/beworker/pinned-section-listview
+        - name: SwipeListView
+          url: https://github.com/47deg/android-swipelistview
           
     - name: Progress Indicators
       projects:
