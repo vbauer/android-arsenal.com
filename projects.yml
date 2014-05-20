@@ -109,6 +109,11 @@ categories:
           url: http://www.scandit.com/barcode-scanner-sdk/
         - name: ZBar
           url: http://zbar.sourceforge.net
+
+    - name: Buttons
+      projects:
+        - name: Flat Button
+          url: https://github.com/hoang8f/android-flat-button
           
     - name: Caching
       projects:
