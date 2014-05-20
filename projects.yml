@@ -68,6 +68,8 @@ categories:
           url: https://github.com/square/fest-android
         - name: Android Mock
           url: http://code.google.com/p/android-mock
+        - name: Espresso (android test kit)
+          url: https://code.google.com/p/android-test-kit/
         - name: JUnit
           url: http://junit.org
         - name: Mockito
