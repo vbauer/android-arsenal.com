@@ -303,6 +303,8 @@ categories:
           url: https://github.com/inmite/android-butterknife-zelezny
         - name: Dagger IntelliJ Plugin
           url: https://github.com/square/dagger-intellij-plugin
+        - name: Android for Maven Eclipse
+          url: http://rgladwell.github.io/m2e-android
         - name: Otto IntelliJ Plugin
           url: https://github.com/square/otto-intellij-plugin
         - name: SelectorChapek
