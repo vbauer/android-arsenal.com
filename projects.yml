@@ -142,6 +142,17 @@ categories:
         - name: HoloColorPicker
           url: https://github.com/LarsWerkman/HoloColorPicker
 
+    - name: Content Providers
+      projects:
+        - name: Content Provider Helper
+          url: https://github.com/jenzz/ContentProviderHelper
+        - name: ContentProvider Generator
+          url: https://github.com/foxykeep/ContentProviderCodeGenerator      
+        - name: OrmLiteContentProvider
+          url: https://github.com/jakenjarvis/Android-OrmLiteContentProvider
+        - name: SimpleProvider
+          url: http://triple-t.github.io/simpleprovider/
+      
     - name: Crash Reports
       projects:
         - name: ACRA
@@ -349,6 +360,8 @@ categories:
           url: https://github.com/alamkanak/Android-Empty-Layout
         - name: ImageLayout
           url: https://github.com/ManuelPeinado/ImageLayout
+        - name: FlatUI
+          url: https://github.com/eluleci/FlatUI
 
     - name: List Views
       projects:
@@ -356,7 +369,7 @@ categories:
           url: https://github.com/jenzz/Android-MultiStateListView
         - name: Android-ScrollBarPanel
           url: https://github.com/rno/Android-ScrollBarPanel
-        - name: Android-SlideExpandableListView
+        - name: SlideExpandableListView
           url: https://github.com/tjerkw/Android-SlideExpandableListView
         - name: CustomListView
           url: http://listview.android-libraries.com
@@ -364,33 +377,33 @@ categories:
           url: https://github.com/bauerca/drag-sort-listview
         - name: EnhancedListView
           url: https://github.com/timroes/EnhancedListView
-        - name: FunDapter
-          url: http://amigold.github.io/FunDapter/
         - name: LazyList
           url: https://github.com/thest1/LazyList/
-        - name: LetterSectionList
-          url: https://github.com/tallan/Letter-Section-List/
         - name: ListViewAnimations
           url: https://github.com/nhaarman/ListViewAnimations
-        - name: ListviewFilter
-          url: https://github.com/bhavyahmehta/ListviewFilter
-        - name: MultiChoiceAdapter
-          url: https://github.com/ManuelPeinado/MultiChoiceAdapter
-        - name: Parallax ScrollView and ListView for Android
-          url: https://github.com/nirhart/ParallaxScroll
-        - name: PullToRefresh-ListView
-          url: https://github.com/erikwt/PullToRefresh-ListView
-        - name: StickyListHeaders
-          url: https://github.com/emilsjolander/StickyListHeaders
         - name: SuperListview
           url: https://github.com/dommerq/SuperListview
-        - name: Paralloid 
-          url: https://github.com/chrisjenx/Paralloid
-        - name: PinnedSectionListView
-          url: https://github.com/beworker/pinned-section-listview
         - name: SwipeListView
           url: https://github.com/47deg/android-swipelistview
           
+    - name: List View Adapters
+      projects:
+        - name: FunDapter
+          url: http://amigold.github.io/FunDapter/
+        - name: MultiChoiceAdapter
+          url: https://github.com/ManuelPeinado/MultiChoiceAdapter
+
+    - name: List View Sections
+      projects:
+        - name: ListviewFilter
+          url: https://github.com/bhavyahmehta/ListviewFilter
+        - name: LetterSectionList
+          url: https://github.com/tallan/Letter-Section-List/
+        - name: PinnedSectionListView
+          url: https://github.com/beworker/pinned-section-listview
+        - name: StickyListHeaders
+          url: https://github.com/emilsjolander/StickyListHeaders
+
     - name: Progress Indicators
       projects:
         - name: android-process-button
@@ -408,14 +421,14 @@ categories:
       projects:
         - name: hugo
           url: https://github.com/JakeWharton/hugo
-        - name: logback-android
-          url: https://github.com/tony19/logback-android
         - name: SLF4J
           url: http://www.slf4j.org
-        - name: Timber
-          url: https://github.com/JakeWharton/timber
         - name: slf4j-timber
           url: https://github.com/arcao/slf4j-timber
+        - name: logback-android
+          url: https://github.com/tony19/logback-android
+        - name: Timber
+          url: https://github.com/JakeWharton/timber
           
     - name: Maps
       projects:
@@ -446,18 +459,12 @@ categories:
       projects:
         - name: Async Http Client
           url: https://github.com/AsyncHttpClient/async-http-client
-        - name: DataDroid
-          url: https://github.com/foxykeep/DataDroid
-        - name: Http Request
-          url: https://github.com/kevinsawicki/http-request
         - name: Ion
           url: https://github.com/koush/ion
         - name: Loopj
           url: http://loopj.com/android-async-http/
         - name: OkHttp
           url: https://github.com/square/okhttp
-        - name: Retrofit
-          url: https://github.com/square/retrofit
         - name: RoboSpice
           url: https://github.com/stephanenicolas/robospice
         - name: Volley
@@ -493,10 +500,6 @@ categories:
           url: https://github.com/pardom/ActiveAndroid
         - name: ActiveRecord for Android
           url: https://code.google.com/p/android-active-record/
-        - name: Content Provider Helper
-          url: https://github.com/jenzz/ContentProviderHelper
-        - name: ContentProvider Generator
-          url: https://github.com/foxykeep/ContentProviderCodeGenerator
         - name: Cupboard
           url: https://bitbucket.org/qbusict/cupboard
         - name: greenDAO
@@ -505,13 +508,18 @@ categories:
           url: http://ormlite.com
         - name: Persistence
           url: https://github.com/casidiablo/persistence
-        - name: SimpleProvider
-          url: http://triple-t.github.io/simpleprovider/
         - name: Sprinkles
           url: https://github.com/emilsjolander/sprinkles
         - name: Sugar ORM
           url: http://satyan.github.io/sugar/
           
+    - name: Parallax List Views
+      projects:
+        - name: Parallax ScrollView and ListView for Android
+          url: https://github.com/nirhart/ParallaxScroll
+        - name: Paralloid 
+          url: https://github.com/chrisjenx/Paralloid      
+      
     - name: Platforms
       projects:
         - name: Adobe AIR
@@ -542,6 +550,8 @@ categories:
           url: https://github.com/chrisbanes/Android-PullToRefresh
         - name: ActionBar-PullToRefresh
           url: https://github.com/chrisbanes/ActionBar-PullToRefresh
+        - name: PullToRefresh-ListView
+          url: https://github.com/erikwt/PullToRefresh-ListView
         - name: SwipeRefreshLayout (v4 appcompat)
           url: http://developer.android.com/reference/android/support/v4/widget/SwipeRefreshLayout.html
           
@@ -568,7 +578,16 @@ categories:
       projects:
         - name: RxJava
           url: https://github.com/Netflix/RxJava
-                    
+
+    - name: REST
+      projects:
+        - name: DataDroid
+          url: https://github.com/foxykeep/DataDroid
+        - name: Http Request
+          url: https://github.com/kevinsawicki/http-request
+        - name: Retrofit
+          url: https://github.com/square/retrofit
+
     - name: Scripting
       projects:
         - name: android-scripting
@@ -583,7 +602,7 @@ categories:
         - name: Android Sliding Up Panel
           url: https://github.com/umano/AndroidSlidingUpPanel
 
-    - name: Social Networking
+    - name: Social Networks
       projects:
         - name: AndroidSocialNetworks
           url: https://github.com/antonkrasov/AndroidSocialNetworks
@@ -630,6 +649,8 @@ categories:
           url: https://github.com/TheRealKerni
         - name: GridWichterle
           url: https://github.com/inmite/android-grid-wichterle
+        - name: Scalpel
+          url: https://github.com/JakeWharton/scalpel
           
     - name: Utils
       projects:
@@ -657,7 +678,7 @@ categories:
 
     - name: View Pagers
       projects:
-        - name: Android-ParallaxHeaderViewPager
+        - name: ParallaxHeaderViewPager
           url: https://github.com/kmshack/Android-ParallaxHeaderViewPager
         - name: PagerSlidingTabStrip
           url: https://github.com/astuetz/PagerSlidingTabStrip
