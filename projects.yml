@@ -362,6 +362,8 @@ categories:
           url: http://amigold.github.io/FunDapter/
         - name: LazyList
           url: https://github.com/thest1/LazyList/
+        - name: LetterSectionList
+          url: https://github.com/tallan/Letter-Section-List/
         - name: ListViewAnimations
           url: https://github.com/nhaarman/ListViewAnimations
         - name: ListviewFilter
