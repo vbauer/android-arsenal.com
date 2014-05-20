@@ -166,6 +166,8 @@ categories:
           url: https://github.com/harism/android_page_curl
         - name: android-flip
           url: https://github.com/openaphid/android-flip
+        - name: android-FlipView
+          url: https://github.com/emilsjolander/android-FlipView
               
     - name: Date Pickers
       projects:
