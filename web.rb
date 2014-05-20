@@ -1,6 +1,7 @@
 require 'sinatra'
 require 'yaml'
 require 'set'
+require 'digest/sha1'
 
 set :public_folder, 'public'
 
@@ -32,6 +33,7 @@ end
 
 class Application < Sinatra::Base
     @@index = nil
+    @@index_etag = nil
     
     configure do
         use Rack::Deflater
@@ -46,8 +48,12 @@ class Application < Sinatra::Base
             Data::init
             @categories = Data::categories
             @pcount = Data::pcount
+            
             @@index = erb :index
+            @@index_etag = Digest::SHA1.hexdigest(@@index)
         end
+        
+        etag @@index_etag
         @@index
     end
     
