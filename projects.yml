@@ -223,6 +223,8 @@ categories:
           url: https://code.google.com/p/afiledialog/
         - name: StyledDialogs
           url: https://github.com/inmite/android-styled-dialogs
+        - name: DirectoryChooser
+          url: https://github.com/passy/Android-DirectoryChooser
 
     - name: Event Buses
       projects:
