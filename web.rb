@@ -1,9 +1,7 @@
 require 'sinatra'
 require 'yaml'
 require 'set'
-require 'digest/sha1'
-
-set :public_folder, 'public'
+require 'rack/cache'
 
 class Data
     @@pcount = 0
@@ -32,13 +30,26 @@ class Data
 end
 
 class Application < Sinatra::Base
-    @@index = nil
-    @@index_etag = nil
     
+    @@index = nil
+            
     configure do
+        set :public_folder, File.dirname(__FILE__) + '/public'
+        set :sessions, false
+        set :start_time, Time.now
+
+        use Rack::Cache
+        use Rack::ConditionalGet
+        use Rack::ETag
         use Rack::Deflater
     end
  
+    before do 
+        last_modified settings.start_time
+        etag settings.start_time.to_s
+        cache_control
+    end
+
     not_found do
         erb :not_found
     end
@@ -48,12 +59,9 @@ class Application < Sinatra::Base
             Data::init
             @categories = Data::categories
             @pcount = Data::pcount
-            
             @@index = erb :index
-            @@index_etag = Digest::SHA1.hexdigest(@@index)
         end
         
-        etag @@index_etag
         @@index
     end
     
