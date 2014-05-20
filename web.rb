@@ -20,7 +20,9 @@ class Data
             data = YAML.load_file("projects.yml")['categories']
             data.each do |d|
                 d['name'].split(',').each do |c|
-                    projects = d['projects']
+                    projects = d['projects'].sort! {
+                        |a,b| a['name'].downcase <=> b['name'].downcase
+                    }
                     @@pcount += projects.size
                     @@categories[c.strip].concat(projects)
                 end

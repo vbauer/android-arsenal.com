@@ -112,8 +112,12 @@ categories:
 
     - name: Buttons
       projects:
+        - name: android-process-button
+          url: https://github.com/dmytrodanylyk/android-process-button
         - name: Flat Button
           url: https://github.com/hoang8f/android-flat-button
+        - name: TH-ProgressButton
+          url: https://github.com/torryharris/TH-ProgressButton
           
     - name: Caching
       projects:
@@ -406,21 +410,21 @@ categories:
           url: https://github.com/tallan/Letter-Section-List/
         - name: PinnedSectionListView
           url: https://github.com/beworker/pinned-section-listview
+        - name: StickyGridHeaders
+          url: http://tonicartos.github.io/StickyGridHeaders/
         - name: StickyListHeaders
           url: https://github.com/emilsjolander/StickyListHeaders
+        - name: StickyScrollViewItems
+          url: https://github.com/emilsjolander/StickyScrollViewItems    
 
     - name: Progress Indicators
       projects:
-        - name: android-process-button
-          url: https://github.com/dmytrodanylyk/android-process-button
         - name: Android-ProgressFragment
           url: https://github.com/johnkil/Android-ProgressFragment
         - name: GoogleProgressBar
           url: https://github.com/jpardogo/GoogleProgressBar
         - name: ProgressWheel
           url: https://github.com/Todd-Davies/ProgressWheel
-        - name: TH-ProgressButton
-          url: https://github.com/torryharris/TH-ProgressButton
           
     - name: Logging
       projects:
@@ -557,7 +561,7 @@ categories:
           url: https://github.com/chrisbanes/ActionBar-PullToRefresh
         - name: PullToRefresh-ListView
           url: https://github.com/erikwt/PullToRefresh-ListView
-        - name: SwipeRefreshLayout (v4 appcompat)
+        - name: SwipeRefreshLayout
           url: http://developer.android.com/reference/android/support/v4/widget/SwipeRefreshLayout.html
           
     - name: Purchases
@@ -606,6 +610,8 @@ categories:
       projects:
         - name: Android Sliding Up Panel
           url: https://github.com/umano/AndroidSlidingUpPanel
+        - name: SlidingLayer 
+          url: https://github.com/6wunderkinder/android-sliding-layer-lib
 
     - name: Social Networks
       projects:
@@ -623,7 +629,7 @@ categories:
           url: https://github.com/nostra13/Android-Simple-Social-Sharing
         - name: Twitter4J
           url: http://twitter4j.org
-    
+          
     - name: Template Languages
       projects:
         - name: Chunk
