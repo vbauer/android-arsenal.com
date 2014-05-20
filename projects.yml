@@ -90,6 +90,8 @@ categories:
           url: http://www.onbarcode.com/products/android_barcode/
         - name: Scandit
           url: http://www.scandit.com/barcode-scanner-sdk/
+        - name: ZBar
+          url: http://zbar.sourceforge.net/
           
     - name: Caching
       projects:
@@ -530,6 +532,10 @@ categories:
           url: https://code.google.com/p/guava-libraries/
         - name: Okio
           url: https://github.com/square/okio
+        - name: ContentProvider Generator
+          url: https://github.com/foxykeep/ContentProviderCodeGenerator
+        - name: ParcelableCodeGenerator
+          url: https://github.com/foxykeep/ParcelableCodeGenerator
 
     - name: Validation
       projects:
