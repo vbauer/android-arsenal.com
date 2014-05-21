@@ -475,8 +475,6 @@ categories:
       projects:
         - name: Flow
           url: https://github.com/square/flow
-        - name: ParcelableCodeGenerator
-          url: https://github.com/foxykeep/ParcelableCodeGenerator
 
     - name: Networking
       projects:
@@ -540,6 +538,18 @@ categories:
           url: https://github.com/nirhart/ParallaxScroll
         - name: Paralloid 
           url: https://github.com/chrisjenx/Paralloid      
+           
+    - name: Parcelables
+      projects:
+        - name: Android AutoValue
+          url: https://github.com/frankiesardo/android-auto-value
+        - name: ParcelableCodeGenerator
+          url: https://github.com/foxykeep/ParcelableCodeGenerator
+        - name: Parcelabler
+          url: http://www.parcelabler.com/
+        - name: Parceler
+          url: https://github.com/johncarl81/parceler
+          
       
     - name: Platforms
       projects:
