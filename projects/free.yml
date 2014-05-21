@@ -556,7 +556,9 @@ categories:
           url: https://github.com/emilsjolander/sprinkles
         - name: Sugar ORM
           url: http://satyan.github.io/sugar/
-          
+        - name: Torch
+          url: https://github.com/brightify/torch
+    
     - name: Parallax List Views
       projects:
         - name: Parallax ScrollView and ListView for Android
