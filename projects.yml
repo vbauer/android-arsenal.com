@@ -330,6 +330,15 @@ categories:
         - name: SelectorChapek
           url: https://github.com/inmite/android-selector-chapek
     
+    - name: Image Croppers
+      projects:
+        - name: Android CropImage
+          url: https://github.com/lvillani/android-cropimage
+        - name: android-crop
+          url: https://github.com/jdamcd/android-crop
+        - name: Cropper
+          url: https://github.com/edmodo/cropper
+          
     - name: Image Loaders
       projects:
         - name: Picasso
@@ -343,6 +352,8 @@ categories:
       projects:
         - name: Android StackBlur
           url: https://github.com/kikoso/android-stackblur
+        - name: ImageViewZoom
+          url: https://github.com/sephiroth74/ImageViewZoom
         - name: PhotoView
           url: https://github.com/chrisbanes/PhotoView
         - name: Smart Image View
@@ -378,18 +389,20 @@ categories:
           url: https://github.com/jenzz/Android-MultiStateListView
         - name: Android-ScrollBarPanel
           url: https://github.com/rno/Android-ScrollBarPanel
-        - name: SlideExpandableListView
-          url: https://github.com/tjerkw/Android-SlideExpandableListView
         - name: CustomListView
           url: http://listview.android-libraries.com
         - name: DragSortListView
           url: https://github.com/bauerca/drag-sort-listview
         - name: EnhancedListView
           url: https://github.com/timroes/EnhancedListView
+        - name: Horizontal Variable ListView
+          url: https://github.com/sephiroth74/HorizontalVariableListView
         - name: LazyList
           url: https://github.com/thest1/LazyList/
         - name: ListViewAnimations
           url: https://github.com/nhaarman/ListViewAnimations
+        - name: SlideExpandableListView
+          url: https://github.com/tjerkw/Android-SlideExpandableListView
         - name: SuperListview
           url: https://github.com/dommerq/SuperListview
         - name: SwipeListView
