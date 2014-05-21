@@ -228,6 +228,8 @@ categories:
           url: http://jakewharton.github.io/butterknife/
         - name: Transfuse
           url: http://androidtransfuse.org
+        - name: Stabbed Android
+          url: http://psdev.de/stabbed-android/
 
     - name: Design
       projects:
@@ -252,6 +254,8 @@ categories:
           url: https://github.com/inmite/android-styled-dialogs
         - name: DirectoryChooser
           url: https://github.com/passy/Android-DirectoryChooser
+        - name: LicensesDialog
+          url: http://psdev.de/LicensesDialog/
 
     - name: Event Buses
       projects:
@@ -456,6 +460,8 @@ categories:
           url: https://github.com/tony19/logback-android
         - name: Timber
           url: https://github.com/JakeWharton/timber
+        - name: SLF4J Android Logger
+          url: http://psdev.de/slf4j-android-logger/
           
     - name: Maps
       projects:
@@ -710,6 +716,8 @@ categories:
           url: https://github.com/ragunathjawahar/android-saripaar
         - name: ValidationKomensky
           url: https://github.com/inmite/android-validation-komensky
+        - name: FormValidations
+          url: http://psdev.de/FormValidations/
           
     - name: Video
       projects:
