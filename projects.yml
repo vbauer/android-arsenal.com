@@ -703,6 +703,19 @@ categories:
           url: https://github.com/ragunathjawahar/android-saripaar
         - name: ValidationKomensky
           url: https://github.com/inmite/android-validation-komensky
+          
+    - name: Video
+      projects:
+        - name: AndroidFFmpeg
+          url: https://github.com/appunite/AndroidFFmpeg
+        - name: ijkplayer
+          url: https://github.com/bbcallen/ijkplayer
+        - name: libstreaming
+          url: https://github.com/fyhertz/libstreaming
+        - name: Vitamio
+          url: https://github.com/yixia/VitamioBundle/
+        - name: YouTube Android Player
+          url: https://developers.google.com/youtube/android/player/
 
     - name: View Pagers
       projects:
