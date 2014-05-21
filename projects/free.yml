@@ -361,6 +361,8 @@ categories:
           url: https://github.com/kikoso/Swipeable-Cards
         - name: TouchImageView
           url: https://github.com/MikeOrtiz/TouchImageView
+        - name: KenBurnsView
+          url: https://github.com/flavioarfaria/KenBurnsView
           
     - name: JSON
       projects:
