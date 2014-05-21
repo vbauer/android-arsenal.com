@@ -185,6 +185,8 @@ categories:
           url: http://www.crittercism.com
         - name: BugSense
           url: https://www.bugsense.com
+        - name: HockeyApp
+          url: http://www.hockeyapp.net
 
     - name: CSV
       projects:
