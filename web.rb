@@ -45,7 +45,7 @@ class Application < Sinatra::Base
     end
 
     not_found do
-        @not_found_page = erb :not_found
+        @not_found_page ||= erb :not_found
     end
 
     get "/" do
