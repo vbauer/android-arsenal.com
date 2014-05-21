@@ -680,6 +680,11 @@ categories:
           url: http://www.x5software.com/chunk/
         - name: Phrase
           url: https://github.com/square/phrase
+
+    - name: TextViews
+      projects:
+        - name: AnyTextView
+          url: https://github.com/hanspeide/anytextview
           
     - name: Toasts
       projects:
