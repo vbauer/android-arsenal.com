@@ -485,6 +485,12 @@ categories:
           url: https://github.com/cyrilmottier/Polaris
         - name: map-controller
           url: https://github.com/kewangtw/map-controller
+        - name: android-maps-utils
+          url: https://github.com/googlemaps/android-maps-utils
+        - name: android-maps-extensions
+          url: https://github.com/mg6maciej/android-maps-extensions
+        - name: clusterkraf
+          url: https://github.com/twotoasters/clusterkraf
           
     - name: MIME
       projects:
