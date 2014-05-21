@@ -575,6 +575,8 @@ categories:
       projects:
         - name: java-apns
           url: https://github.com/notnoop/java-apns
+        - name: Amazon Device Messaging
+          url: https://developer.amazon.com/appsandservices/apis/engage/device-messaging
           
     - name: Ratings
       projects:
