@@ -606,7 +606,20 @@ categories:
           url: https://github.com/kevinsawicki/http-request
         - name: Retrofit
           url: https://github.com/square/retrofit
- 
+
+    - name: Security
+      projects:
+        - name: SQLCipher
+          url: http://sqlcipher.net/sqlcipher-for-android/
+        - name: NetCipher (Onionkit)
+          url: https://github.com/guardianproject/NetCipher
+        - name: Spongy Castle
+          url: https://rtyley.github.io/spongycastle/
+        - name: Secure-Preferences
+          url: https://github.com/scottyab/secure-preferences
+        - name: AndroidPinning
+          url: https://github.com/moxie0/AndroidPinning
+
     - name: Scripting
       projects:
         - name: android-scripting
