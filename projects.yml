@@ -170,6 +170,8 @@ categories:
           url: https://github.com/jakenjarvis/Android-OrmLiteContentProvider
         - name: SimpleProvider
           url: http://triple-t.github.io/simpleprovider/
+        - name: ProviGen
+          url: https://github.com/TimotheeJeannin/ProviGen
       
     - name: Crash Reports
       projects:
