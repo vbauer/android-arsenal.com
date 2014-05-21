@@ -130,10 +130,12 @@ categories:
           
     - name: Calendars
       projects:
-        - name: MFCalendarView
-          url: https://github.com/MustafaFerhan/MFCalendarView
+        - name: Android-RecurrencePicker
+          url: https://github.com/Shusshu/Android-RecurrencePicker
         - name: ExtendedCalendarView
           url: https://github.com/tyczj/ExtendedCalendarView
+        - name: MFCalendarView
+          url: https://github.com/MustafaFerhan/MFCalendarView
           
     - name: Cards
       projects:
@@ -207,10 +209,7 @@ categories:
         - name: DateTimePicker
           url: https://github.com/flavienlaurent/datetimepicker
         - name: android-datepicker
-          url: https://github.com/SimonVT/android-datepicker
-        - name: Android-RecurrencePicker
-          url: https://github.com/Shusshu/Android-RecurrencePicker
-          
+          url: https://github.com/SimonVT/android-datepicker          
 
     - name: Demos
       projects:
@@ -761,5 +760,9 @@ categories:
         
     - name: Weather
       projects:
+        - name: Android-wunderground-client
+          url: https://github.com/47deg/android-wunderground-client
         - name: Weatherlib
           url: https://github.com/survivingwithandroid/WeatherLib
+        - name: YWeatherGetter4a
+          url: https://github.com/zh-wang/YWeatherGetter4a
