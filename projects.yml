@@ -498,6 +498,8 @@ categories:
       projects:
         - name: Async Http Client
           url: https://github.com/AsyncHttpClient/async-http-client
+        - name: APL
+          url: https://github.com/shouldit/android-proxy
         - name: Ion
           url: https://github.com/koush/ion
         - name: Loopj
