@@ -171,6 +171,8 @@ categories:
       projects:
         - name: ACRA
           url: https://github.com/ACRA/acra
+        - name: Crashlytics
+          url: https://crashlytics.com
 
     - name: CSV
       projects:
