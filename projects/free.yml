@@ -147,7 +147,7 @@ categories:
         - name: android-change-log
           url: https://code.google.com/p/android-change-log/
     
-    - name: Cloud Storage
+    - name: Cloud Storages
       projects:
         - name: Driven
           url: https://github.com/bingzer/driven
