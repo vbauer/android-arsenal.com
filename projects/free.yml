@@ -27,14 +27,8 @@ categories:
 
     - name: Analytics
       projects:
-        - name: Capptain
-          url: http://www.capptain.com
-        - name: Countly
-          url: https://count.ly
         - name: Google Analytics
           url: https://developers.google.com/analytics/devguides/collection/android/
-        - name: Flurry
-          url: http://www.flurry.com
           
     - name: Architecture
       projects:
@@ -105,8 +99,6 @@ categories:
           url: http://code.google.com/p/zxing/
         - name: Android Barcode Generator
           url: http://www.onbarcode.com/products/android_barcode/
-        - name: Scandit
-          url: http://www.scandit.com/barcode-scanner-sdk/
         - name: ZBar
           url: http://zbar.sourceforge.net
 
@@ -177,16 +169,6 @@ categories:
       projects:
         - name: ACRA
           url: https://github.com/ACRA/acra
-        - name: Bugsnag
-          url: https://bugsnag.com
-        - name: Crashlytics
-          url: http://try.crashlytics.com
-        - name: Crittercism
-          url: http://www.crittercism.com
-        - name: BugSense
-          url: https://www.bugsense.com
-        - name: HockeyApp
-          url: http://www.hockeyapp.net
 
     - name: CSV
       projects:
@@ -291,8 +273,6 @@ categories:
           url: https://github.com/limccn/Android-Charts
         - name: AChartEngine
           url: http://www.achartengine.org
-        - name: GraphWidget
-          url: http://graphwidget.android-libraries.com
         - name: HoloGraphLibrary
           url: https://bitbucket.org/danielnadeau/holographlibrary/wiki/Home
         - name: AFreeChart
@@ -301,8 +281,6 @@ categories:
           url: http://androidplot.com
         - name: GraphView
           url: http://android-graphview.org
-        - name: TeeChart for Android
-          url: http://www.steema.com/teechart/mobile
 
     - name: Grid Views
       projects:
@@ -408,8 +386,6 @@ categories:
           url: https://github.com/jenzz/Android-MultiStateListView
         - name: Android-ScrollBarPanel
           url: https://github.com/rno/Android-ScrollBarPanel
-        - name: CustomListView
-          url: http://listview.android-libraries.com
         - name: DragSortListView
           url: https://github.com/bauerca/drag-sort-listview
         - name: EnhancedListView
@@ -475,8 +451,6 @@ categories:
           
     - name: Maps
       projects:
-        - name: mAppWidget
-          url: http://mapp.android-libraries.com
         - name: MapNavigator
           url: https://github.com/tyczj/MapNavigator
         - name: osmdroid
@@ -517,8 +491,6 @@ categories:
 
     - name: OCR Engines
       projects:
-        - name: ABBYY Mobile OCR Engine
-          url: http://www.abbyy.com/mobileocr/android/
         - name: android-ocr
           url: https://github.com/rmtheis/android-ocr
         - name: Tesseract
@@ -575,8 +547,6 @@ categories:
           url: http://coronalabs.com/products/corona-sdk/
         - name: PhoneGap
           url: http://phonegap.com
-        - name: Unity
-          url: http://unity3d.com
           
     - name: Protocol Buffer
       projects:
