@@ -49,6 +49,9 @@ categories:
       projects:
         - name: mAppWidget
           url: http://mapp.android-libraries.com
+        - name: Nutiteq 3D Maps
+          url: http://nutiteq.github.io
+
 
     - name: MBaaS
       projects:
