@@ -9,6 +9,8 @@ categories:
           url: https://github.com/Takhion/android-extendedactionbar
         - name: FadingActionBar
           url: https://github.com/ManuelPeinado/FadingActionBar
+        - name: GlassActionBar
+          url: https://github.com/ManuelPeinado/GlassActionBar
         - name: v7 appcompat library
           url: http://developer.android.com/tools/support-library/features.html#v7-appcompat
           
@@ -294,6 +296,8 @@ categories:
           url: https://github.com/maurycyw/StaggeredGridView
         - name: DynamicGrid
           url: https://github.com/askerov/DynamicGrid
+        - name: PagingGridView
+          url: https://github.com/nicolasjafelle/PagingGridView
           
     - name: Gyroscope
       projects:
@@ -404,6 +408,8 @@ categories:
           url: https://github.com/nhaarman/ListViewAnimations
         - name: SlideExpandableListView
           url: https://github.com/tjerkw/Android-SlideExpandableListView
+        - name: PagingListView
+          url: https://github.com/nicolasjafelle/PagingListView
         - name: SuperListview
           url: https://github.com/dommerq/SuperListview
         - name: SwipeListView
