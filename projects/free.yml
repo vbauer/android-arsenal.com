@@ -531,6 +531,8 @@ categories:
           url: https://github.com/emilsjolander/sprinkles
         - name: Sugar ORM
           url: http://satyan.github.io/sugar/
+        - name: DbQuery
+          url: https://github.com/bingzer/dbquery
           
     - name: Parallax List Views
       projects:
@@ -774,3 +776,8 @@ categories:
           url: https://github.com/survivingwithandroid/WeatherLib
         - name: YWeatherGetter4a
           url: https://github.com/zh-wang/YWeatherGetter4a
+    
+    - name: Cloud Storage
+      projects:
+        - name: Driven
+          url: https://github.com/bingzer/driven
