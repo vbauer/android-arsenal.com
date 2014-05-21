@@ -687,7 +687,7 @@ categories:
         - name: Phrase
           url: https://github.com/square/phrase
 
-    - name: TextViews
+    - name: Text Views
       projects:
         - name: AnyTextView
           url: https://github.com/hanspeide/anytextview
