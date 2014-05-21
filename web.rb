@@ -2,8 +2,6 @@ require 'sinatra'
 require 'yaml'
 require 'set'
 require 'rack/cache'
-require 'erb'
-require 'ostruct'
 
 class DataContext
     attr_reader :count, :categories
