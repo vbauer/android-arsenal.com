@@ -258,6 +258,8 @@ categories:
           url: https://github.com/passy/Android-DirectoryChooser
         - name: LicensesDialog
           url: http://psdev.de/LicensesDialog/
+        - name: NoNonsense FilePicker
+          url: https://github.com/spacecowboy/NoNonsense-FilePicker
 
     - name: Event Buses
       projects:
