@@ -144,6 +144,11 @@ categories:
           url: https://github.com/cketti/ckChangeLog
         - name: android-change-log
           url: https://code.google.com/p/android-change-log/
+    
+    - name: Cloud Storage
+      projects:
+        - name: Driven
+          url: https://github.com/bingzer/driven
           
     - name: Color Pickers
       projects:
@@ -521,6 +526,8 @@ categories:
           url: https://code.google.com/p/android-active-record/
         - name: Cupboard
           url: https://bitbucket.org/qbusict/cupboard
+        - name: DbQuery
+          url: https://github.com/bingzer/dbquery
         - name: greenDAO
           url: http://greendao-orm.com
         - name: OrmLite
@@ -531,8 +538,6 @@ categories:
           url: https://github.com/emilsjolander/sprinkles
         - name: Sugar ORM
           url: http://satyan.github.io/sugar/
-        - name: DbQuery
-          url: https://github.com/bingzer/dbquery
           
     - name: Parallax List Views
       projects:
@@ -776,8 +781,3 @@ categories:
           url: https://github.com/survivingwithandroid/WeatherLib
         - name: YWeatherGetter4a
           url: https://github.com/zh-wang/YWeatherGetter4a
-    
-    - name: Cloud Storage
-      projects:
-        - name: Driven
-          url: https://github.com/bingzer/driven
