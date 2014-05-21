@@ -755,3 +755,8 @@ categories:
           url: http://kxml.org
         - name: Simple
           url: http://simple.sourceforge.net
+        
+    - name: Weather
+      projects:
+        - name: Weatherlib
+          url: https://github.com/survivingwithandroid/WeatherLib
