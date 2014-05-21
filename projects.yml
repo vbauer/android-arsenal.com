@@ -634,11 +634,6 @@ categories:
           url: https://github.com/kevinsawicki/http-request
         - name: Retrofit
           url: https://github.com/square/retrofit
-          
-    - name: Root
-      projects:
-        - name: Libsuperuser
-          url: https://github.com/Chainfire/libsuperuser
  
     - name: Scripting
       projects:
@@ -672,7 +667,12 @@ categories:
           url: https://github.com/nostra13/Android-Simple-Social-Sharing
         - name: Twitter4J
           url: http://twitter4j.org
-          
+
+    - name: System
+      projects:
+        - name: Libsuperuser
+          url: https://github.com/Chainfire/libsuperuser
+
     - name: Template Languages
       projects:
         - name: Chunk
