@@ -28,7 +28,10 @@
     <div class="navbar navbar-default navbar-static-top" role="navigation">
         <div class="container">
             <div class="navbar-header">
-                <a class="navbar-brand" href="/">The Android Arsenal <span class="badge"><%= @pcount %></span></a>
+                <a class="navbar-brand" href="/">
+                    The Android Arsenal
+                    <% if defined?(data) %> <span class="badge"><%= data.count %></span> <% end %>
+                </a>
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav navbar-right">
@@ -44,7 +47,7 @@
         <%= yield %>
     </div>
     
-    <div class="navbar-<%='fixed-' if !@categories%>bottom row-fluid footer">
+    <div class="navbar-<%='fixed-' if !defined?(data)%>bottom row-fluid footer">
         <div class="navbar-inner">
             <div class="container">
                 <p>Developed by <a href="https://github.com/vbauer">Vladislav Bauer</a> ©2014</p>
