@@ -15,6 +15,12 @@ If you want to make this world a little bit better you can:
 
 ## Running server locally
 
+To install needed dependencies, run this commands in the project directory:
+```sh
+rvm use 2.1.2
+bundle install
+```
+
 To check your changes in life, you can run server locally using the following command:
 
 ```sh
