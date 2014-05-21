@@ -76,6 +76,8 @@ categories:
           url: http://junit.org
         - name: Mockito
           url: https://code.google.com/p/mockito
+        - name: Remote Android Test Service
+          url: https://github.com/wmbest2/rats-server
         - name: Robolectric
           url: http://robolectric.org
         - name: Robotium
