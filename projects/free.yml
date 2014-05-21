@@ -586,6 +586,8 @@ categories:
           
     - name: Ratings
       projects:
+        - name: Rating Reminder
+          url: https://code.google.com/p/rating-reminder/
         - name: AppRater
           url: https://github.com/codechimp-org/AppRater    
         - name: Discreet App Rate
