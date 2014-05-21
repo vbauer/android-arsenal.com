@@ -4,7 +4,10 @@
 If you want to make this world a little bit better you can:
 
 - Fork this repository
-- Modify **projects.yml**: add some new interesting projects or fix mistakes
+- Add some new interesting projects or fix mistakes.
+  Modify file:
+    - **projects/free.yml** - for free projects
+    - or **projects/paid.yml** - for paid projects
 - Send back a pull request
 
 **NB:** Please, check your indentations in text to prevent possible problems with YAML parser.
