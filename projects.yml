@@ -632,7 +632,12 @@ categories:
           url: https://github.com/kevinsawicki/http-request
         - name: Retrofit
           url: https://github.com/square/retrofit
-
+          
+    - name: Root
+      projects:
+        - name: Libsuperuser
+          url: https://github.com/Chainfire/libsuperuser
+ 
     - name: Scripting
       projects:
         - name: android-scripting
