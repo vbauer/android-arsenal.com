@@ -161,7 +161,9 @@ categories:
         - name: Content Provider Helper
           url: https://github.com/jenzz/ContentProviderHelper
         - name: ContentProvider Generator
-          url: https://github.com/foxykeep/ContentProviderCodeGenerator      
+          url: https://github.com/foxykeep/ContentProviderCodeGenerator
+        - name: Android ContentProvider Generator
+          url: https://github.com/BoD/android-contentprovider-generator
         - name: OrmLiteContentProvider
           url: https://github.com/jakenjarvis/Android-OrmLiteContentProvider
         - name: SimpleProvider
