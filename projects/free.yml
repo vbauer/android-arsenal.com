@@ -422,6 +422,8 @@ categories:
           
     - name: List View Adapters
       projects:
+        - name: EasyAdapter
+          url: https://github.com/ribot/easy-adapter
         - name: FunDapter
           url: http://amigold.github.io/FunDapter/
         - name: MultiChoiceAdapter
