@@ -273,6 +273,10 @@ categories:
       projects:
         - name: Calligraphy
           url: https://github.com/chrisjenx/Calligraphy
+        - name: Fontify
+          url: https://github.com/danh32/Fontify
+        - name: Google Fonts
+          url: https://www.google.com/fonts
         - name: PixlUI
           url: https://github.com/neopixl/PixlUI
     
