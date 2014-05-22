@@ -724,10 +724,6 @@ categories:
 
     - name: Tools
       projects:
-        - name: Android Action Bar Style Generator
-          url: http://jgilfelt.github.io/android-actionbarstylegenerator
-        - name: Android Holo Colors Generator 
-          url: http://android-holo-colors.com
         - name: AndroidAssetStudio
           url: https://romannurik.github.io/AndroidAssetStudio
         - name: Android Studio Templates
