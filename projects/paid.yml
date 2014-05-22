@@ -14,6 +14,11 @@ categories:
       projects:
         - name: Scandit
           url: http://www.scandit.com/barcode-scanner-sdk/
+          
+    - name: Feedback Reports
+      projects:
+        - name: Reportest
+          url: https://www.reportest.com
 
     - name: Crash Reports
       projects:
