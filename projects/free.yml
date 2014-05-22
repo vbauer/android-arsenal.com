@@ -212,8 +212,8 @@ categories:
 
     - name: Demos
       projects:
-        - name: Android-LockPattern
-          url: https://code.google.com/p/android-lockpattern/
+        - name: Android-HybridChoice
+          url: https://github.com/curioustechizen/android-hybridchoice
         - name: DevAppsDirect
           url: https://play.google.com/store/apps/details?id=com.inappsquared.devappsdirect
         - name: Google I/O App
@@ -405,8 +405,6 @@ categories:
 
     - name: List Views
       projects:
-        - name: Android-HybridChoice
-          url: https://github.com/curioustechizen/android-hybridchoice
         - name: Android-MultiStateListView
           url: https://github.com/jenzz/Android-MultiStateListView
         - name: Android-ScrollBarPanel
@@ -464,7 +462,12 @@ categories:
           url: https://github.com/jpardogo/GoogleProgressBar
         - name: ProgressWheel
           url: https://github.com/Todd-Davies/ProgressWheel
-          
+    
+    - name: Lock Patterns
+      projects:
+        - name: Android-LockPattern
+          url: https://code.google.com/p/android-lockpattern/
+        
     - name: Logging
       projects:
         - name: hugo
