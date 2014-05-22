@@ -660,6 +660,8 @@ categories:
           url: https://github.com/scottyab/secure-preferences
         - name: AndroidPinning
           url: https://github.com/moxie0/AndroidPinning
+        - name: Conceal
+          url: http://facebook.github.io/conceal/
 
     - name: Scripting
       projects:
