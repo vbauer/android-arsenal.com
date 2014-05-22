@@ -476,6 +476,12 @@ categories:
           url: https://github.com/cyrilmottier/Polaris
         - name: map-controller
           url: https://github.com/kewangtw/map-controller
+        - name: Google Maps Android API utility library
+          url: https://github.com/googlemaps/android-maps-utils
+        - name: Android Maps Extensions
+          url: https://github.com/mg6maciej/android-maps-extensions
+        - name: Clusterkraf
+          url: https://github.com/twotoasters/clusterkraf
           
     - name: MIME
       projects:
