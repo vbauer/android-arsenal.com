@@ -385,6 +385,8 @@ categories:
           url: https://github.com/FasterXML/jackson-jr
         - name: JSON.simple
           url: https://code.google.com/p/json-simple/
+        - name: ModelMapper
+          url: https://github.com/eunjae-lee/ModelMapper
     
     - name: Layouts
       projects:
