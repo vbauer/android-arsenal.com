@@ -710,7 +710,7 @@ categories:
           url: https://github.com/Tezlastorme/build-prop-tools/
         - name: Libsuperuser
           url: https://github.com/Chainfire/libsuperuser
-        - RootTools
+        - name: RootTools
           url: https://github.com/Stericson/RootTools
 
     - name: Template Languages
