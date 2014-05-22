@@ -9,6 +9,8 @@ categories:
           url: https://github.com/Takhion/android-extendedactionbar
         - name: FadingActionBar
           url: https://github.com/ManuelPeinado/FadingActionBar
+        - name: GlassActionBar
+          url: https://github.com/ManuelPeinado/GlassActionBar
         - name: v7 appcompat library
           url: http://developer.android.com/tools/support-library/features.html#v7-appcompat
           
@@ -27,14 +29,8 @@ categories:
 
     - name: Analytics
       projects:
-        - name: Capptain
-          url: http://www.capptain.com
-        - name: Countly
-          url: https://count.ly
         - name: Google Analytics
           url: https://developers.google.com/analytics/devguides/collection/android/
-        - name: Flurry
-          url: http://www.flurry.com
           
     - name: Architecture
       projects:
@@ -76,6 +72,8 @@ categories:
           url: http://junit.org
         - name: Mockito
           url: https://code.google.com/p/mockito
+        - name: Remote Android Test Service
+          url: https://github.com/wmbest2/rats-server
         - name: Robolectric
           url: http://robolectric.org
         - name: Robotium
@@ -105,8 +103,6 @@ categories:
           url: http://code.google.com/p/zxing/
         - name: Android Barcode Generator
           url: http://www.onbarcode.com/products/android_barcode/
-        - name: Scandit
-          url: http://www.scandit.com/barcode-scanner-sdk/
         - name: ZBar
           url: http://zbar.sourceforge.net
 
@@ -150,6 +146,11 @@ categories:
           url: https://github.com/cketti/ckChangeLog
         - name: android-change-log
           url: https://code.google.com/p/android-change-log/
+    
+    - name: Cloud Storages
+      projects:
+        - name: Driven
+          url: https://github.com/bingzer/driven
           
     - name: Color Pickers
       projects:
@@ -177,16 +178,8 @@ categories:
       projects:
         - name: ACRA
           url: https://github.com/ACRA/acra
-        - name: Bugsnag
-          url: https://bugsnag.com
         - name: Crashlytics
-          url: http://try.crashlytics.com
-        - name: Crittercism
-          url: http://www.crittercism.com
-        - name: BugSense
-          url: https://www.bugsense.com
-        - name: HockeyApp
-          url: http://www.hockeyapp.net
+          url: https://crashlytics.com
 
     - name: CSV
       projects:
@@ -291,8 +284,6 @@ categories:
           url: https://github.com/limccn/Android-Charts
         - name: AChartEngine
           url: http://www.achartengine.org
-        - name: GraphWidget
-          url: http://graphwidget.android-libraries.com
         - name: HoloGraphLibrary
           url: https://bitbucket.org/danielnadeau/holographlibrary/wiki/Home
         - name: AFreeChart
@@ -301,8 +292,6 @@ categories:
           url: http://androidplot.com
         - name: GraphView
           url: http://android-graphview.org
-        - name: TeeChart for Android
-          url: http://www.steema.com/teechart/mobile
 
     - name: Grid Views
       projects:
@@ -312,6 +301,8 @@ categories:
           url: https://github.com/maurycyw/StaggeredGridView
         - name: DynamicGrid
           url: https://github.com/askerov/DynamicGrid
+        - name: PagingGridView
+          url: https://github.com/nicolasjafelle/PagingGridView
           
     - name: Gyroscope
       projects:
@@ -381,6 +372,8 @@ categories:
           url: https://github.com/kikoso/Swipeable-Cards
         - name: TouchImageView
           url: https://github.com/MikeOrtiz/TouchImageView
+        - name: KenBurnsView
+          url: https://github.com/flavioarfaria/KenBurnsView
           
     - name: JSON
       projects:
@@ -408,8 +401,6 @@ categories:
           url: https://github.com/jenzz/Android-MultiStateListView
         - name: Android-ScrollBarPanel
           url: https://github.com/rno/Android-ScrollBarPanel
-        - name: CustomListView
-          url: http://listview.android-libraries.com
         - name: DragSortListView
           url: https://github.com/bauerca/drag-sort-listview
         - name: EnhancedListView
@@ -422,6 +413,8 @@ categories:
           url: https://github.com/nhaarman/ListViewAnimations
         - name: SlideExpandableListView
           url: https://github.com/tjerkw/Android-SlideExpandableListView
+        - name: PagingListView
+          url: https://github.com/nicolasjafelle/PagingListView
         - name: SuperListview
           url: https://github.com/dommerq/SuperListview
         - name: SwipeListView
@@ -475,8 +468,6 @@ categories:
           
     - name: Maps
       projects:
-        - name: mAppWidget
-          url: http://mapp.android-libraries.com
         - name: MapNavigator
           url: https://github.com/tyczj/MapNavigator
         - name: osmdroid
@@ -503,8 +494,6 @@ categories:
       projects:
         - name: Flow
           url: https://github.com/square/flow
-        - name: ParcelableCodeGenerator
-          url: https://github.com/foxykeep/ParcelableCodeGenerator
 
     - name: Networking
       projects:
@@ -523,8 +512,6 @@ categories:
 
     - name: OCR Engines
       projects:
-        - name: ABBYY Mobile OCR Engine
-          url: http://www.abbyy.com/mobileocr/android/
         - name: android-ocr
           url: https://github.com/rmtheis/android-ocr
         - name: Tesseract
@@ -553,6 +540,8 @@ categories:
           url: https://code.google.com/p/android-active-record/
         - name: Cupboard
           url: https://bitbucket.org/qbusict/cupboard
+        - name: DbQuery
+          url: https://github.com/bingzer/dbquery
         - name: greenDAO
           url: http://greendao-orm.com
         - name: OrmLite
@@ -570,6 +559,18 @@ categories:
           url: https://github.com/nirhart/ParallaxScroll
         - name: Paralloid 
           url: https://github.com/chrisjenx/Paralloid      
+           
+    - name: Parcelables
+      projects:
+        - name: Android AutoValue
+          url: https://github.com/frankiesardo/android-auto-value
+        - name: ParcelableCodeGenerator
+          url: https://github.com/foxykeep/ParcelableCodeGenerator
+        - name: Parcelabler
+          url: http://www.parcelabler.com/
+        - name: Parceler
+          url: https://github.com/johncarl81/parceler
+          
       
     - name: Platforms
       projects:
@@ -581,8 +582,6 @@ categories:
           url: http://coronalabs.com/products/corona-sdk/
         - name: PhoneGap
           url: http://phonegap.com
-        - name: Unity
-          url: http://unity3d.com
           
     - name: Protocol Buffer
       projects:
@@ -622,6 +621,8 @@ categories:
           
     - name: Ratings
       projects:
+        - name: Rating Reminder
+          url: https://code.google.com/p/rating-reminder/
         - name: AppRater
           url: https://github.com/codechimp-org/AppRater    
         - name: Discreet App Rate
@@ -640,7 +641,20 @@ categories:
           url: https://github.com/kevinsawicki/http-request
         - name: Retrofit
           url: https://github.com/square/retrofit
- 
+
+    - name: Security
+      projects:
+        - name: SQLCipher
+          url: http://sqlcipher.net/sqlcipher-for-android/
+        - name: NetCipher (Onionkit)
+          url: https://github.com/guardianproject/NetCipher
+        - name: Spongy Castle
+          url: https://rtyley.github.io/spongycastle/
+        - name: Secure-Preferences
+          url: https://github.com/scottyab/secure-preferences
+        - name: AndroidPinning
+          url: https://github.com/moxie0/AndroidPinning
+
     - name: Scripting
       projects:
         - name: android-scripting
@@ -685,6 +699,11 @@ categories:
           url: http://www.x5software.com/chunk/
         - name: Phrase
           url: https://github.com/square/phrase
+
+    - name: Text Views
+      projects:
+        - name: AnyTextView
+          url: https://github.com/hanspeide/anytextview
           
     - name: Toasts
       projects:

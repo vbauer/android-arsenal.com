@@ -1,0 +1,81 @@
+
+categories:
+
+    - name: Analytics
+      projects:
+        - name: Capptain
+          url: http://www.capptain.com
+        - name: Countly
+          url: https://count.ly
+        - name: Flurry
+          url: http://www.flurry.com
+
+    - name: Bar Codes
+      projects:
+        - name: Scandit
+          url: http://www.scandit.com/barcode-scanner-sdk/
+
+    - name: Crash Reports
+      projects:
+        - name: Bugsnag
+          url: https://bugsnag.com
+        - name: Crashlytics
+          url: http://try.crashlytics.com
+        - name: Crittercism
+          url: http://www.crittercism.com
+        - name: BugSense
+          url: https://www.bugsense.com
+        - name: HockeyApp
+          url: http://www.hockeyapp.net
+          
+    - name: Graphics
+      projects:
+        - name: GraphWidget
+          url: http://graphwidget.android-libraries.com
+        - name: TeeChart for Android
+          url: http://www.steema.com/teechart/mobile
+
+    - name: Image Processing
+      projects:
+        - name: Aviary
+          url: https://developers.aviary.com/docs/android
+
+    - name: List Views
+      projects:
+        - name: CustomListView
+          url: http://listview.android-libraries.com
+
+    - name: Maps
+      projects:
+        - name: mAppWidget
+          url: http://mapp.android-libraries.com
+        - name: Nutiteq 3D Maps
+          url: http://nutiteq.github.io
+
+
+    - name: MBaaS
+      projects:
+        - name: AnyPresence
+          url: http://www.anypresence.com
+        - name: Appcelerator
+          url: http://www.appcelerator.com/cloud/
+        - name: Backendless
+          url: https://backendless.com
+        - name: CloudMine
+          url: https://cloudmine.me
+        - name: Kinvey
+          url: http://www.kinvey.com
+        - name: Kumulos
+          url: http://www.kumulos.com
+        - name: Parse
+          url: https://parse.com
+          
+    - name: OCR Engines
+      projects:
+        - name: ABBYY Mobile OCR Engine
+          url: http://www.abbyy.com/mobileocr/android/
+
+    - name: Platforms
+      projects:
+        - name: Unity
+          url: http://unity3d.com
