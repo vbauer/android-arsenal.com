@@ -55,15 +55,15 @@ class Application < Sinatra::Base
     end
 
     not_found do
-        @@not_found_page ||= erb :not_found
+        @not_found_page ||= erb :not_found
     end
     
     get "/" do
-        @@free_projects_page ||= render_categories(:free, settings.data.free.categories)
+        @free_projects_page ||= render_categories(:free, settings.data.free.categories)
     end
     
     get "/paid" do
-        @@paid_projects_page ||= render_categories(:paid, settings.data.paid.categories)
+        @paid_projects_page ||= render_categories(:paid, settings.data.paid.categories)
     end
 
     
