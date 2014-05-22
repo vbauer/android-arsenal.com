@@ -28,7 +28,6 @@ end
 class DataContext
     attr_reader :free, :paid
 
-#    <li>Free <span class="badge"><%= data.free.count %></span></li>
     def initialize
         @free = ProjectsInfo.new("free.yml")
         @paid = ProjectsInfo.new("paid.yml")
@@ -36,16 +35,17 @@ class DataContext
 end
 
 class Application < Sinatra::Base
-    configure do
+    configure :production, :development do
         set :public_folder, File.dirname(__FILE__) + '/public'
         set :sessions, false
         set :start_time, Time.now
         set :data, DataContext.new
+        enable :logging
         
         use Rack::Cache
         use Rack::ConditionalGet
         use Rack::ETag
-        use Rack::Deflater
+        use Rack::Deflater        
     end
  
     before do 
@@ -55,15 +55,15 @@ class Application < Sinatra::Base
     end
 
     not_found do
-        @not_found_page ||= erb :not_found
+        @@not_found_page ||= erb :not_found
     end
     
     get "/" do
-        @free_projects_page ||= render_categories(:free, settings.data.free.categories)
+        @@free_projects_page ||= render_categories(:free, settings.data.free.categories)
     end
     
     get "/paid" do
-        @paid_projects_page ||= render_categories(:paid, settings.data.paid.categories)
+        @@paid_projects_page ||= render_categories(:paid, settings.data.paid.categories)
     end
 
     
