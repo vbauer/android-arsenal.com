@@ -780,10 +780,14 @@ categories:
         - name: RootTools
           url: https://github.com/Stericson/RootTools
 
-    - name: Template Languages
+    - name: Template Engines
       projects:
         - name: Chunk
           url: http://www.x5software.com/chunk/
+        - name: commontemplate
+          url: https://code.google.com/p/commontemplate/
+        - name: MiniTemplator
+          url: http://www.source-code.biz/MiniTemplator/
         - name: Phrase
           url: https://github.com/square/phrase
 
@@ -866,15 +870,6 @@ categories:
         - name: VerticalViewPager
           url: https://github.com/castorflex/VerticalViewPager
 
-    - name: XML
-      projects:
-        - name: JDOM
-          url: http://www.jdom.org
-        - name: kXML
-          url: http://kxml.org
-        - name: Simple
-          url: http://simple.sourceforge.net
-        
     - name: Weather
       projects:
         - name: Android-wunderground-client
@@ -883,3 +878,17 @@ categories:
           url: https://github.com/survivingwithandroid/WeatherLib
         - name: YWeatherGetter4a
           url: https://github.com/zh-wang/YWeatherGetter4a
+
+    - name: XML
+      projects:
+        - name: JDOM
+          url: http://www.jdom.org
+        - name: kXML
+          url: http://kxml.org
+        - name: Simple
+          url: http://simple.sourceforge.net
+          
+    - name: YAML
+      projects:
+        - name: SnakeYAML
+          url: https://code.google.com/p/snakeyaml/
