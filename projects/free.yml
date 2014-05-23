@@ -644,6 +644,15 @@ categories:
         - name: Amazon Device Messaging
           url: https://developer.amazon.com/appsandservices/apis/engage/device-messaging
           
+    - name: QR Codes
+      projects:
+        - name: android-quick-response-code
+          url: https://code.google.com/p/android-quick-response-code/
+        - name: Barcode Scanner (ZXing)
+          url: https://github.com/dm77/barcodescanner
+        - name: ZXScanLib
+          url: https://github.com/LivotovLabs/zxscanlib
+          
     - name: Ratings
       projects:
         - name: Appirater
