@@ -369,6 +369,19 @@ categories:
           url: https://github.com/nostra13/Android-Universal-Image-Loader
         - name: UrlImageViewHelper
           url: https://github.com/koush/UrlImageViewHelper
+          
+    - name: Image Processing
+      projects:
+        - name: android-jhlabs
+          url: https://code.google.com/p/android-jhlabs/
+        - name: android-lib-magick
+          url: https://github.com/puelocesar/android-lib-magick
+        - name: CImg
+          url: http://cimg.sourceforge.net
+        - name: JavaCV
+          url: https://github.com/bytedeco/javacv
+        - name: OpenCV
+          url: http://opencv.org/platforms/android.html
 
     - name: Image Views
       projects:
@@ -438,12 +451,16 @@ categories:
           
     - name: List View Adapters
       projects:
+        - name: Adapter Kit
+          url: https://github.com/mobsandgeeks/adapter-kit
         - name: EasyAdapter
           url: https://github.com/ribot/easy-adapter
         - name: FunDapter
           url: http://amigold.github.io/FunDapter/
         - name: MultiChoiceAdapter
           url: https://github.com/ManuelPeinado/MultiChoiceAdapter
+        - name: Simple Section Adapter
+          url: https://github.com/ragunathjawahar/simple-section-adapter
 
     - name: List View Sections
       projects:
