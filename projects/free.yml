@@ -524,6 +524,15 @@ categories:
           url: https://github.com/mg6maciej/android-maps-extensions
         - name: Clusterkraf
           url: https://github.com/twotoasters/clusterkraf
+
+    - name: Markdown
+      projects:
+        - name: Bypass
+          url: http://uncodin.github.io/bypass/
+        - name: cwac-anddown
+          url: https://github.com/commonsguy/cwac-anddown
+        - name: MarkdownView
+          url: https://github.com/Gunio/MarkdownView
           
     - name: MIME
       projects:
@@ -619,7 +628,13 @@ categories:
         - name: Parceler
           url: https://github.com/johncarl81/parceler
           
-      
+    - name: PDF
+      projects:
+        - name: Android PDF Writer
+          url: http://sourceforge.net/projects/apwlibrary/
+        - name: MuPDF
+          url: http://www.mupdf.com
+          
     - name: Platforms
       projects:
         - name: Adobe AIR
