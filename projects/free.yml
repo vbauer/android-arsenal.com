@@ -705,18 +705,8 @@ categories:
       projects:
         - name: ahorn/android-rss
           url: https://github.com/ahorn/android-rss
-        - name: android-rss
-          url: https://code.google.com/p/android-rss/
         - name: Android-RSS-Reader-Library
           url: https://github.com/matshofman/Android-RSS-Reader-Library
-        - name: FeedEx
-          url: https://github.com/HoloAddict/FeedEx
-        - name: News+
-          url: https://github.com/noinnion/newsplus
-        - name: Simple-Rss2-Android
-          url: https://github.com/salendron/Simple-Rss2-Android
-        - name: Sparse-RSS
-          url: https://github.com/doits/Sparse-RSS
 
     - name: Security
       projects:
