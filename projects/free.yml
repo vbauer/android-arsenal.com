@@ -450,6 +450,8 @@ categories:
           url: https://github.com/dommerq/SuperListview
         - name: SwipeListView
           url: https://github.com/47deg/android-swipelistview
+        - name: TreeViewList
+          url: https://code.google.com/p/tree-view-list-android/
           
     - name: List View Adapters
       projects:
