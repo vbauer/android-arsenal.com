@@ -3,15 +3,24 @@ require 'yaml'
 require 'set'
 require 'rack/cache'
 
+module Rack
+  class CommonLogger
+    def call(env)
+      # do nothing
+      @app.call(env)
+    end
+  end
+end
+
 class ProjectsInfo
     PROJECTS = File.dirname(__FILE__) + "/projects/"
     attr_reader :count, :categories
-    
+
     def initialize(file)
         @count = 0
         @categories = Hash.new { |h, k| h[k] = [] }
-        
-        data = YAML.load_file(PROJECTS + file)        
+
+        data = YAML.load_file(PROJECTS + file)
         categories = data['categories'] || []
         categories.each do |d|
             d['name'].split(',').each do |c|
@@ -36,19 +45,18 @@ end
 
 class Application < Sinatra::Base
     configure :production, :development do
-        set :public_folder, File.dirname(__FILE__) + '/public'
         set :sessions, false
         set :start_time, Time.now
         set :data, DataContext.new
-        enable :logging
-        
-        use Rack::Cache
+        set :logging, false
+
+        use Rack::Cache, :verbose => false
         use Rack::ConditionalGet
         use Rack::ETag
-        use Rack::Deflater        
+        use Rack::Deflater
     end
- 
-    before do 
+
+    before do
         last_modified settings.start_time
         etag settings.start_time.to_s
         cache_control
@@ -57,16 +65,16 @@ class Application < Sinatra::Base
     not_found do
         @not_found_page ||= erb :not_found
     end
-    
+
     get "/" do
         @free_projects_page ||= render_categories(:free, settings.data.free.categories)
     end
-    
+
     get "/paid" do
         @paid_projects_page ||= render_categories(:paid, settings.data.paid.categories)
     end
 
-    
+
     def render_categories(type, categories)
         erb(:projects, :locals => {:type => type,
                                    :paid => settings.data.paid.count,
