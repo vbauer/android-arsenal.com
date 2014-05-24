@@ -797,10 +797,16 @@ categories:
 
     - name: Text Views
       projects:
+        - name: android-flowtextview
+          url: https://code.google.com/p/android-flowtextview/
+        - name: Android-RobotoTextView
+          url: https://github.com/johnkil/Android-RobotoTextView
         - name: AnyTextView
           url: https://github.com/hanspeide/anytextview
         - name: Justified
           url: https://github.com/programingjd/justified
+        - name: Shimmer-android
+          url: https://github.com/RomainPiel/Shimmer-android
 
     - name: Toasts
       projects:
@@ -884,6 +890,17 @@ categories:
           url: https://github.com/survivingwithandroid/WeatherLib
         - name: YWeatherGetter4a
           url: https://github.com/zh-wang/YWeatherGetter4a
+
+    - name: WebSockets
+      projects:
+        - name: AutobahnAndroid
+          url: https://github.com/tavendo/AutobahnAndroid
+        - name: koush/android-websockets
+          url: https://github.com/koush/android-websockets
+        - name: codebutler/android-websockets
+          url: https://github.com/codebutler/android-websockets
+        - name: Tyrus
+          url: https://tyrus.java.net
 
     - name: XML
       projects:
