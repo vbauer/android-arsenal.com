@@ -795,7 +795,9 @@ categories:
       projects:
         - name: AnyTextView
           url: https://github.com/hanspeide/anytextview
-          
+        - name: Justified
+          url: https://github.com/programingjd/justified
+
     - name: Toasts
       projects:
         - name: Android-UndoBar
