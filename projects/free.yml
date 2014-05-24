@@ -154,6 +154,8 @@ categories:
           url: https://github.com/cketti/ckChangeLog
         - name: android-change-log
           url: https://code.google.com/p/android-change-log/
+        - name: Inscription
+          url: https://github.com/MartinvanZ/Inscription
 
     - name: Cloud Storages
       projects:
@@ -205,6 +207,11 @@ categories:
         - name: android-FlipView
           url: https://github.com/emilsjolander/android-FlipView
 
+    - name: Database
+      projects:
+        - name: Sugar ORM
+          url: https://github.com/satyan/sugar/
+      
     - name: Date Pickers
       projects:
         - name: TimesSquare for Android
@@ -271,6 +278,8 @@ categories:
           url: http://psdev.de/LicensesDialog/
         - name: NoNonsense FilePicker
           url: https://github.com/spacecowboy/NoNonsense-FilePicker
+        - name: UpdateChecker
+          url: https://github.com/rampo/UpdateChecker
 
     - name: Event Buses
       projects:
@@ -281,6 +290,11 @@ categories:
         - name: stickyd/eventbus
           url: https://github.com/stickyd/eventbus
 
+    - name: Floating Window
+      projects:
+        - name: StandOut
+          url: https://github.com/pingpongboss/StandOut
+      
     - name: Fonts
       projects:
         - name: Calligraphy
@@ -489,6 +503,8 @@ categories:
           url: https://github.com/johnkil/Android-ProgressFragment
         - name: GoogleProgressBar
           url: https://github.com/jpardogo/GoogleProgressBar
+        - name: ProgressButton
+          url: https://github.com/f2prateek/progressbutton
         - name: ProgressWheel
           url: https://github.com/Todd-Davies/ProgressWheel
 
@@ -757,6 +773,8 @@ categories:
           url: https://github.com/umano/AndroidSlidingUpPanel
         - name: SlidingLayer
           url: https://github.com/6wunderkinder/android-sliding-layer-lib
+        - name: SlidingMenu
+          url: https://github.com/jfeinstein10/SlidingMenu
 
     - name: Social Networks
       projects:
