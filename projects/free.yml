@@ -120,6 +120,8 @@ categories:
           url: https://github.com/dmytrodanylyk/android-process-button
         - name: Flat Button
           url: https://github.com/hoang8f/android-flat-button
+        - name: ProgressButton
+          url: https://github.com/f2prateek/progressbutton
         - name: TH-ProgressButton
           url: https://github.com/torryharris/TH-ProgressButton
 
@@ -206,11 +208,6 @@ categories:
           url: https://github.com/openaphid/android-flip
         - name: android-FlipView
           url: https://github.com/emilsjolander/android-FlipView
-
-    - name: Database
-      projects:
-        - name: Sugar ORM
-          url: https://github.com/satyan/sugar/
       
     - name: Date Pickers
       projects:
@@ -270,10 +267,12 @@ categories:
           url: https://github.com/iPaulPro/aFileChooser
         - name: afiledialog
           url: https://code.google.com/p/afiledialog/
-        - name: StyledDialogs
-          url: https://github.com/inmite/android-styled-dialogs
         - name: DirectoryChooser
           url: https://github.com/passy/Android-DirectoryChooser
+        - name: StandOut
+          url: https://github.com/pingpongboss/StandOut
+        - name: StyledDialogs
+          url: https://github.com/inmite/android-styled-dialogs
         - name: LicensesDialog
           url: http://psdev.de/LicensesDialog/
         - name: NoNonsense FilePicker
@@ -289,11 +288,6 @@ categories:
           url: http://square.github.io/otto/
         - name: stickyd/eventbus
           url: https://github.com/stickyd/eventbus
-
-    - name: Floating Window
-      projects:
-        - name: StandOut
-          url: https://github.com/pingpongboss/StandOut
       
     - name: Fonts
       projects:
@@ -503,8 +497,6 @@ categories:
           url: https://github.com/johnkil/Android-ProgressFragment
         - name: GoogleProgressBar
           url: https://github.com/jpardogo/GoogleProgressBar
-        - name: ProgressButton
-          url: https://github.com/f2prateek/progressbutton
         - name: ProgressWheel
           url: https://github.com/Todd-Davies/ProgressWheel
 
