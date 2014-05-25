@@ -32,6 +32,8 @@ categories:
           url: https://www.bugsense.com
         - name: HockeyApp
           url: http://www.hockeyapp.net
+        - name: Rollbar
+          url: http://www.rollbar.com
 
     - name: Graphics
       projects:
