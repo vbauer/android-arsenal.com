@@ -120,6 +120,8 @@ categories:
           url: https://github.com/dmytrodanylyk/android-process-button
         - name: Flat Button
           url: https://github.com/hoang8f/android-flat-button
+        - name: ProgressButton
+          url: https://github.com/f2prateek/progressbutton
         - name: PSGradientButtons
           url: https://github.com/sapandiwakar/PSGradientButtons
         - name: TH-ProgressButton
@@ -162,6 +164,8 @@ categories:
           url: https://github.com/cketti/ckChangeLog
         - name: android-change-log
           url: https://code.google.com/p/android-change-log/
+        - name: Inscription
+          url: https://github.com/MartinvanZ/Inscription
 
     - name: Cloud Storages
       projects:
@@ -220,7 +224,7 @@ categories:
           url: https://github.com/openaphid/android-flip
         - name: android-FlipView
           url: https://github.com/emilsjolander/android-FlipView
-
+      
     - name: Date Pickers
       projects:
         - name: TimesSquare for Android
@@ -279,14 +283,18 @@ categories:
           url: https://github.com/iPaulPro/aFileChooser
         - name: afiledialog
           url: https://code.google.com/p/afiledialog/
-        - name: StyledDialogs
-          url: https://github.com/inmite/android-styled-dialogs
         - name: DirectoryChooser
           url: https://github.com/passy/Android-DirectoryChooser
+        - name: StandOut
+          url: https://github.com/pingpongboss/StandOut
+        - name: StyledDialogs
+          url: https://github.com/inmite/android-styled-dialogs
         - name: LicensesDialog
           url: http://psdev.de/LicensesDialog/
         - name: NoNonsense FilePicker
           url: https://github.com/spacecowboy/NoNonsense-FilePicker
+        - name: UpdateChecker
+          url: https://github.com/rampo/UpdateChecker
 
     - name: Event Buses
       projects:
@@ -296,7 +304,7 @@ categories:
           url: http://square.github.io/otto/
         - name: stickyd/eventbus
           url: https://github.com/stickyd/eventbus
-
+      
     - name: Fonts
       projects:
         - name: Calligraphy
@@ -779,6 +787,8 @@ categories:
           url: https://github.com/umano/AndroidSlidingUpPanel
         - name: SlidingLayer
           url: https://github.com/6wunderkinder/android-sliding-layer-lib
+        - name: SlidingMenu
+          url: https://github.com/jfeinstein10/SlidingMenu
 
     - name: Social Networks
       projects:
