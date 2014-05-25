@@ -767,6 +767,8 @@ categories:
 
     - name: Sensors
       projects:
+        - name: Compass-View-Library
+          url: https://github.com/kvirair/Compass-View-Library
         - name: DASH
           url: https://github.com/sonyxperiadev/DASH
         - name: GAST
