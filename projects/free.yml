@@ -145,6 +145,10 @@ categories:
       projects:
         - name: Cardslib
           url: https://github.com/gabrielemariotti/cardslib
+        - name: cardsui-for-android
+          url: https://github.com/Androguide/cardsui-for-android
+        - name: Cards-UI
+          url: https://github.com/afollestad/Cards-UI
 
     - name: Changelog
       projects:
