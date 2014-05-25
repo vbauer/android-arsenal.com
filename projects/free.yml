@@ -63,30 +63,7 @@ categories:
           url: https://github.com/eddturtle/TurtlePlayer
         - name: Vanilla
           url: https://github.com/kreed/vanilla
-
-    - name: Automation Testing
-      projects:
-        - name: Android FEST
-          url: https://github.com/square/fest-android
-        - name: Android Mock
-          url: http://code.google.com/p/android-mock
-        - name: Calabash
-          url: http://calaba.sh
-        - name: Espresso (android test kit)
-          url: https://code.google.com/p/android-test-kit/
-        - name: JUnit
-          url: http://junit.org
-        - name: Mockito
-          url: https://code.google.com/p/mockito
-        - name: Remote Android Test Service
-          url: https://github.com/wmbest2/rats-server
-        - name: Robolectric
-          url: http://robolectric.org
-        - name: Robotium
-          url: http://code.google.com/p/robotium/
-        - name: Spoon
-          url: https://github.com/square/spoon
-
+      
     - name: Background Processing
       projects:
         - name: Tape
@@ -572,7 +549,7 @@ categories:
           url: http://hc.apache.org/httpcomponents-client-ga/httpmime/dependency-info.html
         - name: Mime4j
           url: http://james.apache.org/mime4j/
-
+          
     - name: Navigation History
       projects:
         - name: Flow
@@ -596,6 +573,17 @@ categories:
           url: https://github.com/stephanenicolas/robospice
         - name: Volley
           url: https://android.googlesource.com/platform/frameworks/volley
+
+    - name: Object Mocking
+      projects:
+        - name: Android Mock
+          url: http://code.google.com/p/android-mock
+        - name: EasyMock
+          url: http://easymock.org
+        - name: Mockito
+          url: https://code.google.com/p/mockito
+        - name: PowerMock
+          url: https://code.google.com/p/powermock/
 
     - name: OCR Engines
       projects:
@@ -825,6 +813,23 @@ categories:
         - name: RootTools
           url: https://github.com/Stericson/RootTools
 
+    - name: TDD & BDD
+      projects:
+        - name: Cucumber
+          url: http://cukes.info
+        - name: JBehave
+          url: http://jbehave.org
+        - name: JDave
+          url: http://jdave.org
+        - name: JUnit
+          url: http://junit.org
+        - name: RoboSpock
+          url: http://robospock.org
+        - name: Spock
+          url: https://code.google.com/p/spock
+        - name: TestNG
+          url: http://testng.org
+
     - name: Template Engines
       projects:
         - name: Chunk
@@ -848,6 +853,28 @@ categories:
           url: https://github.com/programingjd/justified
         - name: Shimmer-android
           url: https://github.com/RomainPiel/Shimmer-android
+
+    - name: Testing
+      projects:
+        - name: Android FEST
+          url: https://github.com/square/fest-android
+        - name: Espresso (android test kit)
+          url: https://code.google.com/p/android-test-kit/
+        - name: Robolectric
+          url: http://robolectric.org
+        - name: Robotium
+          url: http://code.google.com/p/robotium/
+    
+    - name: Testing Tools
+      projects:
+        - name: Bot-Bot
+          url: http://imaginea.github.io/bot-bot/
+        - name: Calabash
+          url: http://calaba.sh
+        - name: Remote Android Test Service
+          url: https://github.com/wmbest2/rats-server
+        - name: Spoon
+          url: https://github.com/square/spoon
 
     - name: Toasts
       projects:
