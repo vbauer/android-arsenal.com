@@ -314,12 +314,16 @@ categories:
       projects:
         - name: AndroidStaggeredGrid
           url: https://github.com/etsy/AndroidStaggeredGrid
-        - name: StaggeredGridView
-          url: https://github.com/maurycyw/StaggeredGridView
         - name: DynamicGrid
           url: https://github.com/askerov/DynamicGrid
+        - name: QuiltViewLibrary
+          url: https://github.com/jacobmoncur/QuiltViewLibrary
         - name: PagingGridView
           url: https://github.com/nicolasjafelle/PagingGridView
+        - name: StaggeredGridView
+          url: https://github.com/maurycyw/StaggeredGridView
+        - name: TwoWayGridView
+          url: https://github.com/jess-anders/two-way-gridview
 
     - name: Gyroscope
       projects:
@@ -426,6 +430,8 @@ categories:
           url: https://github.com/alamkanak/Android-Empty-Layout
         - name: CircleLayout
           url: https://github.com/dmitry-zaitsev/CircleLayout
+        - name: GridLayout
+          url: https://github.com/jacobmoncur/gridlayout_v7
         - name: ImageLayout
           url: https://github.com/ManuelPeinado/ImageLayout
         - name: FlatUI
