@@ -162,8 +162,12 @@ categories:
 
     - name: Color Pickers
       projects:
+        - name: android-color-picker
+          url: https://code.google.com/p/android-color-picker/
         - name: ColorPickerPreference
           url: https://github.com/attenzione/android-ColorPickerPreference
+        - name: color-picker-view
+          url: https://code.google.com/p/color-picker-view/
         - name: HoloColorPicker
           url: https://github.com/LarsWerkman/HoloColorPicker
 
@@ -329,6 +333,8 @@ categories:
       projects:
         - name: HtmlCleaner
           url: http://htmlcleaner.sourceforge.net
+        - name: Jericho
+          url: http://jericho.htmlparser.net
         - name: jsoup
           url: http://jsoup.org
 
@@ -421,6 +427,8 @@ categories:
       projects:
         - name: Android Empty Layout
           url: https://github.com/alamkanak/Android-Empty-Layout
+        - name: CircleLayout
+          url: https://github.com/dmitry-zaitsev/CircleLayout
         - name: ImageLayout
           url: https://github.com/ManuelPeinado/ImageLayout
         - name: FlatUI
@@ -616,7 +624,9 @@ categories:
 
     - name: Parallax List Views
       projects:
-        - name: Parallax ScrollView and ListView for Android
+        - name: ParallaxListView
+          url: https://github.com/Gnod/ParallaxListView
+        - name: ParallaxScroll
           url: https://github.com/nirhart/ParallaxScroll
         - name: Paralloid
           url: https://github.com/chrisjenx/Paralloid
@@ -774,6 +784,15 @@ categories:
           url: https://github.com/nostra13/Android-Simple-Social-Sharing
         - name: Twitter4J
           url: http://twitter4j.org
+
+    - name: SVG
+      projects:
+        - name: androidsvg
+          url: https://code.google.com/p/androidsvg/
+        - name: japgolly/svg-android
+          url: https://github.com/japgolly/svg-android
+        - name: svg-android
+          url: https://code.google.com/p/svg-android/
 
     - name: System
       projects:
