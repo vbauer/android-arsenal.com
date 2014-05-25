@@ -120,6 +120,8 @@ categories:
           url: https://github.com/dmytrodanylyk/android-process-button
         - name: Flat Button
           url: https://github.com/hoang8f/android-flat-button
+        - name: PSGradientButtons
+          url: https://github.com/sapandiwakar/PSGradientButtons
         - name: TH-ProgressButton
           url: https://github.com/torryharris/TH-ProgressButton
 
@@ -136,6 +138,8 @@ categories:
       projects:
         - name: Android-RecurrencePicker
           url: https://github.com/Shusshu/Android-RecurrencePicker
+        - name: Caldroid
+          url: https://github.com/roomorama/Caldroid
         - name: ExtendedCalendarView
           url: https://github.com/tyczj/ExtendedCalendarView
         - name: MFCalendarView
@@ -163,6 +167,10 @@ categories:
       projects:
         - name: Driven
           url: https://github.com/bingzer/driven
+        - name: Dropbox
+          url: https://www.dropbox.com/developers/core/sdks/android
+        - name: Google Drive
+          url: https://developers.google.com/drive/android/
 
     - name: Color Pickers
       projects:
@@ -841,6 +849,17 @@ categories:
           url: https://github.com/keyboardsurfer/Crouton
         - name: MessageBar
           url: http://simonvt.github.io/MessageBar/
+
+    - name: Toolkits for other PL
+      projects:
+        - name: Neko
+          url: https://github.com/clojure-android/neko
+        - name: Pindah
+          url: https://github.com/mirah/pindah
+        - name: Ruboto
+          url: http://ruboto.org
+        - name: Scaloid
+          url: https://github.com/pocorall/scaloid
 
     - name: Tools
       projects:
