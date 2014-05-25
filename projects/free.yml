@@ -42,6 +42,8 @@ categories:
           url: https://github.com/kaeppler/ignition
         - name: GreenDroid
           url: http://greendroid.cyrilmottier.com
+        - name: Ketai
+          url: https://code.google.com/p/ketai/
         - name: Mortar
           url: https://github.com/square/mortar
         - name: Spring for Android
@@ -324,11 +326,6 @@ categories:
           url: https://github.com/maurycyw/StaggeredGridView
         - name: TwoWayGridView
           url: https://github.com/jess-anders/two-way-gridview
-
-    - name: Gyroscope
-      projects:
-        - name: Seismic
-          url: https://github.com/square/seismic
 
     - name: HTML
       projects:
@@ -730,8 +727,10 @@ categories:
         - name: Rating Reminder
           url: https://code.google.com/p/rating-reminder/
 
-    - name: Reactive Programming
+    - name: FRP
       projects:
+        - name: reactive-android
+          url: https://github.com/Yarikx/reactive-android
         - name: RxJava
           url: https://github.com/Netflix/RxJava
 
@@ -765,6 +764,19 @@ categories:
           url: https://github.com/moxie0/AndroidPinning
         - name: Conceal
           url: http://facebook.github.io/conceal/
+
+    - name: Sensors
+      projects:
+        - name: DASH
+          url: https://github.com/sonyxperiadev/DASH
+        - name: GAST
+          url: https://github.com/gast-lib/gast-lib
+        - name: Seismic
+          url: https://github.com/square/seismic
+        - name: Sensorium
+          url: https://github.com/fmetzger/android-sensorium
+        - name: SensorManager
+          url: https://github.com/nlathia/SensorManager
 
     - name: Scripting
       projects:
@@ -916,6 +928,8 @@ categories:
           url: https://github.com/inmite/android-grid-wichterle
         - name: Scalpel
           url: https://github.com/JakeWharton/scalpel
+        - name: SQLite Database Browser
+          url: http://sqlitebrowser.org
 
     - name: Utils
       projects:
