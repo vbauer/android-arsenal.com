@@ -34,6 +34,11 @@ categories:
         - name: Google Analytics
           url: https://developers.google.com/analytics/devguides/collection/android/
 
+    - name: Animations
+      projects:
+        - name: Rebound
+          url: https://github.com/facebook/rebound
+
     - name: Architecture
       projects:
         - name: DroidParts
@@ -65,7 +70,7 @@ categories:
           url: https://github.com/eddturtle/TurtlePlayer
         - name: Vanilla
           url: https://github.com/kreed/vanilla
-      
+
     - name: Background Processing
       projects:
         - name: Tape
@@ -205,7 +210,7 @@ categories:
           url: https://github.com/openaphid/android-flip
         - name: android-FlipView
           url: https://github.com/emilsjolander/android-FlipView
-      
+
     - name: Date Pickers
       projects:
         - name: TimesSquare for Android
@@ -285,7 +290,7 @@ categories:
           url: http://square.github.io/otto/
         - name: stickyd/eventbus
           url: https://github.com/stickyd/eventbus
-      
+
     - name: Fonts
       projects:
         - name: Calligraphy
@@ -330,11 +335,6 @@ categories:
           url: https://github.com/jess-anders/two-way-gridview
         - name: FreeFlow
           url: https://github.com/Comcast/FreeFlow
-          
-    - name: Animation Tools
-      projects:
-        - name: Rebound
-          url: https://github.com/facebook/rebound
 
     - name: HTML
       projects:
@@ -561,7 +561,7 @@ categories:
           url: http://hc.apache.org/httpcomponents-client-ga/httpmime/dependency-info.html
         - name: Mime4j
           url: http://james.apache.org/mime4j/
-          
+
     - name: Navigation History
       projects:
         - name: Flow
@@ -893,7 +893,7 @@ categories:
           url: http://robolectric.org
         - name: Robotium
           url: http://code.google.com/p/robotium/
-    
+
     - name: Testing Tools
       projects:
         - name: Bot-Bot
