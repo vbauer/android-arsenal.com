@@ -40,6 +40,10 @@ categories:
       projects:
         - name: Rebound
           url: https://github.com/facebook/rebound
+        - name: Activity Animation (Before pushing, This is example project, with amazing animation, REMOVE IT BEFORE ADDING)
+          url: https://github.com/flavienlaurent/activityanimation
+        - name: Transition Backport (Before pushing, This is support library to add compatibility with android 4.4 Transition, REMOVE IT BEFORE ADDING)
+          url: https://github.com/guerwan/TransitionsBackport
 
     - name: Architecture
       projects:
