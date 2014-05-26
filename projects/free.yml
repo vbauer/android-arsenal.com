@@ -960,6 +960,8 @@ categories:
           url: http://joda-time.sourceforge.net
         - name: Okio
           url: https://github.com/square/okio
+        - name: NoTils
+          url: https://github.com/novoda/NoTils
 
     - name: Validation
       projects:
