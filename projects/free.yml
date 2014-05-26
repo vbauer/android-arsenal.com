@@ -105,6 +105,8 @@ categories:
           url: https://github.com/sapandiwakar/PSGradientButtons
         - name: TH-ProgressButton
           url: https://github.com/torryharris/TH-ProgressButton
+        - name: Android Circle Button
+          url: https://github.com/markushi/android-circlebutton
 
     - name: Caching
       projects:
@@ -326,6 +328,13 @@ categories:
           url: https://github.com/maurycyw/StaggeredGridView
         - name: TwoWayGridView
           url: https://github.com/jess-anders/two-way-gridview
+        - name: FreeFlow
+          url: https://github.com/Comcast/FreeFlow
+          
+    - name: Animation Tools
+      projects:
+        - name: Rebound
+          url: https://github.com/facebook/rebound
 
     - name: HTML
       projects:
