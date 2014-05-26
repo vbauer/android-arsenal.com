@@ -33,6 +33,8 @@ categories:
       projects:
         - name: Google Analytics
           url: https://developers.google.com/analytics/devguides/collection/android/
+        - name: Yandex Metrica for Apps
+          url: https://appmetrica.yandex.com/
 
     - name: Architecture
       projects:
