@@ -596,6 +596,8 @@ categories:
           url: https://github.com/stephanenicolas/robospice
         - name: Volley
           url: https://android.googlesource.com/platform/frameworks/volley
+        - name: AllJoyn Android
+          url: https://www.alljoyn.org/docs-and-downloads/android
 
     - name: Object Mocking
       projects:
