@@ -189,6 +189,8 @@ categories:
           url: http://triple-t.github.io/simpleprovider/
         - name: ProviGen
           url: https://github.com/TimotheeJeannin/ProviGen
+        - name: SQLiteProvider
+          url: https://github.com/novoda/SQLiteProvider
 
     - name: Crash Reports
       projects:
