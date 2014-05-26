@@ -1022,6 +1022,8 @@ categories:
           url: http://kxml.org
         - name: Simple
           url: http://simple.sourceforge.net
+        - name: SimpleEasyXmlParser
+          url: https://github.com/novoda/SimpleEasyXmlParser
 
     - name: YAML
       projects:
