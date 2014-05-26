@@ -175,13 +175,6 @@ categories:
         - name: HoloColorPicker
           url: https://github.com/LarsWerkman/HoloColorPicker
 
-    - name: Content Provider Generators
-      projects:
-        - name: Android ContentProvider Generator
-          url: https://github.com/BoD/android-contentprovider-generator
-        - name: DatabaseCodeGenerator
-          url: https://github.com/foxykeep/ContentProviderCodeGenerator
-
     - name: Content Providers
       projects:
         - name: Content Provider Helper
@@ -217,6 +210,15 @@ categories:
           url: https://github.com/openaphid/android-flip
         - name: android-FlipView
           url: https://github.com/emilsjolander/android-FlipView
+
+    - name: Database
+      projects:
+        - name: Android ContentProvider Generator
+          url: https://github.com/BoD/android-contentprovider-generator
+        - name: DatabaseCodeGenerator
+          url: https://github.com/foxykeep/ContentProviderCodeGenerator
+        - name: Android SQLiteAssetHelper
+          url: https://github.com/jgilfelt/android-sqlite-asset-helper
 
     - name: Date Pickers
       projects:
