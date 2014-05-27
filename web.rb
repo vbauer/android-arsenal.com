@@ -63,7 +63,7 @@ class Application < Sinatra::Base
     end
 
     not_found do
-        @not_found_page ||= erb :not_found
+        @not_found_page ||= render_page(:not_found, {})
     end
 
     get "/" do
@@ -74,12 +74,18 @@ class Application < Sinatra::Base
         @paid_projects_page ||= render_categories(:paid, settings.data.paid.categories)
     end
 
+    get "/contributors" do
+        @contributors_page ||= render_page(:contributors, {:type => :contributors})
+    end
+
+
+    def render_page(page, extra)
+        locals = {:paid => settings.data.paid.count, :free => settings.data.free.count}
+        erb(page, :locals => locals.merge(extra))
+    end
 
     def render_categories(type, categories)
-        erb(:projects, :locals => {:type => type,
-                                   :paid => settings.data.paid.count,
-                                   :free => settings.data.free.count,
-                                   :categories => categories})
+        render_page(:projects, {:type => type, :categories => categories})
     end
 
 end
