@@ -24,8 +24,6 @@ categories:
       projects:
         - name: Bugsnag
           url: https://bugsnag.com
-        - name: Crashlytics
-          url: http://try.crashlytics.com
         - name: Crittercism
           url: http://www.crittercism.com
         - name: BugSense
