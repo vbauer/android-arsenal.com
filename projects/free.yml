@@ -210,6 +210,8 @@ categories:
           url: https://github.com/openaphid/android-flip
         - name: android-FlipView
           url: https://github.com/emilsjolander/android-FlipView
+        - name: FoldableLayout
+          url: https://github.com/alexvasilkov/FoldableLayout
 
     - name: Database
       projects:
