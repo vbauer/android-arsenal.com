@@ -896,6 +896,8 @@ categories:
           url: http://www.x5software.com/chunk/
         - name: commontemplate
           url: https://code.google.com/p/commontemplate/
+        - name: jmustache
+          url: https://github.com/samskivert/jmustache
         - name: MiniTemplator
           url: http://www.source-code.biz/MiniTemplator/
         - name: Phrase
@@ -909,6 +911,10 @@ categories:
           url: https://github.com/johnkil/Android-RobotoTextView
         - name: AnyTextView
           url: https://github.com/hanspeide/anytextview
+        - name: AutoFitTextView
+          url: https://github.com/grantland/android-autofittextview
+        - name: HtmlTextView
+          url: https://github.com/dschuermann/html-textview
         - name: Justified
           url: https://github.com/programingjd/justified
         - name: Shimmer-android
@@ -946,6 +952,8 @@ categories:
           url: https://github.com/keyboardsurfer/Crouton
         - name: MessageBar
           url: http://simonvt.github.io/MessageBar/
+        - name: SuperToasts
+          url: https://github.com/JohnPersano/SuperToasts
 
     - name: Toolkits For Other PL
       projects:
@@ -1059,6 +1067,8 @@ categories:
           url: http://simple.sourceforge.net
         - name: SimpleEasyXmlParser
           url: https://github.com/novoda/SimpleEasyXmlParser
+        - name: Woodstox
+          url: http://woodstox.codehaus.org
 
     - name: YAML
       projects:
