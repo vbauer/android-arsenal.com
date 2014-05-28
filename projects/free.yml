@@ -760,6 +760,8 @@ categories:
 
     - name: REST
       projects:
+        - name: Appsly Android Rest
+          url: https://github.com/47deg/appsly-android-rest
         - name: DataDroid
           url: https://github.com/foxykeep/DataDroid
         - name: Http Request
