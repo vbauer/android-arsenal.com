@@ -839,6 +839,15 @@ categories:
         - name: Twitter4J
           url: http://twitter4j.org
 
+    - name: SSH
+      projects:
+        - name: JSch
+          url: http://www.jcraft.com/jsch/
+        - name: Jaramiko
+          url: http://www.lag.net/paramiko/java/
+        - name: sshj
+          url: https://github.com/shikhar/sshj
+
     - name: SVG
       projects:
         - name: androidsvg

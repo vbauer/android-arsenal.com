@@ -86,3 +86,8 @@ categories:
           url: http://unity3d.com
         - name: Xamarin
           url: https://xamarin.com
+
+    - name: SSH
+      projects:
+        - name: J2SSH Maverick
+          url: http://www.sshtools.com/products/j2ssh-maverick
