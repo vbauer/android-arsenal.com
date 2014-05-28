@@ -6,13 +6,13 @@
             contributors = data.data || [];
         }
 
-        var width = 200;
+        var size = 200;
         var ui = '';
         var row;
 
         for (var i in contributors) {
             var contributor = contributors[i];
-            var avatarUrl = contributor.avatar_url + 's=' + width;
+            var avatarUrl = contributor.avatar_url + 's=' + size;
             var htmlUrl = contributor.html_url;
             var login = contributor.login;
 
@@ -27,7 +27,8 @@
             cell.append(cellLink);
 
             var cellImage = $('<img/>');
-            cellImage.css('max-width', width + 'px');
+            cellImage.css('max-width', size + 'px');
+            cellImage.css('max-height', size + 'px');
             cellImage.attr('width', '100%');
             cellImage.attr('title', login);
             cellImage.attr('src', avatarUrl);
@@ -39,11 +40,9 @@
         $('#ccount').text(contributors.length);
     }
 
-    $.ajax({
-        url: "https://api.github.com/repos/vbauer/android-arsenal.com/contributors?per_page=1000&callback=render",
-    });
-
 </script>
 
 <div class="description">Project contributors: <span id="ccount">...</span></div>
 <div id="contributors"></div>
+
+<script src="https://api.github.com/repos/vbauer/android-arsenal.com/contributors?per_page=1000&callback=render"></script>
