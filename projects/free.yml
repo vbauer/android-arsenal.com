@@ -447,6 +447,8 @@ categories:
       projects:
         - name: Android Empty Layout
           url: https://github.com/alamkanak/Android-Empty-Layout
+        - name: Android Constrained Widgets
+          url: https://marvinlabs.github.io/android-constrained-widgets
         - name: CircleLayout
           url: https://github.com/dmitry-zaitsev/CircleLayout
         - name: GridLayout
@@ -515,12 +517,15 @@ categories:
 
     - name: Progress Indicators
       projects:
+        - name: Android Progress Panel
+          url: https://marvinlabs.github.io/android-progress-panel
         - name: Android-ProgressFragment
           url: https://github.com/johnkil/Android-ProgressFragment
         - name: GoogleProgressBar
           url: https://github.com/jpardogo/GoogleProgressBar
         - name: ProgressWheel
           url: https://github.com/Todd-Davies/ProgressWheel
+
 
     - name: Lock Patterns
       projects:
@@ -972,6 +977,8 @@ categories:
 
     - name: Utils
       projects:
+        - name: Android Intents
+          url: http://marvinlabs.github.io/android-intents
         - name: Apache Commons Codec
           url: http://commons.apache.org/proper/commons-codec/
         - name: Apache Commons IO
