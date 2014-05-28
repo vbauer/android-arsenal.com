@@ -35,8 +35,6 @@ categories:
           url: https://developers.google.com/analytics/devguides/collection/android/
         - name: Yandex Metrica
           url: https://appmetrica.yandex.com
-        - name: Parse Analytics
-          url: https://www.parse.com/products/analytics
 
     - name: Animations
       projects:
@@ -165,8 +163,6 @@ categories:
           url: https://www.dropbox.com/developers/core/sdks/android
         - name: Google Drive
           url: https://developers.google.com/drive/android/
-        - name: Parse
-          url: https://www.parse.com/products/core
 
     - name: Color Pickers
       projects:

@@ -9,6 +9,8 @@ categories:
           url: https://count.ly
         - name: Flurry
           url: http://www.flurry.com
+        - name: Parse Analytics
+          url: https://www.parse.com/products/analytics
 
     - name: Bar Codes
       projects:
@@ -19,6 +21,11 @@ categories:
       projects:
         - name: Reportest
           url: https://www.reportest.com
+
+    - name: Cloud Storages
+      projects:
+        - name: Parse
+          url: https://www.parse.com/products/core
 
     - name: Crash Reports
       projects:

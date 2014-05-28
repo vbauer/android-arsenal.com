@@ -24,9 +24,7 @@ class ProjectsInfo
         categories = data['categories'] || []
         categories.each do |d|
             d['name'].split(',').each do |c|
-                projects = d['projects'].sort! { |a,b|
-                    a['name'].downcase <=> b['name'].downcase
-                }
+                projects = d['projects'].sort_by { |p| p['name'].downcase }
                 @count += projects.size
                 @categories[c.strip].concat(projects)
             end
