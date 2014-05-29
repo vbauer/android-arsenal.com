@@ -201,6 +201,8 @@ categories:
           url: https://code.google.com/p/opencsv/
         - name: CSVReader
           url: https://code.google.com/p/secrets-for-android/source/browse/trunk/src/au/com/bytecode/opencsv/CSVReader.java
+        - name: Super CSV
+          url:  http://supercsv.sourceforge.net
 
     - name: Curl/Flip Effects
       projects:

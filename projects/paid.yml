@@ -9,6 +9,8 @@ categories:
           url: https://count.ly
         - name: Flurry
           url: http://www.flurry.com
+        - name: Kochava
+          url: http://www.kochava.com
         - name: Parse Analytics
           url: https://www.parse.com/products/analytics
 
@@ -87,6 +89,11 @@ categories:
         - name: ABBYY Mobile OCR Engine
           url: http://www.abbyy.com/mobileocr/android/
 
+    - name: PDF
+      projects:
+      - name: PDFViewer SDK for Mobiles
+        url: http://www.radaeepdf.com
+
     - name: Platforms
       projects:
         - name: Unity
@@ -94,10 +101,10 @@ categories:
         - name: Xamarin
           url: https://xamarin.com
 
-    - name: PDF
+    - name: Push Notifications
       projects:
-      - name: PDFViewer SDK for Mobiles
-        url: http://www.radaeepdf.com
+        - name: Push IO
+          url: http://push.io
 
     - name: SSH
       projects:
