@@ -855,6 +855,17 @@ categories:
         - name: sshj
           url: https://github.com/shikhar/sshj
 
+    - name: Static Code Analysis
+      projects:
+        - name: Checkstyle
+          url: http://checkstyle.sourceforge.net
+        - name: FindBugs
+          url: http://findbugs.sourceforge.net
+        - name: lint
+          url: http://developer.android.com/tools/help/lint.html
+        - name: PMD
+          url: http://pmd.sourceforge.net
+
     - name: SVG
       projects:
         - name: androidsvg
