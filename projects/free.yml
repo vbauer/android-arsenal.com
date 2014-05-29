@@ -313,6 +313,13 @@ categories:
         - name: PixlUI
           url: https://github.com/neopixl/PixlUI
 
+    - name: FRP
+      projects:
+        - name: reactive-android
+          url: https://github.com/Yarikx/reactive-android
+        - name: RxJava
+          url: https://github.com/Netflix/RxJava
+
     - name: Graphics
       projects:
         - name: AndroidCharts
@@ -386,6 +393,8 @@ categories:
           url: https://github.com/lvillani/android-cropimage
         - name: android-crop
           url: https://github.com/jdamcd/android-crop
+        - name: Cropimage
+          url: https://github.com/biokys/cropimage
         - name: Cropper
           url: https://github.com/edmodo/cropper
 
@@ -402,14 +411,22 @@ categories:
 
     - name: Image Processing
       projects:
+        - name: android-image-filter
+          url: https://github.com/ragnraok/android-image-filter
+        - name: android-image-filtering
+          url: https://code.google.com/p/android-image-filtering/
         - name: android-jhlabs
           url: https://code.google.com/p/android-jhlabs/
         - name: android-lib-magick
           url: https://github.com/puelocesar/android-lib-magick
+        - name: AndroidFastImageProcessing
+          url: https://github.com/chrisbatt/AndroidFastImageProcessing
         - name: CImg
           url: http://cimg.sourceforge.net
         - name: JavaCV
           url: https://github.com/bytedeco/javacv
+        - name: JJIL
+          url: https://code.google.com/p/jjil/
         - name: OpenCV
           url: http://opencv.org/platforms/android.html
 
@@ -623,6 +640,8 @@ categories:
           url: https://github.com/rmtheis/android-ocr
         - name: Tesseract
           url: https://code.google.com/p/tesseract-ocr/
+        - name: tess-two
+          url: https://github.com/rmtheis/tess-two
 
     - name: OpenGL
       projects:
@@ -755,13 +774,6 @@ categories:
           url: https://github.com/PomepuyN/discreet-app-rate
         - name: Rating Reminder
           url: https://code.google.com/p/rating-reminder/
-
-    - name: FRP
-      projects:
-        - name: reactive-android
-          url: https://github.com/Yarikx/reactive-android
-        - name: RxJava
-          url: https://github.com/Netflix/RxJava
 
     - name: REST
       projects:
