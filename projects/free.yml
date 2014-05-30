@@ -188,6 +188,11 @@ categories:
         - name: SQLiteProvider
           url: https://github.com/novoda/SQLiteProvider
 
+    - name: Continuous Integration
+      projects:
+        - name: Greenhouse
+          url: http://greenhouseci.com
+
     - name: Crash Reports
       projects:
         - name: ACRA
