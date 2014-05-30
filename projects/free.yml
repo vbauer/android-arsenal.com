@@ -223,6 +223,8 @@ categories:
           url: https://github.com/foxykeep/ContentProviderCodeGenerator
         - name: Android SQLiteAssetHelper
           url: https://github.com/jgilfelt/android-sqlite-asset-helper
+        - name: Read DataTypes
+          url: https://github.com/Abhan/ReadDataTypes
 
     - name: Date Pickers
       projects:
@@ -731,6 +733,8 @@ categories:
           url: http://coronalabs.com/products/corona-sdk/
         - name: PhoneGap
           url: http://phonegap.com
+        - name: Kony
+          url: http://www.kony.com/
 
     - name: Protocol Buffer
       projects:
@@ -1110,3 +1114,10 @@ categories:
       projects:
         - name: SnakeYAML
           url: https://code.google.com/p/snakeyaml/
+          
+    - name: SOAP
+      projects:
+        - name: kSOAP
+          url: https://code.google.com/p/ksoap2-android/
+        - name: Using HTTP
+          url: https://github.com/Abhan/SoapWithoutKSoap
