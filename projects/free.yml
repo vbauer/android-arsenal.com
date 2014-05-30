@@ -710,6 +710,17 @@ categories:
         - name: MuPDF
           url: http://www.mupdf.com
 
+    - name: Physics Engines
+      projects:
+        - name: Box2D
+          url: http://box2d.org
+        - name: Bullet
+          url: http://bulletphysics.org
+        - name: Chipmunk2D
+          url: http://chipmunk-physics.net
+        - name: JBox2D
+          url: http://www.jbox2d.org
+
     - name: Platforms
       projects:
         - name: Adobe AIR
