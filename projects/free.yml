@@ -1121,8 +1121,14 @@ categories:
       projects:
         - name: SnakeYAML
           url: https://code.google.com/p/snakeyaml/
-          
+
     - name: SOAP
       projects:
+        - name: android-soap-enabler
+          url: https://code.google.com/p/android-soap-enabler/
+        - name: icesoap
+          url: https://code.google.com/p/icesoap/
         - name: kSOAP
           url: https://code.google.com/p/ksoap2-android/
+        - name: nano
+          url: https://github.com/bulldog2011/nano
