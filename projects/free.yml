@@ -433,6 +433,8 @@ categories:
           url: https://code.google.com/p/jjil/
         - name: OpenCV
           url: http://opencv.org/platforms/android.html
+        - name: libpng-android
+          url: https://github.com/julienr/libpng-android
 
     - name: Image Views
       projects:
