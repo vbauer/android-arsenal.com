@@ -1070,8 +1070,6 @@ categories:
           url: https://github.com/bbcallen/ijkplayer
         - name: libstreaming
           url: https://github.com/fyhertz/libstreaming
-        - name: Vitamio
-          url: https://github.com/yixia/VitamioBundle/
         - name: YouTube Android Player
           url: https://developers.google.com/youtube/android/player/
 

@@ -110,3 +110,8 @@ categories:
       projects:
         - name: J2SSH Maverick
           url: http://www.sshtools.com/products/j2ssh-maverick
+
+    - name: Video
+      projects:
+        - name: Vitamio
+          url: https://github.com/yixia/VitamioBundle/
