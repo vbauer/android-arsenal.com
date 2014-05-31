@@ -1121,3 +1121,8 @@ categories:
       projects:
         - name: SnakeYAML
           url: https://code.google.com/p/snakeyaml/
+          
+    - name: SOAP
+      projects:
+        - name: kSOAP
+          url: https://code.google.com/p/ksoap2-android/
