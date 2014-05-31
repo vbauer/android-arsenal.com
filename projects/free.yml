@@ -777,6 +777,15 @@ categories:
         - name: ZXScanLib
           url: https://github.com/LivotovLabs/zxscanlib
 
+    - name: Range Bars
+      projects:
+        - name: range-bar
+          url: https://github.com/edmodo/range-bar
+        - name: range-seek-bar
+          url: https://code.google.com/p/range-seek-bar/
+        - name: RangeSeekBar
+          url: https://github.com/Efor18/RangeSeekBar
+
     - name: Ratings
       projects:
         - name: Appirater
