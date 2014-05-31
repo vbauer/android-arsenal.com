@@ -818,6 +818,9 @@ categories:
           url: https://github.com/ahorn/android-rss
         - name: Android-RSS-Reader-Library
           url: https://github.com/matshofman/Android-RSS-Reader-Library
+        - name: Simplistic RSS
+          url: https://github.com/ShirwaM/Simplistic-RSS
+
 
     - name: Security
       projects:
