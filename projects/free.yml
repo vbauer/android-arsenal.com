@@ -472,6 +472,8 @@ categories:
           url: https://github.com/alamkanak/Android-Empty-Layout
         - name: Android Constrained Widgets
           url: https://marvinlabs.github.io/android-constrained-widgets
+        - name: Android Slide Show Widget
+          url: https://marvinlabs.github.io/android-slideshow-widget
         - name: CircleLayout
           url: https://github.com/dmitry-zaitsev/CircleLayout
         - name: GridLayout
