@@ -415,6 +415,8 @@ categories:
 
     - name: Image Processing
       projects:
+        - name: picasso-transformations
+          url: https://github.com/TannerPerrien/picasso-transformations
         - name: android-image-filter
           url: https://github.com/ragnraok/android-image-filter
         - name: android-image-filtering
