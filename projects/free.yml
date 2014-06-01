@@ -1137,3 +1137,9 @@ categories:
           url: https://code.google.com/p/ksoap2-android/
         - name: nano
           url: https://github.com/bulldog2011/nano
+
+    - name: Floating Views
+      projects:
+        - name: StandOut
+          url: https://github.com/pingpongboss/StandOut
+          
