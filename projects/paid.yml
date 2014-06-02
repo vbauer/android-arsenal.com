@@ -49,6 +49,11 @@ categories:
         - name: TeeChart for Android
           url: http://www.steema.com/teechart/mobile
 
+    - name: Continuous Integration
+      projects:
+        - name: Greenhouse
+          url: http://greenhouseci.com
+
     - name: Image Processing
       projects:
         - name: Aviary
