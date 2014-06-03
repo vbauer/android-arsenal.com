@@ -177,6 +177,11 @@ categories:
         - name: HoloColorPicker
           url: https://github.com/LarsWerkman/HoloColorPicker
 
+    - name: Color Analysis
+      projects:
+        - name: Bright
+          url: https://github.com/damson/Bright
+
     - name: Content Providers
       projects:
         - name: Content Provider Helper
