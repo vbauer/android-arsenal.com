@@ -1133,8 +1133,12 @@ categories:
 
     - name: YAML
       projects:
+        - name: JYaml
+          url: http://jyaml.sourceforge.net
         - name: SnakeYAML
           url: https://code.google.com/p/snakeyaml/
+        - name: YamlBeans
+          url: https://github.com/EsotericSoftware/yamlbeans
 
     - name: SOAP
       projects:
@@ -1151,4 +1155,4 @@ categories:
       projects:
         - name: StandOut
           url: https://github.com/pingpongboss/StandOut
-          
+
