@@ -546,8 +546,6 @@ categories:
           url: https://github.com/bhavyahmehta/ListviewFilter
         - name: LetterSectionList
           url: https://github.com/tallan/Letter-Section-List/
-        - name: HorizontalVariableListView
-          url: https://github.com/sephiroth74/HorizontalVariableListView
         - name: PinnedSectionListView
           url: https://github.com/beworker/pinned-section-listview
         - name: StickyGridHeaders
@@ -1055,6 +1053,8 @@ categories:
           url: https://github.com/JakeWharton/scalpel
         - name: SQLite Database Browser
           url: http://sqlitebrowser.org
+        - name: ViewPortSizes
+          url: http://viewportsizes.com/mine/
 
     - name: Utils
       projects:
@@ -1111,11 +1111,6 @@ categories:
           url: https://github.com/jfeinstein10/JazzyViewPager
         - name: AutoNotifyViewPager
           url: https://github.com/VenomVendor/AutoNotifyViewPager
-          
-    - name: ViewPort Size
-      projects:
-        - name: ViewPortSizes
-          url: http://viewportsizes.com/mine/
 
     - name: Weather
       projects:
