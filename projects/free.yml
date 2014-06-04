@@ -489,6 +489,8 @@ categories:
           url: https://github.com/ManuelPeinado/ImageLayout
         - name: FlatUI
           url: https://github.com/eluleci/FlatUI
+        - name: DynamicBox
+          url: https://github.com/medyo/dynamicbox
 
     - name: List Views
       projects:
