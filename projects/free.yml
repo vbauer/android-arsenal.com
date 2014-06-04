@@ -565,6 +565,8 @@ categories:
           url: https://github.com/jpardogo/GoogleProgressBar
         - name: ProgressWheel
           url: https://github.com/Todd-Davies/ProgressWheel
+        - name: Android Process Button
+          url: https://github.com/dmytrodanylyk/android-process-button/
 
 
     - name: Lock Patterns
@@ -1103,6 +1105,15 @@ categories:
           url: http://viewpagerindicator.com
         - name: VerticalViewPager
           url: https://github.com/castorflex/VerticalViewPager
+        - name: JazzyViewPager
+          url: https://github.com/jfeinstein10/JazzyViewPager
+        - name: AutoNotifyViewPager
+          url: https://github.com/VenomVendor/AutoNotifyViewPager
+          
+    - name: ViewPort Size
+      projects:
+        - name: ViewPortSizes
+          url: http://viewportsizes.com/mine/
 
     - name: Weather
       projects:
