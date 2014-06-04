@@ -181,6 +181,10 @@ categories:
       projects:
         - name: Bright
           url: https://github.com/damson/Bright
+        - name: ColorArt
+          url: https://github.com/MichaelEvans/ColorArt
+        - name: Colours
+          url: https://github.com/MatthewYork/Colours
 
     - name: Content Providers
       projects:
@@ -385,6 +389,8 @@ categories:
 
     - name: IDE Plugins
       projects:
+        - name: Android Holo Colors IntelliJ Plugin
+          url: https://github.com/jeromevdl/android-holo-colors-idea-plugin
         - name: ButterKnifeZelezny
           url: https://github.com/inmite/android-butterknife-zelezny
         - name: Dagger IntelliJ Plugin
