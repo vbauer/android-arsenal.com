@@ -13,16 +13,18 @@ categories:
           url: http://www.kochava.com
         - name: Parse Analytics
           url: https://www.parse.com/products/analytics
+        - name: Telerik Analytics
+          url: http://www.telerik.com/analytics
+          
+    - name: Automation Testing
+      projects:
+        - name: Telerik Mobile Testing
+          url: http://www.telerik.com/mobile-testing
 
     - name: Bar Codes
       projects:
         - name: Scandit
           url: http://www.scandit.com/barcode-scanner-sdk/
-
-    - name: Feedback Reports
-      projects:
-        - name: Reportest
-          url: https://www.reportest.com
 
     - name: Cloud Storages
       projects:
@@ -41,6 +43,21 @@ categories:
           url: http://www.hockeyapp.net
         - name: Rollbar
           url: http://www.rollbar.com
+        - name: Telerik Analytics
+          url: http://www.telerik.com/analytics
+          
+    - name: Design
+      projects:
+        - name: Telerik AppPrototyper 
+          url: http://www.telerik.com/appprototyper
+    
+
+    - name: Feedback & Ratings
+      projects:
+        - name: Reportest
+          url: https://www.reportest.com
+        - name: Telerik AppFeedback
+          url: http://www.telerik.com/appfeedback-beta-signup
 
     - name: Graphics
       projects:
@@ -48,6 +65,8 @@ categories:
           url: http://graphwidget.android-libraries.com
         - name: TeeChart for Android
           url: http://www.steema.com/teechart/mobile
+        - name: Telerik UI for Android
+          url: http://www.telerik.com/android-ui
 
     - name: Continuous Integration
       projects:
@@ -63,14 +82,17 @@ categories:
       projects:
         - name: CustomListView
           url: http://listview.android-libraries.com
+        - name: Kendo UI ListView
+          url: http://www.telerik.com/kendo-ui
 
     - name: Maps
       projects:
+        - name: Kendo UI Map
+          url: http://www.telerik.com/kendo-ui
         - name: mAppWidget
           url: http://mapp.android-libraries.com
         - name: Nutiteq 3D Maps
           url: http://nutiteq.github.io
-
 
     - name: MBaaS
       projects:
@@ -88,6 +110,8 @@ categories:
           url: http://www.kumulos.com
         - name: Parse
           url: https://parse.com
+        - name: Telerik Backend Services
+          url: http://www.telerik.com/backend-services
 
     - name: OCR Engines
       projects:
@@ -101,6 +125,8 @@ categories:
 
     - name: Platforms
       projects:
+        - name: Telerik Platform
+          url: http://www.telerik.com/platform
         - name: Unity
           url: http://unity3d.com
         - name: Xamarin
@@ -110,6 +136,8 @@ categories:
       projects:
         - name: Push IO
           url: http://push.io
+        - name: Telerik Backend Services
+          url: http://www.telerik.com/backend-services
 
     - name: SSH
       projects:
