@@ -15,7 +15,7 @@ categories:
           url: https://www.parse.com/products/analytics
         - name: Telerik Analytics
           url: http://www.telerik.com/analytics
-          
+
     - name: Automation Testing
       projects:
         - name: Telerik Mobile Testing
@@ -35,22 +35,21 @@ categories:
       projects:
         - name: Bugsnag
           url: https://bugsnag.com
-        - name: Crittercism
-          url: http://www.crittercism.com
         - name: BugSense
           url: https://www.bugsense.com
+        - name: Crittercism
+          url: http://www.crittercism.com
         - name: HockeyApp
           url: http://www.hockeyapp.net
         - name: Rollbar
           url: http://www.rollbar.com
         - name: Telerik Analytics
           url: http://www.telerik.com/analytics
-          
+
     - name: Design
       projects:
-        - name: Telerik AppPrototyper 
+        - name: Telerik AppPrototyper
           url: http://www.telerik.com/appprototyper
-    
 
     - name: Feedback & Ratings
       projects:

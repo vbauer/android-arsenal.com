@@ -235,6 +235,15 @@ categories:
         - name: Android SQLiteAssetHelper
           url: https://github.com/jgilfelt/android-sqlite-asset-helper
 
+    - name: Database Browsers
+      projects:
+        - name: SQLite Manager
+          url: https://addons.mozilla.org/en-US/firefox/addon/sqlite-manager/
+        - name: SQLite Browser
+          url: http://sqlitebrowser.org
+        - name: SQLite DB Bowser
+          url: http://sqlitedbrowser.sourceforge.net/
+
     - name: Date Pickers
       projects:
         - name: TimesSquare for Android
@@ -305,6 +314,15 @@ categories:
           url: https://github.com/spacecowboy/NoNonsense-FilePicker
         - name: UpdateChecker
           url: https://github.com/rampo/UpdateChecker
+
+    - name: Distribution Platforms
+      projects:
+        - name: Google Play
+          url: https://play.google.com
+        - name: HockeyKit
+          url: http://hockeykit.net
+        - name: Samsung Apps
+          url: http://apps.samsung.com
 
     - name: Event Buses
       projects:
@@ -1041,23 +1059,12 @@ categories:
         - name: Xtendroid
           url: https://github.com/tobykurien/xtendroid
 
-    - name: Database Browsers
-      projects:
-        - name: SQLite Manager
-          url: https://addons.mozilla.org/en-US/firefox/addon/sqlite-manager/
-        - name: SQLite Browser
-          url: http://sqlitebrowser.org
-        - name: SQLite DB Bowser
-          url: http://sqlitedbrowser.sourceforge.net/
-
     - name: Tools
       projects:
         - name: AndroidAssetStudio
           url: https://romannurik.github.io/AndroidAssetStudio
         - name: Android Studio Templates
           url: https://github.com/gabrielemariotti/AndroidStudioTemplate
-        - name: HockeyKit
-          url: http://hockeykit.net
         - name: GridWichterle
           url: https://github.com/inmite/android-grid-wichterle
         - name: Scalpel
