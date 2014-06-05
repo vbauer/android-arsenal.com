@@ -489,6 +489,8 @@ categories:
           url: https://marvinlabs.github.io/android-slideshow-widget
         - name: CircleLayout
           url: https://github.com/dmitry-zaitsev/CircleLayout
+        - name: CircularView
+          url: https://github.com/sababado/CircularView
         - name: GridLayout
           url: https://github.com/jacobmoncur/gridlayout_v7
         - name: ImageLayout
