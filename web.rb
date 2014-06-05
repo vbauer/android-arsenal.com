@@ -42,6 +42,7 @@ class DataContext
 end
 
 class Application < Sinatra::Base
+    CACHE_TIME = 86400
 
     configure :production, :development do
         set :sessions, false
@@ -59,8 +60,8 @@ class Application < Sinatra::Base
         start = settings.start_time
         last_modified start
         etag start.to_s
-        expires 86400
-        cache_control :public, :must_revalidate, :max_age => 0
+        expires CACHE_TIME
+        cache_control :public, :must_revalidate, :max_age => CACHE_TIME
     end
 
     not_found do
