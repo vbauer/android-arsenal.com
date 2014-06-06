@@ -297,6 +297,8 @@ categories:
           url: http://androidniceties.tumblr.com
         - name: ICS Apps
           url: http://ics-apps.tumblr.com
+        - name: HoloAccent
+          url: https://github.com/negusoft/holoaccent
 
     - name: Dialogs
       projects:
@@ -1187,4 +1189,3 @@ categories:
       projects:
         - name: StandOut
           url: https://github.com/pingpongboss/StandOut
-
