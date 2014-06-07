@@ -104,8 +104,10 @@ categories:
 
     - name: Buttons
       projects:
-        - name: android-process-button
+        - name: Process Button
           url: https://github.com/dmytrodanylyk/android-process-button
+        - name: Circular Progress Button
+          url: https://github.com/dmytrodanylyk/circular-progress-button
         - name: Flat Button
           url: https://github.com/hoang8f/android-flat-button
         - name: ProgressButton
