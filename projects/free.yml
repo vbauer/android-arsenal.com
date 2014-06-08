@@ -771,6 +771,8 @@ categories:
       projects:
         - name: Android PDF Writer
           url: http://sourceforge.net/projects/apwlibrary/
+        - name: Android-Pdf-Viewer-Library
+          url: https://github.com/jblough/Android-Pdf-Viewer-Library
         - name: MuPDF
           url: http://www.mupdf.com
 

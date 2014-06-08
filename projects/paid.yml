@@ -119,8 +119,18 @@ categories:
 
     - name: PDF
       projects:
-      - name: PDFViewer SDK for Mobiles
-        url: http://www.radaeepdf.com
+        - name: iTextG
+          url: http://itextpdf.com
+        - name: PDFjet
+          url: http://pdfjet.com
+        - name: PDFTron
+          url: https://www.pdftron.com
+        - name: PDFViewer
+          url: http://www.androidpdf.mobi
+        - name: PDFViewer SDK for Mobiles
+          url: http://www.radaeepdf.com
+        - name: plugPDF
+          url: http://plugpdf.com
 
     - name: Platforms
       projects:
