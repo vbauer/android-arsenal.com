@@ -102,6 +102,21 @@ categories:
         - name: ZBar
           url: http://zbar.sourceforge.net
 
+    - name: Build Systems
+      projects:
+        - name: Apache Ant
+          url: http://ant.apache.org
+        - name: Apache Maven
+          url: http://maven.apache.org
+        - name: Gant
+          url: http://gant.codehaus.org
+        - name: Gradle
+          url: http://www.gradle.org
+        - name: Leiningen
+          url: http://leiningen.org
+        - name: sbt
+          url: http://www.scala-sbt.org
+
     - name: Buttons
       projects:
         - name: Process Button
