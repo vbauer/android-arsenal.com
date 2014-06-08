@@ -465,33 +465,21 @@ categories:
 
     - name: Image Processing
       projects:
+        - name: Android StackBlur
+          url: https://github.com/kikoso/android-stackblur
         - name: picasso-transformations
           url: https://github.com/TannerPerrien/picasso-transformations
-        - name: android-image-filter
-          url: https://github.com/ragnraok/android-image-filter
         - name: android-image-filtering
           url: https://code.google.com/p/android-image-filtering/
         - name: android-jhlabs
           url: https://code.google.com/p/android-jhlabs/
-        - name: android-lib-magick
-          url: https://github.com/puelocesar/android-lib-magick
         - name: AndroidFastImageProcessing
           url: https://github.com/chrisbatt/AndroidFastImageProcessing
-        - name: CImg
-          url: http://cimg.sourceforge.net
-        - name: JavaCV
-          url: https://github.com/bytedeco/javacv
         - name: JJIL
           url: https://code.google.com/p/jjil/
-        - name: OpenCV
-          url: http://opencv.org/platforms/android.html
-        - name: libpng-android
-          url: https://github.com/julienr/libpng-android
 
     - name: Image Views
       projects:
-        - name: Android StackBlur
-          url: https://github.com/kikoso/android-stackblur
         - name: ImageViewZoom
           url: https://github.com/sephiroth74/ImageViewZoom
         - name: PhotoView
@@ -662,6 +650,21 @@ categories:
           url: http://hc.apache.org/httpcomponents-client-ga/httpmime/dependency-info.html
         - name: Mime4j
           url: http://james.apache.org/mime4j/
+
+    - name: Native Image Processing
+      projects:
+        - name: android-image-filter
+          url: https://github.com/ragnraok/android-image-filter
+        - name: android-lib-magick
+          url: https://github.com/puelocesar/android-lib-magick
+        - name: CImg
+          url: http://cimg.sourceforge.net
+        - name: JavaCV
+          url: https://github.com/bytedeco/javacv
+        - name: libpng-android
+          url: https://github.com/julienr/libpng-android
+        - name: OpenCV
+          url: http://opencv.org/platforms/android.html
 
     - name: Navigation History
       projects:
@@ -851,6 +854,8 @@ categories:
           url: https://code.google.com/p/range-seek-bar/
         - name: RangeSeekBar
           url: https://github.com/Efor18/RangeSeekBar
+        - name: SeekArc
+          url: https://github.com/TriggerTrap/SeekArc
 
     - name: Ratings
       projects:
