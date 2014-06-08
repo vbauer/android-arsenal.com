@@ -319,20 +319,12 @@ categories:
 
     - name: Dialogs
       projects:
-        - name: aFileChooser
-          url: https://github.com/iPaulPro/aFileChooser
-        - name: afiledialog
-          url: https://code.google.com/p/afiledialog/
-        - name: DirectoryChooser
-          url: https://github.com/passy/Android-DirectoryChooser
         - name: StandOut
           url: https://github.com/pingpongboss/StandOut
         - name: StyledDialogs
           url: https://github.com/inmite/android-styled-dialogs
         - name: LicensesDialog
           url: http://psdev.de/LicensesDialog/
-        - name: NoNonsense FilePicker
-          url: https://github.com/spacecowboy/NoNonsense-FilePicker
         - name: UpdateChecker
           url: https://github.com/rampo/UpdateChecker
 
@@ -353,6 +345,19 @@ categories:
           url: http://square.github.io/otto/
         - name: stickyd/eventbus
           url: https://github.com/stickyd/eventbus
+
+    - name: File/Directory Choosers
+      projects:
+        - name: aFileChooser
+          url: https://github.com/iPaulPro/aFileChooser
+        - name: afiledialog
+          url: https://code.google.com/p/afiledialog/
+        - name: DirectoryChooser
+          url: https://github.com/passy/Android-DirectoryChooser
+        - name: NoNonsense FilePicker
+          url: https://github.com/spacecowboy/NoNonsense-FilePicker
+        - name: simple-file-chooser
+          url: https://github.com/ingyesid/simple-file-chooser
 
     - name: Fonts
       projects:
