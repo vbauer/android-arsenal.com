@@ -214,6 +214,11 @@ categories:
         - name: Crashlytics
           url: https://crashlytics.com
 
+    - name: Credits
+      projects:
+        - name: AboutLibraries
+          url: https://github.com/mikepenz/AboutLibraries
+
     - name: CSV
       projects:
         - name: opencsv
