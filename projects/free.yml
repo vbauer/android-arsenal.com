@@ -359,11 +359,6 @@ categories:
         - name: simple-file-chooser
           url: https://github.com/ingyesid/simple-file-chooser
 
-    - name: Float Label EditText
-      projects:
-	- name: Android Floating Label
-	- url: https://github.com/hardik-trivedi/FloatingLabel
-
     - name: Fonts
       projects:
         - name: Calligraphy
@@ -1034,6 +1029,8 @@ categories:
 
     - name: Text Views
       projects:
+        - name: Android Floating Label
+          url: https://github.com/hardik-trivedi/FloatingLabel
         - name: android-flowtextview
           url: https://code.google.com/p/android-flowtextview/
         - name: Android-RobotoTextView
