@@ -838,6 +838,10 @@ categories:
           url: http://developer.android.com/google/play/billing/index.html
         - name: Amazon in-app purchasing
           url: https://developer.amazon.com/welcome.html
+        - name: Donations Library
+          url: https://github.com/dschuermann/android-donations-lib
+        - name: Open In-App Billing
+          url: https://github.com/onepf/OpenIAB
 
     - name: Push Notifications
       projects:
