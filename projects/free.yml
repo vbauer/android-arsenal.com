@@ -214,6 +214,11 @@ categories:
         - name: Crashlytics
           url: https://crashlytics.com
 
+    - name: Credits
+      projects:
+        - name: AboutLibraries
+          url: https://github.com/mikepenz/AboutLibraries
+
     - name: CSV
       projects:
         - name: opencsv
@@ -407,6 +412,8 @@ categories:
           url: https://github.com/jess-anders/two-way-gridview
         - name: FreeFlow
           url: https://github.com/Comcast/FreeFlow
+        - name: AnimatedGridView
+          url: https://github.com/mikepenz/AnimatedGridView
 
     - name: HTML
       projects:
