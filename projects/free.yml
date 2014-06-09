@@ -155,6 +155,8 @@ categories:
           url: https://github.com/tyczj/ExtendedCalendarView
         - name: MFCalendarView
           url: https://github.com/MustafaFerhan/MFCalendarView
+        - name: Roboto Calendar View
+          url: https://github.com/Disegnator/RobotoCalendarView
 
     - name: Cards
       projects:
