@@ -145,17 +145,6 @@ categories:
         - name: carbonite
           url: https://github.com/eveliotc/carbonite
 
-    - name: Calendars
-      projects:
-        - name: Android-RecurrencePicker
-          url: https://github.com/Shusshu/Android-RecurrencePicker
-        - name: Caldroid
-          url: https://github.com/roomorama/Caldroid
-        - name: ExtendedCalendarView
-          url: https://github.com/tyczj/ExtendedCalendarView
-        - name: MFCalendarView
-          url: https://github.com/MustafaFerhan/MFCalendarView
-
     - name: Cards
       projects:
         - name: Cardslib
@@ -265,14 +254,22 @@ categories:
 
     - name: Date Pickers
       projects:
-        - name: TimesSquare for Android
-          url: https://github.com/square/android-times-square
         - name: android-betterpickers
           url: https://github.com/derekbrameyer/android-betterpickers
-        - name: DateTimePicker
-          url: https://github.com/flavienlaurent/datetimepicker
         - name: android-datepicker
           url: https://github.com/SimonVT/android-datepicker
+        - name: Android-RecurrencePicker
+          url: https://github.com/Shusshu/Android-RecurrencePicker
+        - name: Caldroid
+          url: https://github.com/roomorama/Caldroid
+        - name: DateTimePicker
+          url: https://github.com/flavienlaurent/datetimepicker
+        - name: ExtendedCalendarView
+          url: https://github.com/tyczj/ExtendedCalendarView
+        - name: MFCalendarView
+          url: https://github.com/MustafaFerhan/MFCalendarView
+        - name: TimesSquare for Android
+          url: https://github.com/square/android-times-square
 
     - name: Demos
       projects:

@@ -3,14 +3,14 @@
 
 If you want to make this world a little bit better you can:
 
-- Fork this repository
+- Check that the project(s) you want to suggest is (are) not already in the list.
+- Fork this repository.
 - Add some new interesting projects or fix mistakes.
   Modify file:
     - **projects/free.yml** - for free projects
     - or **projects/paid.yml** - for paid projects
-- Send back a pull request
-
-**NB:** Please, check your indentations in text to prevent possible problems with YAML parser.
+- Check your indentations in text to prevent possible problems with YAML parser.
+- Send back a pull request.
 
 
 ## Running server locally
