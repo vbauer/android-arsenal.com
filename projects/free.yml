@@ -412,6 +412,8 @@ categories:
           url: https://github.com/jess-anders/two-way-gridview
         - name: FreeFlow
           url: https://github.com/Comcast/FreeFlow
+        - name: AnimatedGridView
+          url: https://github.com/mikepenz/AnimatedGridView
 
     - name: HTML
       projects:
