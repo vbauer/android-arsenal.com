@@ -338,8 +338,6 @@ categories:
           url: http://hockeykit.net
         - name: Samsung Apps
           url: http://apps.samsung.com
-        - name: Raccoon
-          url: http://www.onyxbits.de/raccoon
 
     - name: Event Buses
       projects:
@@ -1143,6 +1141,9 @@ categories:
           url: https://github.com/JakeWharton/scalpel
         - name: ViewPortSizes
           url: http://viewportsizes.com/mine/
+        - name: Raccoon
+          url: http://www.onyxbits.de/raccoon
+
 
     - name: Utils
       projects:
