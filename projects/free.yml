@@ -361,6 +361,11 @@ categories:
         - name: simple-file-chooser
           url: https://github.com/ingyesid/simple-file-chooser
 
+    - name: Floating Views
+      projects:
+        - name: StandOut
+          url: https://github.com/pingpongboss/StandOut
+
     - name: Fonts
       projects:
         - name: Calligraphy
@@ -701,6 +706,19 @@ categories:
         - name: AllJoyn Android
           url: https://www.alljoyn.org/docs-and-downloads/android
 
+    - name: OAuth
+      projects:
+        - name: android-oauth-client
+          url: https://github.com/wuman/android-oauth-client
+        - name: Apache Oltu
+          url: http://oltu.apache.org
+        - name: google-oauth-java-client
+          url: https://code.google.com/p/google-oauth-java-client/
+        - name: oauth-signpost
+          url: https://code.google.com/p/oauth-signpost/
+        - name: Scribe
+          url: https://github.com/fernandezpablo85/scribe-java
+
     - name: Object Mocking
       projects:
         - name: Android Mock
@@ -950,6 +968,17 @@ categories:
         - name: SlidingMenu
           url: https://github.com/jfeinstein10/SlidingMenu
 
+    - name: SOAP
+      projects:
+        - name: android-soap-enabler
+          url: https://code.google.com/p/android-soap-enabler/
+        - name: icesoap
+          url: https://code.google.com/p/icesoap/
+        - name: kSOAP
+          url: https://code.google.com/p/ksoap2-android/
+        - name: nano
+          url: https://github.com/bulldog2011/nano
+
     - name: Social Networks
       projects:
         - name: AndroidSocialNetworks
@@ -960,8 +989,6 @@ categories:
           url: https://developers.facebook.com/docs/android/
         - name: JTwitter
           url: http://www.winterwell.com/software/jtwitter.php
-        - name: Scribe
-          url: https://github.com/fernandezpablo85/scribe-java
         - name: Simple Social Sharing
           url: https://github.com/nostra13/Android-Simple-Social-Sharing
         - name: Twitter4J
@@ -1212,19 +1239,3 @@ categories:
           url: https://code.google.com/p/snakeyaml/
         - name: YamlBeans
           url: https://github.com/EsotericSoftware/yamlbeans
-
-    - name: SOAP
-      projects:
-        - name: android-soap-enabler
-          url: https://code.google.com/p/android-soap-enabler/
-        - name: icesoap
-          url: https://code.google.com/p/icesoap/
-        - name: kSOAP
-          url: https://code.google.com/p/ksoap2-android/
-        - name: nano
-          url: https://github.com/bulldog2011/nano
-
-    - name: Floating Views
-      projects:
-        - name: StandOut
-          url: https://github.com/pingpongboss/StandOut
