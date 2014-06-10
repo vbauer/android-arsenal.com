@@ -153,6 +153,11 @@ categories:
         - name: J2SSH Maverick
           url: http://www.sshtools.com/products/j2ssh-maverick
 
+    - name: Tools
+      projects:
+        - name: Pixel Ruler
+          url: http://www.pixel-ruler.net
+
     - name: Video
       projects:
         - name: Vitamio
