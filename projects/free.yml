@@ -805,6 +805,8 @@ categories:
           url: https://github.com/jblough/Android-Pdf-Viewer-Library
         - name: MuPDF
           url: http://www.mupdf.com
+        - name: PDFView
+          url: https://github.com/JoanZapata/android-pdfview
 
     - name: Physics Engines
       projects:
