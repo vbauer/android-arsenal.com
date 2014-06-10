@@ -338,6 +338,8 @@ categories:
           url: http://hockeykit.net
         - name: Samsung Apps
           url: http://apps.samsung.com
+        - name: Raccoon
+          url: http://www.onyxbits.de/raccoon
 
     - name: Event Buses
       projects:
