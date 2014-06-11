@@ -66,6 +66,8 @@ categories:
           url: http://www.steema.com/teechart/mobile
         - name: Telerik UI for Android
           url: http://www.telerik.com/android-ui
+        - name: DroidUX UI/UX Components Library
+          url: http://www.droidux.com
 
     - name: Continuous Integration
       projects:
