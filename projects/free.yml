@@ -837,6 +837,11 @@ categories:
         - name: Twitter4J
           url: http://twitter4j.org
 
+    - name: Status Bar
+      projects:
+        - name: SystemBarTint
+          url: https://github.com/jgilfelt/SystemBarTint
+
     - name: SVG
       projects:
         - name: androidsvg
