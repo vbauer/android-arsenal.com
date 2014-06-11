@@ -949,6 +949,8 @@ categories:
           url: https://github.com/fmetzger/android-sensorium
         - name: SensorManager
           url: https://github.com/nlathia/SensorManager
+        - name: Sensor Readout
+          url: http://www.onyxbits.de/sensorreadout
 
     - name: Scripting
       projects:
