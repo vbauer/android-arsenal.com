@@ -1016,7 +1016,7 @@ categories:
         - name: PMD
           url: http://pmd.sourceforge.net
 
-    - name: Status Bar
+    - name: Status Bars
       projects:
         - name: SystemBarTint
           url: https://github.com/jgilfelt/SystemBarTint
