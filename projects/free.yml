@@ -829,6 +829,8 @@ categories:
           url: http://www.appcelerator.com/developers/
         - name: Corona SDK
           url: http://coronalabs.com/products/corona-sdk/
+        - name: Ecere
+          url: http://www.ecere.com
         - name: PhoneGap
           url: http://phonegap.com
 
@@ -1133,6 +1135,8 @@ categories:
           url: https://github.com/clojure-android/neko
         - name: Pindah
           url: https://github.com/mirah/pindah
+        - name: Qt
+          url: https://qt-project.org
         - name: Ruboto
           url: http://ruboto.org
         - name: Scaloid
@@ -1152,6 +1156,8 @@ categories:
           url: https://github.com/JakeWharton/scalpel
         - name: ViewPortSizes
           url: http://viewportsizes.com/mine/
+        - name: ProGuard
+          url: http://proguard.sourceforge.net
         - name: Raccoon
           url: http://www.onyxbits.de/raccoon
 
