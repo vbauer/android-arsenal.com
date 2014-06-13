@@ -12,3 +12,8 @@ categories:
       projects:
         - name: ListViewAnimator
           url: https://github.com/chief-worminger/ListViewAnimator
+
+    - name: USB
+      projects:
+        - name: USB Device Info
+          url: https://github.com/alt236/USB-Device-Info---Android

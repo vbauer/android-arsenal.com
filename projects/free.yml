@@ -1155,6 +1155,14 @@ categories:
         - name: Raccoon
           url: http://www.onyxbits.de/raccoon
 
+    - name: USB
+      projects:
+        - name: USB MIDI Driver
+          url: https://github.com/kshoji/USB-MIDI-Driver
+        - name: libusb
+          url: http://libusb.info
+        - name: usb-serial-for-android
+          url: https://github.com/mik3y/usb-serial-for-android
 
     - name: Utils
       projects:

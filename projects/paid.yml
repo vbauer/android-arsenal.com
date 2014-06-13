@@ -160,6 +160,11 @@ categories:
         - name: Pixel Ruler
           url: http://www.pixel-ruler.net
 
+    - name: USB
+      projects:
+        - name: Slick USB 2 Serial Library
+          url: http://slickdevlabs.com/slick-usb-2-serial-library/
+
     - name: Video
       projects:
         - name: Vitamio
