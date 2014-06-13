@@ -1,0 +1,9 @@
+
+categories:
+
+    - name: RSS
+      projects:
+        - name: FeedEx
+          url: https://github.com/HoloAddict/FeedEx
+        - name: Tiny Tiny RSS client
+          url: https://github.com/gothfox/Tiny-Tiny-RSS-for-Honeycomb

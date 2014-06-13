@@ -1,4 +1,13 @@
-<div class="description">A categorised directory of libraries and tools for Android</div>
+<div class="description">
+    A categorised directory of
+    <%=
+    case type
+        when :free then 'free libraries and tools'
+        when :paid then 'paid libraries and tools'
+        when :demo then 'demo projects'
+    end
+    %>
+    for Android</div>
 
 <% categories.sort.each_with_index do |(category, projects), index|%>
     <%='</div>' if index > 0 && index % 3 == 0 %>

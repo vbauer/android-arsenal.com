@@ -920,6 +920,8 @@ categories:
           url: https://github.com/matshofman/Android-RSS-Reader-Library
         - name: Simplistic RSS
           url: https://github.com/ShirwaM/Simplistic-RSS
+        - name: Simple-Rss2-Android
+          url: https://github.com/salendron/Simple-Rss2-Android
 
 
     - name: Security

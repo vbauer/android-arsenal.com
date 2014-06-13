@@ -40,11 +40,31 @@
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav navbar-right">
-                    <li class="<%='active' if defined?(type) && type == :free%>"><a href="/">Free <span class="badge"><%= free %></span></a></li>
-                    <li class="<%='active' if defined?(type) && type == :paid%>"><a href="/paid">Paid <span class="badge"><%= paid %></span></a></li>
-                    <li class="<%='active' if defined?(type) && type == :contributors%>"><a href="/contributors">Contributors</a></li>
-                    <li><a href="https://github.com/vbauer/android-arsenal.com" title="Library suggestions can be submitted" class="action">Suggest project</a></li>
-                    <li><a href="http://ios-cosmos.com" title="Meanwhile in a parallel universe..." class="action">The iOS Cosmos</a></li>
+
+                    <li class="dropdown <%='active' if defined?(type) && (type == :free || type == :paid)%>">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" title="Tools & Libraries">
+                            Weapons <span class="badge"><%= free + paid %></span><b class="caret"></b>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li class="<%='active' if defined?(type) && type == :free%>">
+                                <a href="/">Free <span class="badge"><%= free %></span></a>
+                            </li>
+                            <li class="<%='active' if defined?(type) && type == :paid%>">
+                                <a href="/paid">Paid <span class="badge"><%= paid %></span></a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="<%='active' if defined?(type) && type == :demo%>">
+                        <a href="/demo" title="Demo projects">Battlefield <span class="badge"><%= demo %></span></a>
+                    </li>
+                    <li class="<%='active' if defined?(type) && type == :contributors%>">
+                        <a href="/contributors">Contributors</a>
+                    </li>
+                    <li><a href="https://github.com/vbauer/android-arsenal.com"
+                           title="Library suggestions can be submitted" class="action">Suggest project</a></li>
+                    <li><a href="http://ios-cosmos.com" title="Meanwhile in a parallel universe...">
+                        <span class="ios-cosmos">The iOS Cosmos</span> <span class="glyphicon glyphicon-phone"></span>
+                    </a></li>
                 </ul>
             </div>
         </div>

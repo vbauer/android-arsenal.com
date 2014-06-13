@@ -6,7 +6,6 @@ require 'rack/cache'
 module Rack
   class CommonLogger
     def call(env)
-      # do nothing
       @app.call(env)
     end
   end
@@ -33,11 +32,12 @@ class ProjectsInfo
 end
 
 class DataContext
-    attr_reader :free, :paid
+    attr_reader :free, :paid, :demo
 
     def initialize
-        @free = ProjectsInfo.new("free.yml")
-        @paid = ProjectsInfo.new("paid.yml")
+        @free = ProjectsInfo.new "free.yml"
+        @paid = ProjectsInfo.new "paid.yml"
+        @demo = ProjectsInfo.new "demo.yml"
     end
 end
 
@@ -68,21 +68,16 @@ class Application < Sinatra::Base
         @not_found_page ||= render_page(:not_found, {})
     end
 
-    get "/" do
-        @free_projects_page ||= render_categories(:free, settings.data.free.categories)
-    end
-
-    get "/paid" do
-        @paid_projects_page ||= render_categories(:paid, settings.data.paid.categories)
-    end
-
-    get "/contributors" do
-        @contributors_page ||= render_page(:contributors, {:type => :contributors})
-    end
+    get "/" do @free_page ||= render_categories(:free, settings.data.free.categories) end
+    get "/paid" do @paid_page ||= render_categories(:paid, settings.data.paid.categories) end
+    get "/demo" do @demo_page ||= render_categories(:demo, settings.data.demo.categories) end
+    get "/contributors" do @contributors_page ||= render_page(:contributors, {:type => :contributors}) end
 
 
     def render_page(page, extra)
-        locals = {:paid => settings.data.paid.count, :free => settings.data.free.count}
+        locals = {:paid => settings.data.paid.count,
+                  :free => settings.data.free.count,
+                  :demo => settings.data.demo.count}
         erb(page, :locals => locals.merge(extra))
     end
 
