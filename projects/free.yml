@@ -350,6 +350,13 @@ categories:
         - name: stickyd/eventbus
           url: https://github.com/stickyd/eventbus
 
+    - name: EPUB
+      projects:
+        - name: Epublib
+          url: http://www.siegmann.nl/epublib
+        - name: SkyEpub
+          url: http://skyepub.net
+
     - name: File/Directory Choosers
       projects:
         - name: aFileChooser

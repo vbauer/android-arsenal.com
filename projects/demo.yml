@@ -10,6 +10,11 @@ categories:
         - name: ScummVM
           url: http://wiki.scummvm.org/index.php/Android
 
+    - name: EPUB
+      projects:
+        - name: android-daisy-epub-reader
+          url: https://code.google.com/p/android-daisy-epub-reader/
+
     - name: Image Processing
       projects:
         - name: PhotoProcessing
