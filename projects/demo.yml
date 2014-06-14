@@ -10,6 +10,11 @@ categories:
         - name: ScummVM
           url: http://wiki.scummvm.org/index.php/Android
 
+    - name: Image Processing
+      projects:
+        - name: PhotoProcessing
+          url: https://github.com/lightbox/PhotoProcessing
+
     - name: List Views
       projects:
         - name: ListViewAnimator

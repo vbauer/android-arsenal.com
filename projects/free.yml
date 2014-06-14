@@ -444,6 +444,8 @@ categories:
 
     - name: IDE Plugins
       projects:
+        - name: ADT Templates
+          url: https://github.com/jgilfelt/android-adt-templates
         - name: Android Holo Colors IntelliJ Plugin
           url: https://github.com/jeromevdl/android-holo-colors-idea-plugin
         - name: ButterKnifeZelezny
@@ -915,6 +917,8 @@ categories:
           url: https://github.com/kevinsawicki/http-request
         - name: Retrofit
           url: https://github.com/square/retrofit
+        - name: Windigo
+          url: https://github.com/burakdd/windigo
 
     - name: RSS
       projects:
@@ -1174,6 +1178,8 @@ categories:
       projects:
         - name: Android Intents
           url: http://marvinlabs.github.io/android-intents
+        - name: AndroidUtils
+          url: https://github.com/pardom/AndroidUtils
         - name: Apache Commons Codec
           url: http://commons.apache.org/proper/commons-codec/
         - name: Apache Commons IO
@@ -1184,6 +1190,8 @@ categories:
           url: https://code.google.com/p/guava-libraries/
         - name: Joda Time
           url: http://joda-time.sourceforge.net
+        - name: libs-for-android
+          url: https://code.google.com/p/libs-for-android/
         - name: Okio
           url: https://github.com/square/okio
         - name: NoTils
@@ -1191,6 +1199,8 @@ categories:
 
     - name: Validation
       projects:
+        - name: android-formidable-validation
+          url: https://github.com/coreform/android-formidable-validation
         - name: Android-Validator
           url: https://github.com/throrin19/Android-Validator
         - name: Android Saripaar
