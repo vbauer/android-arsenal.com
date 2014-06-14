@@ -1,6 +1,27 @@
 
 categories:
 
+    - name: Emulators
+      projects:
+        - name: Dolphin
+          url: https://github.com/dolphin-emu/dolphin
+        - name: RetroArch
+          url: http://themaister.net/retroarch.html
+        - name: ScummVM
+          url: http://wiki.scummvm.org/index.php/Android
+
+    - name: List Views
+      projects:
+        - name: ListViewAnimator
+          url: https://github.com/chief-worminger/ListViewAnimator
+
+    - name: Maps
+      projects:
+        - name: OsmAnd
+          url: https://code.google.com/p/osmand/
+        - name: osmeditor4android
+          url: https://code.google.com/p/osmeditor4android/
+
     - name: RSS
       projects:
         - name: FeedEx
@@ -8,10 +29,12 @@ categories:
         - name: Tiny Tiny RSS client
           url: https://github.com/gothfox/Tiny-Tiny-RSS-for-Honeycomb
 
-    - name: List Views
+    - name: SSH
       projects:
-        - name: ListViewAnimator
-          url: https://github.com/chief-worminger/ListViewAnimator
+        - name: android-sshd
+          url: https://github.com/stepinto/android-sshd/
+        - name: connectbot
+          url: https://code.google.com/p/connectbot/
 
     - name: USB
       projects:
