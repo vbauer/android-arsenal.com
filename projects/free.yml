@@ -644,6 +644,13 @@ categories:
         - name: SLF4J Android Logger
           url: http://psdev.de/slf4j-android-logger/
 
+    - name: Emails
+      projects:
+        - name: BackgroundMailLibrary
+          url: https://github.com/kristijandraca/BackgroundMailLibrary
+        - name: javamail-android
+          url: https://code.google.com/p/javamail-android/
+
     - name: Maps
       projects:
         - name: MapNavigator

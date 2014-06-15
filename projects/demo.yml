@@ -10,6 +10,11 @@ categories:
         - name: ScummVM
           url: http://wiki.scummvm.org/index.php/Android
 
+    - name: Emails
+      projects:
+        - name: K-9
+          url: https://github.com/k9mail/k-9
+
     - name: EPUB
       projects:
         - name: android-daisy-epub-reader
