@@ -39,6 +39,11 @@ categories:
         - name: Tiny Tiny RSS client
           url: https://github.com/gothfox/Tiny-Tiny-RSS-for-Honeycomb
 
+    - name: Sensors
+      projects:
+        - name: Sensor Readout
+          url: http://www.onyxbits.de/sensorreadout
+
     - name: SSH
       projects:
         - name: android-sshd
