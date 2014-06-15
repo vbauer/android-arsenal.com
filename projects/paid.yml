@@ -11,6 +11,8 @@ categories:
           url: http://www.flurry.com
         - name: Kochava
           url: http://www.kochava.com
+        - name: Localytics
+          url: http://www.localytics.com
         - name: Parse Analytics
           url: https://www.parse.com/products/analytics
         - name: Telerik Analytics

@@ -615,13 +615,14 @@ categories:
           url: https://marvinlabs.github.io/android-progress-panel
         - name: Android-ProgressFragment
           url: https://github.com/johnkil/Android-ProgressFragment
+        - name: Android Process Button
+          url: https://github.com/dmytrodanylyk/android-process-button/
         - name: GoogleProgressBar
           url: https://github.com/jpardogo/GoogleProgressBar
         - name: ProgressWheel
           url: https://github.com/Todd-Davies/ProgressWheel
-        - name: Android Process Button
-          url: https://github.com/dmytrodanylyk/android-process-button/
-
+        - name: SmoothProgressBar
+          url: https://github.com/castorflex/SmoothProgressBar
 
     - name: Lock Patterns
       projects:
@@ -867,12 +868,14 @@ categories:
 
     - name: Purchases
       projects:
-        - name: Google Play in-app billing
-          url: http://developer.android.com/google/play/billing/index.html
+        - name: AndroidBillingLibrary
+          url: https://github.com/robotmedia/AndroidBillingLibrary
         - name: Amazon in-app purchasing
           url: https://developer.amazon.com/welcome.html
         - name: Donations Library
           url: https://github.com/dschuermann/android-donations-lib
+        - name: Google Play in-app billing
+          url: http://developer.android.com/google/play/billing/index.html
         - name: Open In-App Billing
           url: https://github.com/onepf/OpenIAB
 
