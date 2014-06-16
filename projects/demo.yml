@@ -1,6 +1,15 @@
 
 categories:
 
+    - name: Audio
+      projects:
+        - name: tomahawk-android
+          url: https://github.com/tomahawk-player/tomahawk-android
+        - name: TurtlePlayer
+          url: https://github.com/eddturtle/TurtlePlayer
+        - name: Vanilla
+          url: https://github.com/kreed/vanilla
+
     - name: Emulators
       projects:
         - name: Dolphin

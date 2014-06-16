@@ -68,12 +68,6 @@ categories:
           url: https://github.com/google/patchfield
         - name: PlayerHater
           url: https://github.com/PRX/PlayerHater
-        - name: tomahawk-android
-          url: https://github.com/tomahawk-player/tomahawk-android
-        - name: TurtlePlayer
-          url: https://github.com/eddturtle/TurtlePlayer
-        - name: Vanilla
-          url: https://github.com/kreed/vanilla
 
     - name: Background Processing
       projects:
@@ -684,6 +678,25 @@ categories:
         - name: Mime4j
           url: http://james.apache.org/mime4j/
 
+    - name: Mobile Web Frameworks
+      projects:
+        - name: ChocolateChip-UI
+          url: http://chocolatechip-ui.com
+        - name: Clank
+          url: http://getclank.com
+        - name: Fries
+          url: http://getfri.es
+        - name: Ionic
+          url: http://ionicframework.com
+        - name: iUI
+          url: http://www.iui-js.org
+        - name: jQuery Mobile
+          url: http://jquerymobile.com
+        - name: nativeCSS
+          url: http://nativecss.com
+        - name: Ratchet
+          url: http://goratchet.com
+
     - name: Native Image Processing
       projects:
         - name: android-image-filter
@@ -1108,6 +1121,8 @@ categories:
           url: https://github.com/hanspeide/anytextview
         - name: AutoFitTextView
           url: https://github.com/grantland/android-autofittextview
+        - name: Float Labeled EditText
+          url: https://github.com/wrapp/floatlabelededittext
         - name: HtmlTextView
           url: https://github.com/dschuermann/html-textview
         - name: Justified
