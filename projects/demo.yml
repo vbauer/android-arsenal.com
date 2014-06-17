@@ -33,6 +33,10 @@ categories:
       projects:
         - name: PhotoProcessing
           url: https://github.com/lightbox/PhotoProcessing
+        - name: Android Anndblur
+          url: https://github.com/harism/android_anndblur
+        - name: BlurEffectForAndroidDesign
+          url: https://github.com/PomepuyN/BlurEffectForAndroidDesign
 
     - name: List Views
       projects:
