@@ -84,6 +84,8 @@ categories:
           url: https://github.com/Prototik/HoloEverywhere
         - name: NineOldAndroids
           url: http://nineoldandroids.com
+        - name: PreferenceFragment
+          url: https://github.com/kolavar/android-support-v4-preferencefragment
         - name: Support Library
           url: http://developer.android.com/tools/support-library/index.html
 
@@ -300,6 +302,8 @@ categories:
 
     - name: Design
       projects:
+        - name: Android Cheatsheet for Graphic Designers
+          url: http://petrnohejl.github.io/Android-Cheatsheet-For-Graphic-Designers/
         - name: Android Patterns
           url: http://www.androidpatterns.com
         - name: Google Android Design Guide
@@ -545,6 +549,8 @@ categories:
           url: https://github.com/eluleci/FlatUI
         - name: DynamicBox
           url: https://github.com/medyo/dynamicbox
+        - name: ShowcaseView
+          url: https://github.com/amlcurran/ShowcaseView
 
     - name: List Views
       projects:
@@ -792,12 +798,16 @@ categories:
           url: https://github.com/pardom/ActiveAndroid
         - name: ActiveRecord for Android
           url: https://code.google.com/p/android-active-record/
+        - name: Androrm
+          url: http://www.androrm.com/
         - name: Cupboard
           url: https://bitbucket.org/qbusict/cupboard
         - name: DbQuery
           url: https://github.com/bingzer/dbquery
         - name: greenDAO
           url: http://greendao-orm.com
+        - name: Orman
+          url: https://github.com/ahmetalpbalkan/orman
         - name: OrmLite
           url: http://ormlite.com
         - name: Persistence

@@ -147,6 +147,8 @@ categories:
 
     - name: Push Notifications
       projects:
+        - name: PubNub
+          url: https://github.com/pubnub/java/tree/master/android
         - name: Push IO
           url: http://push.io
         - name: Telerik Backend Services
