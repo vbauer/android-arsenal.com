@@ -71,12 +71,16 @@ categories:
 
     - name: Background Processing
       projects:
-        - name: Tape
-          url: https://github.com/square/tape
+        - name: Android Async
+          url: https://bitbucket.org/hal/android-async
         - name: Android Priority Job Queue
           url: https://github.com/path/android-priority-jobqueue
         - name: Groundy
           url: https://github.com/telly/groundy
+        - name: smoothie
+          url: https://github.com/lucasr/smoothie
+        - name: Tape
+          url: https://github.com/square/tape
 
     - name: Backward Compatibility
       projects:
@@ -477,6 +481,8 @@ categories:
 
     - name: Image Loaders
       projects:
+        - name: LazyList
+          url: https://github.com/thest1/LazyList/
         - name: Picasso
           url: https://github.com/square/picasso
         - name: Universal Image Loader for Android
@@ -564,8 +570,6 @@ categories:
           url: https://github.com/timroes/EnhancedListView
         - name: Horizontal Variable ListView
           url: https://github.com/sephiroth74/HorizontalVariableListView
-        - name: LazyList
-          url: https://github.com/thest1/LazyList/
         - name: ListViewAnimations
           url: https://github.com/nhaarman/ListViewAnimations
         - name: PagingListView
@@ -725,6 +729,8 @@ categories:
 
     - name: Networking
       projects:
+        - name: AllJoyn Android
+          url: https://www.alljoyn.org/docs-and-downloads/android
         - name: Apache Commons Net
           url: http://commons.apache.org/proper/commons-net/
         - name: APL
@@ -737,12 +743,12 @@ categories:
           url: http://loopj.com/android-async-http/
         - name: OkHttp
           url: https://github.com/square/okhttp
+        - name: reyna
+          url: https://github.com/B2MSolutions/reyna
         - name: RoboSpice
           url: https://github.com/stephanenicolas/robospice
         - name: Volley
           url: https://android.googlesource.com/platform/frameworks/volley
-        - name: AllJoyn Android
-          url: https://www.alljoyn.org/docs-and-downloads/android
 
     - name: OAuth
       projects:
@@ -832,6 +838,8 @@ categories:
       projects:
         - name: Android AutoValue
           url: https://github.com/frankiesardo/android-auto-value
+        - name: dallasgutauckis/parcelabler
+          url: https://github.com/dallasgutauckis/parcelabler
         - name: ParcelableCodeGenerator
           url: https://github.com/foxykeep/ParcelableCodeGenerator
         - name: Parcelabler
@@ -1075,6 +1083,8 @@ categories:
           url: http://developer.android.com/tools/help/lint.html
         - name: PMD
           url: http://pmd.sourceforge.net
+        - name: Thresher
+          url: http://pl.cs.colorado.edu/projects/thresher/
 
     - name: Status Bars
       projects:
