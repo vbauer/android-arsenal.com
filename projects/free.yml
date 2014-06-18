@@ -1238,6 +1238,8 @@ categories:
           url: https://github.com/square/okio
         - name: NoTils
           url: https://github.com/novoda/NoTils
+        - name: Android Text to Speech 
+          url: https://github.com/viniciusmo/android-text-to-speech
 
     - name: Validation
       projects:
