@@ -69,6 +69,17 @@ categories:
         - name: connectbot
           url: https://code.google.com/p/connectbot/
 
+    - name: Text-to-Speech
+      projects:
+        - name: Android-TTSNotifier
+          url: https://github.com/Zillode/Android-TTSNotifier
+        - name: eSpeak
+          url: http://reecedunn.co.uk/espeak-for-android
+        - name: Flite-TTS-Engine-for-Android
+          url: https://github.com/happyalu/Flite-TTS-Engine-for-Android
+        - name: SimpleTalker
+          url: https://github.com/nolanlawson/SimpleTalker
+
     - name: USB
       projects:
         - name: USB Device Info

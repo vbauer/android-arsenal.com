@@ -971,7 +971,6 @@ categories:
         - name: Simple-Rss2-Android
           url: https://github.com/salendron/Simple-Rss2-Android
 
-
     - name: Security
       projects:
         - name: SQLCipher
@@ -1119,6 +1118,13 @@ categories:
         - name: Phrase
           url: https://github.com/square/phrase
 
+    - name: Text-to-Speech
+      projects:
+        - name: Android Text to Speech
+          url: https://github.com/viniciusmo/android-text-to-speech
+        - name: TextToSpeech
+          url: http://developer.android.com/reference/android/speech/tts/TextToSpeech.html
+
     - name: Text Views
       projects:
         - name: Android Floating Label
@@ -1238,8 +1244,6 @@ categories:
           url: https://github.com/square/okio
         - name: NoTils
           url: https://github.com/novoda/NoTils
-        - name: Android Text to Speech 
-          url: https://github.com/viniciusmo/android-text-to-speech
 
     - name: Validation
       projects:
