@@ -874,6 +874,17 @@ categories:
         - name: PhoneGap
           url: http://phonegap.com
 
+    - name: Preferences
+      projects:
+        - name: Complex Preferences
+          url: https://github.com/fsilvestremorais/android-complex-preferences
+        - name: secure-preferences
+          url: https://github.com/scottyab/secure-preferences
+        - name: SimpleSharedPreferences
+          url: https://github.com/VenomVendor/SimpleSharedPreferences
+        - name: UnifiedPreference
+          url: https://github.com/saik0/UnifiedPreference
+
     - name: Protocol Buffer
       projects:
         - name: micro-protobuf
