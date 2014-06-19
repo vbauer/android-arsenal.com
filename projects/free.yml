@@ -354,6 +354,15 @@ categories:
         - name: stickyd/eventbus
           url: https://github.com/stickyd/eventbus
 
+    - name: Emoji
+      projects:
+        - name: emojicon
+          url: https://github.com/rockerhieu/emojicon
+        - name: emojimenu
+          url: https://github.com/crowdint/emojimenu
+        - name: KitKatEmoji
+          url: https://github.com/crossle/KitKatEmoji
+
     - name: EPUB
       projects:
         - name: Epublib
@@ -650,7 +659,7 @@ categories:
         - name: SLF4J Android Logger
           url: http://psdev.de/slf4j-android-logger/
 
-    - name: Emails
+    - name: Mails
       projects:
         - name: BackgroundMailLibrary
           url: https://github.com/kristijandraca/BackgroundMailLibrary
