@@ -269,6 +269,8 @@ categories:
           url: https://github.com/roomorama/Caldroid
         - name: DateTimePicker
           url: https://github.com/flavienlaurent/datetimepicker
+        - name: DateTimePicker Android 4.0+
+          url: https://github.com/CiTuX/datetimepicker
         - name: ExtendedCalendarView
           url: https://github.com/tyczj/ExtendedCalendarView
         - name: MFCalendarView
