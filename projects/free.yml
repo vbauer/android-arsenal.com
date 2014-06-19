@@ -1236,10 +1236,12 @@ categories:
 
     - name: USB
       projects:
-        - name: USB MIDI Driver
-          url: https://github.com/kshoji/USB-MIDI-Driver
         - name: libusb
           url: http://libusb.info
+        - name: PhysicaloidLibrary
+          url: https://github.com/ksksue/PhysicaloidLibrary
+        - name: USB MIDI Driver
+          url: https://github.com/kshoji/USB-MIDI-Driver
         - name: usb-serial-for-android
           url: https://github.com/mik3y/usb-serial-for-android
 
@@ -1292,20 +1294,20 @@ categories:
 
     - name: View Pagers
       projects:
-        - name: ParallaxHeaderViewPager
-          url: https://github.com/kmshack/Android-ParallaxHeaderViewPager
+        - name: AutoNotifyViewPager
+          url: https://github.com/VenomVendor/AutoNotifyViewPager
+        - name: JazzyViewPager
+          url: https://github.com/jfeinstein10/JazzyViewPager
         - name: PagerSlidingTabStrip
           url: https://github.com/astuetz/PagerSlidingTabStrip
+        - name: ParallaxHeaderViewPager
+          url: https://github.com/kmshack/Android-ParallaxHeaderViewPager
+        - name: ParallaxPager
+          url: https://github.com/prolificinteractive/ParallaxPager
         - name: ViewPagerIndicator
           url: http://viewpagerindicator.com
         - name: VerticalViewPager
           url: https://github.com/castorflex/VerticalViewPager
-        - name: JazzyViewPager
-          url: https://github.com/jfeinstein10/JazzyViewPager
-        - name: AutoNotifyViewPager
-          url: https://github.com/VenomVendor/AutoNotifyViewPager
-        - name: ParallaxPager
-          url: https://github.com/prolificinteractive/ParallaxPager
 
     - name: Weather
       projects:

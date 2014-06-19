@@ -82,5 +82,7 @@ categories:
 
     - name: USB
       projects:
+        - name: USB Serial Terminal
+          url: https://github.com/ksksue/Android-USB-Serial-Monitor-Lite
         - name: USB Device Info
           url: https://github.com/alt236/USB-Device-Info---Android
