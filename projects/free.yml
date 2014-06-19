@@ -1304,6 +1304,8 @@ categories:
           url: https://github.com/jfeinstein10/JazzyViewPager
         - name: AutoNotifyViewPager
           url: https://github.com/VenomVendor/AutoNotifyViewPager
+        - name: ParallaxPager
+          url: https://github.com/prolificinteractive/ParallaxPager
 
     - name: Weather
       projects:
