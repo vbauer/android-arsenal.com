@@ -73,11 +73,19 @@ class Application < Sinatra::Base
     get "/demo" do @demo_page ||= render_categories(:demo, settings.data.demo.categories) end
     get "/contributors" do @contributors_page ||= render_page(:contributors, {:type => :contributors}) end
 
+    def title(type)
+        'A categorized directory of ' + case type
+            when :demo then 'demo projects'
+            when :paid then 'paid libraries and tools'
+            else 'free libraries and tools'
+        end + ' for Android'
+    end
 
     def render_page(page, extra)
         locals = {:paid => settings.data.paid.count,
                   :free => settings.data.free.count,
-                  :demo => settings.data.demo.count}
+                  :demo => settings.data.demo.count,
+                  :title => title(extra[:type])}
         erb(page, :locals => locals.merge(extra))
     end
 
