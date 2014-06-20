@@ -116,6 +116,8 @@ categories:
           url: http://leiningen.org
         - name: sbt
           url: http://www.scala-sbt.org
+        - name: buck
+          url: http://facebook.github.io/buck/
 
     - name: Buttons
       projects:
