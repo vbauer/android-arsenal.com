@@ -2,6 +2,7 @@ require 'sinatra'
 require 'yaml'
 require 'set'
 require 'rack/cache'
+require 'xml-sitemap'
 
 module Rack
   class CommonLogger
@@ -73,6 +74,11 @@ class Application < Sinatra::Base
     get "/demo" do @demo_page ||= render_categories(:demo, settings.data.demo.categories) end
     get "/contributors" do @contributors_page ||= render_page(:contributors, {:type => :contributors}) end
 
+    get "/sitemap.xml" do
+        content_type 'text/xml'
+        @sitemap ||= render_sitemap
+    end
+
     def title(type)
         'A categorized directory of ' + case type
             when :demo then 'demo projects'
@@ -91,6 +97,15 @@ class Application < Sinatra::Base
 
     def render_categories(type, categories)
         render_page(:projects, {:type => type, :categories => categories})
+    end
+
+    def render_sitemap()
+        map = XmlSitemap::Map.new('android-arsenal.com') do |m|
+            m.add '/paid', :period => :hourly
+            m.add '/demo', :period => :hourly
+            m.add '/contributors', :period => :hourly
+        end
+        map.render
     end
 
 end
