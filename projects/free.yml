@@ -116,23 +116,27 @@ categories:
           url: http://leiningen.org
         - name: sbt
           url: http://www.scala-sbt.org
+        - name: buck
+          url: http://facebook.github.io/buck/
 
     - name: Buttons
       projects:
-        - name: Process Button
-          url: https://github.com/dmytrodanylyk/android-process-button
+        - name: Android-Bootstrap
+          url: https://github.com/Bearded-Hen/Android-Bootstrap
+        - name: Android Circle Button
+          url: https://github.com/markushi/android-circlebutton
         - name: Circular Progress Button
           url: https://github.com/dmytrodanylyk/circular-progress-button
         - name: Flat Button
           url: https://github.com/hoang8f/android-flat-button
+        - name: Process Button
+          url: https://github.com/dmytrodanylyk/android-process-button
         - name: ProgressButton
           url: https://github.com/f2prateek/progressbutton
         - name: PSGradientButtons
           url: https://github.com/sapandiwakar/PSGradientButtons
         - name: TH-ProgressButton
           url: https://github.com/torryharris/TH-ProgressButton
-        - name: Android Circle Button
-          url: https://github.com/markushi/android-circlebutton
 
     - name: Caching
       projects:
@@ -624,21 +628,6 @@ categories:
         - name: StickyScrollViewItems
           url: https://github.com/emilsjolander/StickyScrollViewItems
 
-    - name: Progress Indicators
-      projects:
-        - name: Android Progress Panel
-          url: https://marvinlabs.github.io/android-progress-panel
-        - name: Android-ProgressFragment
-          url: https://github.com/johnkil/Android-ProgressFragment
-        - name: Android Process Button
-          url: https://github.com/dmytrodanylyk/android-process-button/
-        - name: GoogleProgressBar
-          url: https://github.com/jpardogo/GoogleProgressBar
-        - name: ProgressWheel
-          url: https://github.com/Todd-Davies/ProgressWheel
-        - name: SmoothProgressBar
-          url: https://github.com/castorflex/SmoothProgressBar
-
     - name: Lock Patterns
       projects:
         - name: Android-LockPattern
@@ -904,6 +893,21 @@ categories:
         - name: UnifiedPreference
           url: https://github.com/saik0/UnifiedPreference
 
+    - name: Progress Indicators
+      projects:
+        - name: Android Progress Panel
+          url: https://marvinlabs.github.io/android-progress-panel
+        - name: Android-ProgressFragment
+          url: https://github.com/johnkil/Android-ProgressFragment
+        - name: Android Process Button
+          url: https://github.com/dmytrodanylyk/android-process-button/
+        - name: GoogleProgressBar
+          url: https://github.com/jpardogo/GoogleProgressBar
+        - name: ProgressWheel
+          url: https://github.com/Todd-Davies/ProgressWheel
+        - name: SmoothProgressBar
+          url: https://github.com/castorflex/SmoothProgressBar
+
     - name: Protocol Buffer
       projects:
         - name: micro-protobuf
@@ -1042,6 +1046,8 @@ categories:
 
     - name: Sliding Panels
       projects:
+        - name: android-menudrawer
+          url: https://github.com/SimonVT/android-menudrawer
         - name: Android Sliding Up Panel
           url: https://github.com/umano/AndroidSlidingUpPanel
         - name: SlidingLayer
@@ -1262,6 +1268,8 @@ categories:
           url: http://marvinlabs.github.io/android-intents
         - name: AndroidUtils
           url: https://github.com/pardom/AndroidUtils
+        - name: android-common-lib
+          url: https://github.com/Trinea/android-common
         - name: Apache Commons Codec
           url: http://commons.apache.org/proper/commons-codec/
         - name: Apache Commons IO
@@ -1315,6 +1323,8 @@ categories:
           url: https://github.com/kmshack/Android-ParallaxHeaderViewPager
         - name: ParallaxPager
           url: https://github.com/prolificinteractive/ParallaxPager
+        - name: View Flow
+          url: https://github.com/pakerfeldt/android-viewflow
         - name: ViewPagerIndicator
           url: http://viewpagerindicator.com
         - name: VerticalViewPager
