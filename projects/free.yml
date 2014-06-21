@@ -1194,6 +1194,8 @@ categories:
           url: http://robolectric.org
         - name: Robotium
           url: http://code.google.com/p/robotium/
+        - name: uiautomator
+          url: http://developer.android.com/tools/help/uiautomator/index.html
 
     - name: Testing Tools
       projects:
