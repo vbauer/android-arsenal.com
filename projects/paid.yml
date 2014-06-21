@@ -173,5 +173,7 @@ categories:
 
     - name: Video
       projects:
+        - name: Kickflip 
+          url: https://github.com/Kickflip/kickflip-android-sdk/
         - name: Vitamio
           url: https://github.com/yixia/VitamioBundle/
