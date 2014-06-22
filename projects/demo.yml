@@ -86,3 +86,8 @@ categories:
           url: https://github.com/ksksue/Android-USB-Serial-Monitor-Lite
         - name: USB Device Info
           url: https://github.com/alt236/USB-Device-Info---Android
+
+    - name: Video 
+      projects:
+        - name: Kickflip Android Example 
+          url: https://github.com/Kickflip/kickflip-android-example
