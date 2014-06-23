@@ -42,6 +42,7 @@ categories:
       projects:
         - name: Rebound
           url: https://github.com/facebook/rebound
+       
 
     - name: Architecture
       projects:
@@ -103,6 +104,8 @@ categories:
           url: http://www.onbarcode.com/products/android_barcode/
         - name: ZBar
           url: http://zbar.sourceforge.net
+        - name: BarCode Fragment
+          url: https://code.google.com/p/barcodefraglibv2/
 
     - name: Build Systems
       projects:
@@ -244,6 +247,8 @@ categories:
           url: https://github.com/emilsjolander/android-FlipView
         - name: FoldableLayout
           url: https://github.com/alexvasilkov/FoldableLayout
+        - name: TransitionViewPager
+          url: https://code.google.com/p/transitionviewpager/
 
     - name: Database
       projects:
@@ -538,6 +543,8 @@ categories:
           url: https://github.com/MikeOrtiz/TouchImageView
         - name: KenBurnsView
           url: https://github.com/flavioarfaria/KenBurnsView
+        - name: GifLib
+          url: https://code.google.com/p/giflib/
 
     - name: JSON
       projects:
@@ -1366,6 +1373,8 @@ categories:
           url: https://github.com/novoda/SimpleEasyXmlParser
         - name: Woodstox
           url: http://woodstox.codehaus.org
+        - name: XML Data Parser
+          url: https://code.google.com/p/xml-data-parser/
 
     - name: YAML
       projects:
