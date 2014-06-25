@@ -42,6 +42,8 @@ categories:
       projects:
         - name: Rebound
           url: https://github.com/facebook/rebound
+        - name: Motion
+          url: https://github.com/nvanbenschoten/motion
 
     - name: Architecture
       projects:
