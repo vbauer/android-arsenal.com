@@ -44,6 +44,8 @@ categories:
           url: https://github.com/facebook/rebound
         - name: Motion
           url: https://github.com/nvanbenschoten/motion
+        - name: AndroidViewAnimations
+          url: https://github.com/daimajia/AndroidViewAnimations
 
     - name: Architecture
       projects:
