@@ -21,6 +21,18 @@ categories:
         - name: Vanilla
           url: https://github.com/kreed/vanilla
 
+    - name: Conferences
+      projects:
+        - name: Google I/O App
+          url: https://code.google.com/p/iosched/
+
+    - name: Library Demos
+      projects:
+        - name: DevAppsDirect
+          url: https://play.google.com/store/apps/details?id=com.inappsquared.devappsdirect
+        - name: Libraries for developers
+          url: https://play.google.com/store/apps/details?id=com.desarrollodroide.repos
+
     - name: Emulators
       projects:
         - name: Dolphin
@@ -51,6 +63,8 @@ categories:
 
     - name: List Views
       projects:
+        - name: Android-HybridChoice
+          url: https://github.com/curioustechizen/android-hybridchoice
         - name: ListViewAnimator
           url: https://github.com/chief-worminger/ListViewAnimator
 
