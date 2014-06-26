@@ -1,7 +1,7 @@
 
 categories:
 
-    - name: Animations:
+    - name: Animations
       projects:
         - name: Activity Animation
           url: https://github.com/flavienlaurent/activityanimation
