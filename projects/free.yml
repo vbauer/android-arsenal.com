@@ -152,10 +152,12 @@ categories:
           url: https://github.com/chrisbanes/Android-BitmapCache
         - name: Android-Image-Cache
           url: https://github.com/mitmel/Android-Image-Cache
-        - name: DiskLruCache
-          url: https://github.com/JakeWharton/DiskLruCache
         - name: carbonite
           url: https://github.com/eveliotc/carbonite
+        - name: DiskLruCache
+          url: https://github.com/JakeWharton/DiskLruCache
+        - name: ObjectCache
+          url: https://github.com/iainconnor/ObjectCache
 
     - name: Cards
       projects:
