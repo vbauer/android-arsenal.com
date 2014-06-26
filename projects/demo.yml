@@ -1,6 +1,17 @@
 
 categories:
 
+    - name: Animations:
+      projects:
+        - name: Activity Animation
+          url: https://github.com/flavienlaurent/activityanimation
+        - name: Movies (Amazing Animation)
+          url: https://github.com/03uk/android-movies-demo
+        - name: Road Trip
+          url: https://github.com/romainguy/road-trip
+        - name: Transition Backport
+          url: https://github.com/guerwan/TransitionsBackport
+
     - name: Audio
       projects:
         - name: tomahawk-android
@@ -87,7 +98,7 @@ categories:
         - name: USB Device Info
           url: https://github.com/alt236/USB-Device-Info---Android
 
-    - name: Video 
+    - name: Video
       projects:
-        - name: Kickflip Android Example 
+        - name: Kickflip Android Example
           url: https://github.com/Kickflip/kickflip-android-example
