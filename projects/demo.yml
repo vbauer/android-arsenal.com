@@ -44,6 +44,8 @@ categories:
 
     - name: Emails
       projects:
+        - name: Official Android Email Client
+          url: https://android.googlesource.com/platform/packages/apps/Email
         - name: K-9
           url: https://github.com/k9mail/k-9
 
@@ -81,6 +83,15 @@ categories:
           url: https://github.com/HoloAddict/FeedEx
         - name: Tiny Tiny RSS client
           url: https://github.com/gothfox/Tiny-Tiny-RSS-for-Honeycomb
+
+    - name: OpenGL
+      projects:
+        - name: gles2_sample_android
+          url: https://github.com/ldo/gles2_sample_android
+        - name: opengles2-2d-demos
+          url: https://github.com/ibraimgm/opengles2-2d-demos
+        - name: RajawaliExamples
+          url: https://github.com/MasDennis/RajawaliExamples
 
     - name: Sensors
       projects:
