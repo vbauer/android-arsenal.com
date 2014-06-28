@@ -126,7 +126,11 @@ categories:
           url: http://www.scala-sbt.org
         - name: buck
           url: http://facebook.github.io/buck/
-
+        - name: sdk-manager-plugin
+          url: https://github.com/JakeWharton/sdk-manager-plugin
+        - name: gradle-android-scala-plugin
+          url: https://github.com/saturday06/gradle-android-scala-plugin
+          
     - name: Buttons
       projects:
         - name: Android-Bootstrap
