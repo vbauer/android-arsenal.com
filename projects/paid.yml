@@ -26,7 +26,7 @@ categories:
     - name: Bar Codes
       projects:
         - name: Scandit
-          url: http://www.scandit.com/barcode-scanner-sdk/
+          url: http://www.scandit.com/barcode-scanner-sdk
 
     - name: Cloud Storages
       projects:
@@ -102,7 +102,7 @@ categories:
         - name: AnyPresence
           url: http://www.anypresence.com
         - name: Appcelerator
-          url: http://www.appcelerator.com/cloud/
+          url: http://www.appcelerator.com/cloud
         - name: Backendless
           url: https://backendless.com
         - name: CloudMine
@@ -119,7 +119,7 @@ categories:
     - name: OCR Engines
       projects:
         - name: ABBYY Mobile OCR Engine
-          url: http://www.abbyy.com/mobileocr/android/
+          url: http://www.abbyy.com/mobileocr/android
 
     - name: PDF
       projects:
@@ -169,16 +169,16 @@ categories:
     - name: USB
       projects:
         - name: Slick USB 2 Serial Library
-          url: http://slickdevlabs.com/slick-usb-2-serial-library/
+          url: http://slickdevlabs.com/slick-usb-2-serial-library
 
     - name: User Stories
       projects:
         - name: AppCam.IO
-          url: http://appcam.io/
+          url: http://appcam.io
 
     - name: Video
       projects:
-        - name: Kickflip 
-          url: https://github.com/Kickflip/kickflip-android-sdk/
+        - name: Kickflip
+          url: https://github.com/Kickflip/kickflip-android-sdk
         - name: Vitamio
-          url: https://github.com/yixia/VitamioBundle/
+          url: https://github.com/yixia/VitamioBundle

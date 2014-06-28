@@ -5,7 +5,7 @@ categories:
       projects:
         - name: Activity Animation
           url: https://github.com/flavienlaurent/activityanimation
-        - name: Movies (Amazing Animation)
+        - name: android-movies-demo
           url: https://github.com/03uk/android-movies-demo
         - name: Road Trip
           url: https://github.com/romainguy/road-trip
@@ -52,7 +52,7 @@ categories:
     - name: EPUB
       projects:
         - name: android-daisy-epub-reader
-          url: https://code.google.com/p/android-daisy-epub-reader/
+          url: https://code.google.com/p/android-daisy-epub-reader
 
     - name: Image Processing
       projects:
@@ -73,9 +73,9 @@ categories:
     - name: Maps
       projects:
         - name: OsmAnd
-          url: https://code.google.com/p/osmand/
+          url: https://code.google.com/p/osmand
         - name: osmeditor4android
-          url: https://code.google.com/p/osmeditor4android/
+          url: https://code.google.com/p/osmeditor4android
 
     - name: RSS
       projects:
@@ -101,9 +101,9 @@ categories:
     - name: SSH
       projects:
         - name: android-sshd
-          url: https://github.com/stepinto/android-sshd/
+          url: https://github.com/stepinto/android-sshd
         - name: connectbot
-          url: https://code.google.com/p/connectbot/
+          url: https://code.google.com/p/connectbot
 
     - name: Text-to-Speech
       projects:
