@@ -126,11 +126,7 @@ categories:
           url: http://www.scala-sbt.org
         - name: buck
           url: http://facebook.github.io/buck/
-        - name: sdk-manager-plugin
-          url: https://github.com/JakeWharton/sdk-manager-plugin
-        - name: gradle-android-scala-plugin
-          url: https://github.com/saturday06/gradle-android-scala-plugin
-          
+
     - name: Buttons
       projects:
         - name: Android-Bootstrap
@@ -414,6 +410,15 @@ categories:
           url: https://github.com/Yarikx/reactive-android
         - name: RxJava
           url: https://github.com/Netflix/RxJava
+
+    - name: Gradle Plugins
+      projects:
+        - name: sdk-manager-plugin
+          url: https://github.com/JakeWharton/sdk-manager-plugin
+        - name: gradle-android-plugin
+          url: https://github.com/jvoegele/gradle-android-plugin
+        - name: gradle-android-scala-plugin
+          url: https://github.com/saturday06/gradle-android-scala-plugin
 
     - name: Graphics
       projects:
