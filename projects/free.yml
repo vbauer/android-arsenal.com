@@ -1019,18 +1019,20 @@ categories:
 
     - name: Security
       projects:
-        - name: SQLCipher
-          url: http://sqlcipher.net/sqlcipher-for-android
-        - name: NetCipher (Onionkit)
-          url: https://github.com/guardianproject/NetCipher
-        - name: Spongy Castle
-          url: https://rtyley.github.io/spongycastle
-        - name: Secure-Preferences
-          url: https://github.com/scottyab/secure-preferences
         - name: AndroidPinning
           url: https://github.com/moxie0/AndroidPinning
         - name: Conceal
           url: http://facebook.github.io/conceal
+        - name: NetCipher (Onionkit)
+          url: https://github.com/guardianproject/NetCipher
+        - name: Secure-Preferences
+          url: https://github.com/scottyab/secure-preferences
+        - name: Spongy Castle
+          url: https://rtyley.github.io/spongycastle
+        - name: SQLCipher
+          url: http://sqlcipher.net/sqlcipher-for-android
+        - name: Windows Azure ADAL
+          url: https://github.com/MSOpenTech/azure-activedirectory-library-for-android
 
     - name: Sensors
       projects:

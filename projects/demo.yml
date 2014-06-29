@@ -7,6 +7,8 @@ categories:
           url: https://github.com/flavienlaurent/activityanimation
         - name: android-movies-demo
           url: https://github.com/03uk/android-movies-demo
+        - name: android_page_curl
+          url: https://github.com/harism/android_page_curl
         - name: Road Trip
           url: https://github.com/romainguy/road-trip
         - name: Transition Backport
@@ -25,13 +27,6 @@ categories:
       projects:
         - name: Google I/O App
           url: https://code.google.com/p/iosched/
-
-    - name: Library Demos
-      projects:
-        - name: DevAppsDirect
-          url: https://play.google.com/store/apps/details?id=com.inappsquared.devappsdirect
-        - name: Libraries for developers
-          url: https://play.google.com/store/apps/details?id=com.desarrollodroide.repos
 
     - name: Emulators
       projects:
@@ -54,6 +49,11 @@ categories:
         - name: android-daisy-epub-reader
           url: https://code.google.com/p/android-daisy-epub-reader
 
+    - name: Geocaching
+      projects:
+        - name: c:geo
+          url: https://github.com/cgeo/cgeo
+
     - name: Image Processing
       projects:
         - name: PhotoProcessing
@@ -62,6 +62,13 @@ categories:
           url: https://github.com/harism/android_anndblur
         - name: BlurEffectForAndroidDesign
           url: https://github.com/PomepuyN/BlurEffectForAndroidDesign
+
+    - name: Library Demos
+      projects:
+        - name: DevAppsDirect
+          url: https://play.google.com/store/apps/details?id=com.inappsquared.devappsdirect
+        - name: Libraries for developers
+          url: https://play.google.com/store/apps/details?id=com.desarrollodroide.repos
 
     - name: List Views
       projects:
@@ -76,6 +83,11 @@ categories:
           url: https://code.google.com/p/osmand
         - name: osmeditor4android
           url: https://code.google.com/p/osmeditor4android
+
+    - name: Messaging
+      projects:
+        - name: TextSecure
+          url: https://github.com/WhisperSystems/TextSecure
 
     - name: RSS
       projects:
@@ -115,6 +127,15 @@ categories:
           url: https://github.com/happyalu/Flite-TTS-Engine-for-Android
         - name: SimpleTalker
           url: https://github.com/nolanlawson/SimpleTalker
+
+    - name: Twitter
+      projects:
+        - name: TweetLanes
+          url: https://github.com/chrislacy/TweetLanes
+        - name: Twidere
+          url: https://github.com/mariotaku/twidere
+        - name: Twimight
+          url: https://code.google.com/p/twimight
 
     - name: USB
       projects:
