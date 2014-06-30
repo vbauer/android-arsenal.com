@@ -46,10 +46,10 @@ class Application < Sinatra::Base
     CACHE_TIME = 86400
 
     configure :production, :development do
-        set :sessions, false
+        disable :sessions,  :logging
+
         set :start_time, Time.now
         set :data, DataContext.new
-        set :logging, false
 
         use Rack::Cache, :verbose => false
         use Rack::ConditionalGet
