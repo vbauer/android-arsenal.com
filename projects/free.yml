@@ -434,6 +434,8 @@ categories:
           url: https://code.google.com/p/afreechart
         - name: Androidplot
           url: http://androidplot.com
+        - name: desCharts
+          url: https://github.com/bradipao/desCharts
         - name: GraphView
           url: http://android-graphview.org
 
@@ -548,6 +550,15 @@ categories:
           url: https://github.com/flavioarfaria/KenBurnsView
         - name: GifLib
           url: https://code.google.com/p/giflib
+
+    - name: Job Schedulers
+      projects:
+        - name: AlarmManager
+          url: http://developer.android.com/reference/android/app/AlarmManager.html
+        - name: android-JobScheduler
+          url: https://github.com/googlesamples/android-JobScheduler
+        - name: cron4j
+          url: http://www.sauronsoftware.it/projects/cron4j
 
     - name: JSON
       projects:
@@ -1121,6 +1132,8 @@ categories:
       projects:
         - name: SystemBarTint
           url: https://github.com/jgilfelt/SystemBarTint
+        - name: Xposed-Tinted-Status-Bar
+          url: https://github.com/MohammadAG/Xposed-Tinted-Status-Bar
 
     - name: SVG
       projects:

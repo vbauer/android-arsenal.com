@@ -84,6 +84,11 @@ categories:
         - name: osmeditor4android
           url: https://code.google.com/p/osmeditor4android
 
+    - name: Media
+      projects:
+        - name: ExoPlayer
+          url: https://github.com/google/ExoPlayer
+
     - name: Messaging
       projects:
         - name: TextSecure
