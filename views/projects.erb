@@ -1,10 +1,10 @@
-<div class="description"><%= title %></div>
+<h1><%= title %></h1>
 
 <% categories.sort.each_with_index do |(category, projects), index|%>
     <%='</div>' if index > 0 && index % 3 == 0 %>
     <%='<div class="row">' if index % 3 == 0 %>
         <div class="col-md-4">
-            <h1><%= category %></h1>
+            <h2><%= category %></h2>
             <ul><% projects.each do |project| %>
                 <li><a href="<%= project['url'] %>"><%= project[ 'name'] %></a></li><% end %>
             </ul>
