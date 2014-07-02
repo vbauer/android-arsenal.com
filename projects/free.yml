@@ -468,6 +468,8 @@ categories:
           url: http://jericho.htmlparser.net
         - name: jsoup
           url: http://jsoup.org
+        - name: owasp-java-html-sanitizer
+          url: https://code.google.com/p/owasp-java-html-sanitizer/
 
     - name: IDE
       projects:
@@ -1219,6 +1221,8 @@ categories:
       projects:
         - name: Android FEST
           url: https://github.com/square/fest-android
+        - name: Appium
+          url: http://appium.io
         - name: Espresso (android test kit)
           url: https://code.google.com/p/android-test-kit
         - name: Robolectric
@@ -1227,8 +1231,6 @@ categories:
           url: http://code.google.com/p/robotium
         - name: uiautomator
           url: http://developer.android.com/tools/help/uiautomator
-        - name: Appium
-          url: http://appium.io/
 
     - name: Testing Tools
       projects:
