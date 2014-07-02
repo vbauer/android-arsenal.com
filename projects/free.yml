@@ -1227,6 +1227,8 @@ categories:
           url: http://code.google.com/p/robotium
         - name: uiautomator
           url: http://developer.android.com/tools/help/uiautomator
+        - name: Appium
+          url: http://appium.io/
 
     - name: Testing Tools
       projects:
