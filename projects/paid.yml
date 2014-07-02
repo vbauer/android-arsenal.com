@@ -1,6 +1,13 @@
 
 categories:
 
+    - name: 3D Engines
+      projects:
+        - name: SIO2
+          url: http://sio2interactive.com
+        - name: Unreal Engine
+          url: https://www.unrealengine.com
+
     - name: Analytics
       projects:
         - name: Capptain
@@ -32,6 +39,11 @@ categories:
       projects:
         - name: Parse
           url: https://www.parse.com/products/core
+
+    - name: Continuous Integration
+      projects:
+        - name: Greenhouse
+          url: http://greenhouseci.com
 
     - name: Crash Reports
       projects:
@@ -70,11 +82,6 @@ categories:
           url: http://www.telerik.com/android-ui
         - name: DroidUX UI/UX Components Library
           url: http://www.droidux.com
-
-    - name: Continuous Integration
-      projects:
-        - name: Greenhouse
-          url: http://greenhouseci.com
 
     - name: Image Processing
       projects:

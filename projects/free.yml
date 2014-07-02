@@ -1,6 +1,42 @@
 
 categories:
 
+    - name: 2D Engines
+      projects:
+        - name: AndEngine
+          url: http://www.andengine.org
+        - name: cocos2d-android
+          url: https://code.google.com/p/cocos2d-android
+        - name: cocos2d-x
+          url: http://cocos2d-x.org
+        - name: PlayN
+          url: https://code.google.com/p/playn
+        - name: Rokon
+          url: https://code.google.com/p/rokon
+        - name: SDL
+          url: http://www.libsdl.org
+        - name: YoghurtGum
+          url: https://code.google.com/p/yoghurtgum
+
+    - name: 3D Engines
+      projects:
+        - name: Dwarf
+          url: https://code.google.com/p/dwarf-fw
+        - name: Irrlicht
+          url: http://irrlicht.sourceforge.net
+        - name: jPCT AE
+          url: http://www.jpct.net/jpct-ae
+        - name: libGDX
+          url: https://github.com/libgdx/libgdx
+        - name: Linderdaum
+          url: http://linderdaum.com
+        - name: min3d
+          url: https://code.google.com/p/min3d
+        - name: Rajawali
+          url: https://github.com/MasDennis/Rajawali
+        - name: Ogre
+          url: http://www.ogre3d.org
+
     - name: Action Bars
       projects:
         - name: ActionBarSherlock
@@ -810,21 +846,6 @@ categories:
         - name: tess-two
           url: https://github.com/rmtheis/tess-two
 
-    - name: OpenGL
-      projects:
-        - name: AndEngine
-          url: http://www.andengine.org
-        - name: Dwarf
-          url: https://code.google.com/p/dwarf-fw
-        - name: jPCT AE
-          url: http://www.jpct.net/jpct-ae
-        - name: libGDX
-          url: https://github.com/libgdx/libgdx
-        - name: min3d
-          url: https://code.google.com/p/min3d
-        - name: Rajawali
-          url: https://github.com/MasDennis/Rajawali
-
     - name: ORM
       projects:
         - name: ActiveAndroid
@@ -887,6 +908,8 @@ categories:
 
     - name: Physics Engines
       projects:
+        - name: androidbox2d
+          url: https://code.google.com/p/androidbox2d
         - name: Box2D
           url: http://box2d.org
         - name: Bullet
