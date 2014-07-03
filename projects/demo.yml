@@ -14,6 +14,13 @@ categories:
         - name: Transition Backport
           url: https://github.com/guerwan/TransitionsBackport
 
+    - name: Application Architecture
+      projects:
+        - name: u2020
+          url: https://github.com/JakeWharton/u2020
+        - name: u2020-mortar
+          url: https://github.com/lemonlabs/u2020-mortar
+
     - name: Audio
       projects:
         - name: tomahawk-android
