@@ -1179,6 +1179,10 @@ categories:
           url: https://github.com/Chainfire/libsuperuser
         - name: RootTools
           url: https://github.com/Stericson/RootTools
+        - name: superuser-commands
+          url: https://github.com/dschuermann/superuser-commands
+        - name: Root Shell Framework
+          url: https://github.com/SpazeDog/rootfw
 
     - name: TDD & BDD
       projects:
