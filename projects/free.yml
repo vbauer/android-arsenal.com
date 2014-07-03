@@ -1179,6 +1179,10 @@ categories:
           url: https://github.com/Chainfire/libsuperuser
         - name: RootTools
           url: https://github.com/Stericson/RootTools
+        - name: superuser-commands
+          url: https://github.com/dschuermann/superuser-commands
+        - name: Root Shell Framework
+          url: https://github.com/SpazeDog/rootfw
 
     - name: TDD & BDD
       projects:
@@ -1256,7 +1260,7 @@ categories:
           url: http://developer.android.com/tools/help/uiautomator
 
     - name: Testing Tools
-      projects:
+      projects:ch
         - name: Bot-Bot
           url: http://imaginea.github.io/bot-bot
         - name: Calabash
