@@ -1260,7 +1260,7 @@ categories:
           url: http://developer.android.com/tools/help/uiautomator
 
     - name: Testing Tools
-      projects:ch
+      projects:
         - name: Bot-Bot
           url: http://imaginea.github.io/bot-bot
         - name: Calabash
