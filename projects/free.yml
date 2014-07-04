@@ -1020,6 +1020,11 @@ categories:
         - name: ZXScanLib
           url: https://github.com/LivotovLabs/zxscanlib
 
+    - name: Radio Buttons
+      projects:
+        - name: android-segmented-control
+          url: https://github.com/hoang8f/android-segmented-control
+
     - name: Range Bars
       projects:
         - name: range-bar
