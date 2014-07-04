@@ -1398,6 +1398,8 @@ categories:
           url: http://viewpagerindicator.com
         - name: VerticalViewPager
           url: https://github.com/castorflex/VerticalViewPager
+        - name: LoopingViewPager
+          url: https://github.com/imbryk/LoopingViewPager
 
     - name: Weather
       projects:
