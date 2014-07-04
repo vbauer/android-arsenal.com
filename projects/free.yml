@@ -1319,6 +1319,8 @@ categories:
           url: http://proguard.sourceforge.net
         - name: Raccoon
           url: http://www.onyxbits.de/raccoon
+        - name: Madge
+          url: https://github.com/JakeWharton/madge
 
     - name: USB
       projects:
