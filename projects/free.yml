@@ -123,6 +123,8 @@ categories:
           url: https://github.com/lucasr/smoothie
         - name: Tape
           url: https://github.com/square/tape
+        - name: Bolts
+          url: https://github.com/BoltsFramework/Bolts-Android
 
     - name: Backward Compatibility
       projects:
@@ -308,6 +310,8 @@ categories:
           url: http://sqlitebrowser.org
         - name: SQLite DB Bowser
           url: http://sqlitedbrowser.sourceforge.net
+        - name: Android DbInspector
+          url: https://github.com/infinum/android_dbinspector
 
     - name: Date Pickers
       projects:
@@ -690,6 +694,11 @@ categories:
           url: https://github.com/emilsjolander/StickyListHeaders
         - name: StickyScrollViewItems
           url: https://github.com/emilsjolander/StickyScrollViewItems
+
+    - name: Location
+      projects:
+        - name: Android-ReactiveLocation
+          url: https://github.com/mcharmas/Android-ReactiveLocation
 
     - name: Lock Patterns
       projects:
@@ -1243,6 +1252,8 @@ categories:
           url: https://github.com/programingjd/justified
         - name: Shimmer-android
           url: https://github.com/RomainPiel/Shimmer-android
+        - name: ChromaHashView
+          url: https://github.com/MichaelEvans/ChromaHashView
 
     - name: Testing
       projects:
@@ -1314,6 +1325,8 @@ categories:
           url: http://proguard.sourceforge.net
         - name: Raccoon
           url: http://www.onyxbits.de/raccoon
+        - name: Madge
+          url: https://github.com/JakeWharton/madge
 
     - name: USB
       projects:
@@ -1393,6 +1406,8 @@ categories:
           url: http://viewpagerindicator.com
         - name: VerticalViewPager
           url: https://github.com/castorflex/VerticalViewPager
+        - name: LoopingViewPager
+          url: https://github.com/imbryk/LoopingViewPager
 
     - name: Weather
       projects:
