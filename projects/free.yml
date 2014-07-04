@@ -123,6 +123,8 @@ categories:
           url: https://github.com/lucasr/smoothie
         - name: Tape
           url: https://github.com/square/tape
+        - name: Bolts
+          url: https://github.com/BoltsFramework/Bolts-Android
 
     - name: Backward Compatibility
       projects:
