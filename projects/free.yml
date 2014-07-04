@@ -639,6 +639,8 @@ categories:
           url: https://github.com/medyo/dynamicbox
         - name: ShowcaseView
           url: https://github.com/amlcurran/ShowcaseView
+        - name: DraggablePanel
+          url: https://github.com/pedrovgs/DraggablePanel
 
     - name: List Views
       projects:
