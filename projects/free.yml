@@ -1248,6 +1248,8 @@ categories:
           url: https://github.com/programingjd/justified
         - name: Shimmer-android
           url: https://github.com/RomainPiel/Shimmer-android
+        - name: ChromaHashView
+          url: https://github.com/MichaelEvans/ChromaHashView
 
     - name: Testing
       projects:
