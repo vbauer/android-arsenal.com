@@ -691,6 +691,11 @@ categories:
         - name: StickyScrollViewItems
           url: https://github.com/emilsjolander/StickyScrollViewItems
 
+    - name: Location
+      projects:
+        - name: Android-ReactiveLocation
+          url: https://github.com/mcharmas/Android-ReactiveLocation
+
     - name: Lock Patterns
       projects:
         - name: Android-LockPattern
