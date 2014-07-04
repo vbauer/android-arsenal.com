@@ -310,6 +310,8 @@ categories:
           url: http://sqlitebrowser.org
         - name: SQLite DB Bowser
           url: http://sqlitedbrowser.sourceforge.net
+        - name: Android DbInspector
+          url: https://github.com/infinum/android_dbinspector
 
     - name: Date Pickers
       projects:
