@@ -162,6 +162,10 @@ categories:
           url: http://push.io
         - name: Telerik Backend Services
           url: http://www.telerik.com/backend-services
+        - name: PushWoosh
+          url: http://www.pushwoosh.com
+        - name: Urban Airship
+          url: http://urbanairship.com
 
     - name: SSH
       projects:
