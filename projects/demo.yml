@@ -13,6 +13,8 @@ categories:
           url: https://github.com/romainguy/road-trip
         - name: Transition Backport
           url: https://github.com/guerwan/TransitionsBackport
+        - name: Android Animation Playground
+          url: https://github.com/Tibolte/Android-Anim-Playground
 
     - name: Application Architecture
       projects:
