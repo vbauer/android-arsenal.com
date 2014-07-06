@@ -83,6 +83,11 @@ categories:
         - name: AndroidViewAnimations
           url: https://github.com/daimajia/AndroidViewAnimations
 
+    - name: API Wrappers
+      projects:
+        - name: jReddit
+          url: https://github.com/karan/jReddit
+
     - name: Architecture
       projects:
         - name: Android Bootstrap
