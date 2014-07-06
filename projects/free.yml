@@ -87,6 +87,8 @@ categories:
       projects:
         - name: jReddit
           url: https://github.com/karan/jReddit
+        - name: Twitter4J
+          url: http://twitter4j.org/en/index.html
 
     - name: Architecture
       projects:
