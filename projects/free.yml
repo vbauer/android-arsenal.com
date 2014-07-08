@@ -116,6 +116,8 @@ categories:
           url: https://github.com/torryharris/TH-ProgressButton
         - name: Android Circle Button
           url: https://github.com/markushi/android-circlebutton
+        - name: FancyButtons
+          url: https://github.com/medyo/fancybuttons﻿
 
     - name: Caching
       projects:
