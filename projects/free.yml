@@ -83,13 +83,6 @@ categories:
         - name: AndroidViewAnimations
           url: https://github.com/daimajia/AndroidViewAnimations
 
-    - name: API Wrappers
-      projects:
-        - name: jReddit
-          url: https://github.com/karan/jReddit
-        - name: Twitter4J
-          url: http://twitter4j.org/en/index.html
-
     - name: Architecture
       projects:
         - name: Android Bootstrap
@@ -1153,6 +1146,8 @@ categories:
           url: https://developers.facebook.com/docs/android
         - name: JTwitter
           url: http://www.winterwell.com/software/jtwitter.php
+        - name: jReddit
+          url: https://github.com/karan/jReddit
         - name: Simple Social Sharing
           url: https://github.com/nostra13/Android-Simple-Social-Sharing
         - name: Twitter4J
