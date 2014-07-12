@@ -94,6 +94,8 @@ categories:
           url: https://code.google.com/p/osmand
         - name: osmeditor4android
           url: https://code.google.com/p/osmeditor4android
+        - name: Sliding ListView with map (Foursquare-like)
+          url: https://github.com/dlukashev/AndroidSlidingUpPanel-foursquare-map-demo
 
     - name: Media
       projects:
