@@ -83,6 +83,13 @@ categories:
         - name: AndroidViewAnimations
           url: https://github.com/daimajia/AndroidViewAnimations
 
+    - name: API Wrappers
+      projects:
+        - name: jReddit
+          url: https://github.com/karan/jReddit
+        - name: Twitter4J
+          url: http://twitter4j.org/en/index.html
+
     - name: Architecture
       projects:
         - name: Android Bootstrap
@@ -216,6 +223,8 @@ categories:
           url: https://code.google.com/p/android-change-log
         - name: Inscription
           url: https://github.com/MartinvanZ/Inscription
+        - name: Saguaro
+          url: https://github.com/willowtreeapps/saguaro
 
     - name: Cloud Storages
       projects:
