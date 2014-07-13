@@ -727,6 +727,8 @@ categories:
           url: https://github.com/JakeWharton/timber
         - name: SLF4J Android Logger
           url: http://psdev.de/slf4j-android-logger
+        - name: pidcat
+          url: https://github.com/JakeWharton/pidcat
 
     - name: Mails
       projects:
