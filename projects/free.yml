@@ -484,6 +484,8 @@ categories:
           url: http://android-graphview.org
         - name: HzGrapher
           url: https://github.com/handstudio/HzGrapher
+        - name: EazeGraph
+          url: https://github.com/blackfizz/EazeGraph
 
     - name: Grid Views
       projects:
