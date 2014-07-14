@@ -602,6 +602,8 @@ categories:
           url: https://code.google.com/p/giflib
         - name: RoundedImageView
           url: https://github.com/vinc3m1/RoundedImageView
+        - name: CircularImageView
+          url: https://github.com/Pkmmte/CircularImageView
 
     - name: Job Schedulers
       projects:
