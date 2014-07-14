@@ -202,6 +202,10 @@ categories:
           url: https://github.com/sapandiwakar/PSGradientButtons
         - name: TH-ProgressButton
           url: https://github.com/torryharris/TH-ProgressButton
+        - name: ExpandableButtonMenu
+          url: https://github.com/lemonlabs/ExpandableButtonMenu
+        - name: material-menu
+          url: https://github.com/balysv/material-menu
 
     - name: Caching
       projects:
