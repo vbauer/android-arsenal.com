@@ -152,6 +152,19 @@ categories:
         - name: ZBar
           url: http://zbar.sourceforge.net
 
+    - name: Bluetooth
+      projects:
+        - name: Android Bluetooth Library
+          url: https://github.com/arissa34/Android-Bluetooth-Library
+        - name: Android-BluetoothSPPLibrary
+          url: https://github.com/akexorcist/Android-BluetoothSPPLibrary
+        - name: android-btxfr
+          url: https://github.com/simonguest/android-btxfr
+        - name: android-bluetooth
+          url: https://code.google.com/p/android-bluetooth/
+        - name: Bluetooth LE Library for Android
+          url: https://github.com/alt236/Bluetooth-LE-Library---Android
+
     - name: Build Systems
       projects:
         - name: Apache Ant
