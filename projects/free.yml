@@ -82,6 +82,8 @@ categories:
           url: https://github.com/nvanbenschoten/motion
         - name: AndroidViewAnimations
           url: https://github.com/daimajia/AndroidViewAnimations
+        - name: TransitionsBackport
+          url: https://github.com/guerwan/TransitionsBackport
 
     - name: Architecture
       projects:
@@ -136,6 +138,8 @@ categories:
           url: https://github.com/kolavar/android-support-v4-preferencefragment
         - name: Support Library
           url: http://developer.android.com/tools/support-library/index.html
+        - name: Switch Widget Backport
+          url: https://github.com/BoD/android-switch-backport
 
     - name: Bar Codes
       projects:
@@ -831,6 +835,8 @@ categories:
           url: https://github.com/stephanenicolas/robospice
         - name: Volley
           url: https://android.googlesource.com/platform/frameworks/volley
+        - name: Wifi Connecter
+          url: https://code.google.com/p/android-wifi-connecter
 
     - name: OAuth
       projects:
