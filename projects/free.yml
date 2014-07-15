@@ -1320,6 +1320,8 @@ categories:
           url: https://github.com/wmbest2/rats-server
         - name: Spoon
           url: https://github.com/square/spoon
+        - name: assertj-android
+          url: https://github.com/square/assertj-android
 
     - name: Toasts
       projects:
