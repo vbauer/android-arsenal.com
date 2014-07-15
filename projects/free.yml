@@ -1409,7 +1409,9 @@ categories:
           url: https://github.com/square/okio
         - name: NoTils
           url: https://github.com/novoda/NoTils
-
+        - name: AndroidDynamicLoader
+          url:  https://github.com/Rookery/AndroidDynamicLoader
+          
     - name: Validation
       projects:
         - name: android-formidable-validation
