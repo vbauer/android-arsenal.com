@@ -101,6 +101,8 @@ categories:
           url: https://github.com/square/mortar
         - name: Spring for Android
           url: http://projects.spring.io/spring-android
+        - name: Cheddar-Android
+          url: https://github.com/aliHafizji/Cheddar-Android
 
     - name: Audio
       projects:
