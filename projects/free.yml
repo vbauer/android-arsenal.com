@@ -112,6 +112,8 @@ categories:
           url: https://github.com/google/patchfield
         - name: PlayerHater
           url: https://github.com/PRX/PlayerHater
+        - name: Android Visualizer
+          url: https://github.com/felixpalmer/android-visualizer
 
     - name: Background Processing
       projects:
@@ -140,6 +142,10 @@ categories:
           url: http://developer.android.com/tools/support-library/index.html
         - name: Switch Widget Backport
           url: https://github.com/BoD/android-switch-backport
+        - name: Android NumberPicker
+          url: https://github.com/SimonVT/android-numberpicker
+        - name: Android CalendarView
+          url: https://github.com/SimonVT/android-calendarview
 
     - name: Bar Codes
       projects:
@@ -164,6 +170,8 @@ categories:
           url: https://code.google.com/p/android-bluetooth/
         - name: Bluetooth LE Library for Android
           url: https://github.com/alt236/Bluetooth-LE-Library---Android
+        - name: SmartGattLib
+          url: https://github.com/movisens/SmartGattLib
 
     - name: Build Systems
       projects:
@@ -206,6 +214,8 @@ categories:
           url: https://github.com/lemonlabs/ExpandableButtonMenu
         - name: material-menu
           url: https://github.com/balysv/material-menu
+        - name: View Badger
+          url: https://github.com/jgilfelt/android-viewbadger
 
     - name: Caching
       projects:
@@ -604,6 +614,8 @@ categories:
           url: https://github.com/chrisbatt/AndroidFastImageProcessing
         - name: JJIL
           url: https://code.google.com/p/jjil
+        - name: Android GPUImage
+          url: https://github.com/CyberAgent/android-gpuimage
 
     - name: Image Views
       projects:
