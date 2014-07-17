@@ -135,6 +135,11 @@ categories:
         - name: connectbot
           url: https://code.google.com/p/connectbot
 
+    - name: Task Managers
+      projects:
+        - name: Cheddar-Android
+          url: https://github.com/aliHafizji/Cheddar-Android
+
     - name: Text-to-Speech
       projects:
         - name: Android-TTSNotifier
