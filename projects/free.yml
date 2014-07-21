@@ -637,6 +637,8 @@ categories:
           url: https://github.com/vinc3m1/RoundedImageView
         - name: CircularImageView
           url: https://github.com/Pkmmte/CircularImageView
+        - name: SplitImageView
+          url: https://github.com/aliHafizji/SplitImageView
 
     - name: Job Schedulers
       projects:
