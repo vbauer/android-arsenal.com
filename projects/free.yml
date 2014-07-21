@@ -1229,6 +1229,11 @@ categories:
         - name: Xposed-Tinted-Status-Bar
           url: https://github.com/MohammadAG/Xposed-Tinted-Status-Bar
 
+    - name: Styling
+      projects:
+        - name: Painter
+        url: https://github.com/agrosner/Painter
+
     - name: SVG
       projects:
         - name: androidsvg
