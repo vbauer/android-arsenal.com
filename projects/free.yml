@@ -686,6 +686,8 @@ categories:
           url: https://github.com/amlcurran/ShowcaseView
         - name: DraggablePanel
           url: https://github.com/pedrovgs/DraggablePanel
+        - name: SwipeBackLayout
+          url: https://github.com/Issacw0ng/SwipeBackLayout
 
     - name: List Views
       projects:
