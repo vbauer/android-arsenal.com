@@ -1236,7 +1236,7 @@ categories:
     - name: Styling
       projects:
         - name: Painter
-        url: https://github.com/agrosner/Painter
+          url: https://github.com/agrosner/Painter
 
     - name: SVG
       projects:
