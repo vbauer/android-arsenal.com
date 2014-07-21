@@ -684,6 +684,8 @@ categories:
           url: https://github.com/amlcurran/ShowcaseView
         - name: DraggablePanel
           url: https://github.com/pedrovgs/DraggablePanel
+        - name: MaskableLayout
+          url: https://github.com/christophesmet/android_maskable_layout
 
     - name: List Views
       projects:
