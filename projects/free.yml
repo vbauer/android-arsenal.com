@@ -688,6 +688,8 @@ categories:
           url: https://github.com/pedrovgs/DraggablePanel
         - name: SwipeBackLayout
           url: https://github.com/Issacw0ng/SwipeBackLayout
+        - name: MaskableLayout
+          url: https://github.com/christophesmet/android_maskable_layout
 
     - name: List Views
       projects:
@@ -1230,6 +1232,11 @@ categories:
           url: https://github.com/jgilfelt/SystemBarTint
         - name: Xposed-Tinted-Status-Bar
           url: https://github.com/MohammadAG/Xposed-Tinted-Status-Bar
+
+    - name: Styling
+      projects:
+        - name: Painter
+        url: https://github.com/agrosner/Painter
 
     - name: SVG
       projects:
