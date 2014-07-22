@@ -517,6 +517,8 @@ categories:
           url: https://github.com/handstudio/HzGrapher
         - name: EazeGraph
           url: https://github.com/blackfizz/EazeGraph
+        - name: MPAndroidChart
+          url: https://github.com/PhilJay/MPAndroidChart
 
     - name: Grid Views
       projects:
