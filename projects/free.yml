@@ -216,6 +216,8 @@ categories:
           url: https://github.com/balysv/material-menu
         - name: View Badger
           url: https://github.com/jgilfelt/android-viewbadger
+        - name: Android-ActionItemBadge
+          url: http://mikepenz.github.io/Android-ActionItemBadge/
 
     - name: Caching
       projects:
