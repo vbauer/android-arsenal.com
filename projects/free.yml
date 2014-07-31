@@ -426,6 +426,8 @@ categories:
           url: http://hockeykit.net
         - name: Samsung Apps
           url: http://apps.samsung.com
+        - name: Amazon Appstore
+          url: http://www.amazon.com/mobile-apps/b?node=2350149011
 
     - name: Event Buses
       projects:
@@ -705,6 +707,8 @@ categories:
           url: https://github.com/bauerca/drag-sort-listview
         - name: EnhancedListView
           url: https://github.com/timroes/EnhancedListView
+        - name: Flabby List View
+          url: https://github.com/jpardogo/FlabbyListView
         - name: Horizontal Variable ListView
           url: https://github.com/sephiroth74/HorizontalVariableListView
         - name: ListViewAnimations
@@ -721,7 +725,7 @@ categories:
           url: https://github.com/47deg/android-swipelistview
         - name: TreeViewList
           url: https://code.google.com/p/tree-view-list-android
-
+        
     - name: List View Adapters
       projects:
         - name: Adapter Kit
@@ -1353,6 +1357,11 @@ categories:
           url: https://github.com/square/spoon
         - name: assertj-android
           url: https://github.com/square/assertj-android
+
+    - name: Theming
+      projects:
+        - name: holoaccent
+          url: https://github.com/negusoft/holoaccent
 
     - name: Toasts
       projects:
