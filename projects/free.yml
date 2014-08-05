@@ -494,6 +494,9 @@ categories:
         - name: RxJava
           url: https://github.com/Netflix/RxJava
 
+    - name: Gestures
+      projects:
+      
     - name: Gradle Plugins
       projects:
         - name: sdk-manager-plugin
