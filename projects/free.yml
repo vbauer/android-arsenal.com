@@ -202,6 +202,8 @@ categories:
           url: https://github.com/medyo/fancybuttons
         - name: Flat Button
           url: https://github.com/hoang8f/android-flat-button
+        - name: FloatingActionButton
+          url: https://github.com/FaizMalkani/FloatingActionButton
         - name: Process Button
           url: https://github.com/dmytrodanylyk/android-process-button
         - name: ProgressButton
