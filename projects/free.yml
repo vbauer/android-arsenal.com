@@ -47,6 +47,8 @@ categories:
           url: https://github.com/ManuelPeinado/FadingActionBar
         - name: GlassActionBar
           url: https://github.com/ManuelPeinado/GlassActionBar
+        - name: Header2ActionBar
+          url: https://github.com/AChep/Header2ActionBar
         - name: v7 appcompat library
           url: http://developer.android.com/tools/support-library/features.html#v7-appcompat
 
