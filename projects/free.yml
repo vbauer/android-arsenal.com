@@ -498,6 +498,8 @@ categories:
       projects:
         - name: Airy
           url: https://github.com/mirasmithy/airy
+        - name: SimpleFingerGestures
+          url: https://github.com/championswimmer/SimpleFingerGestures_Android_Library
           
     - name: Gradle Plugins
       projects:
