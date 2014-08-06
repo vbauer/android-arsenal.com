@@ -47,6 +47,8 @@ categories:
           url: https://github.com/ManuelPeinado/FadingActionBar
         - name: GlassActionBar
           url: https://github.com/ManuelPeinado/GlassActionBar
+        - name: Header2ActionBar
+          url: https://github.com/AChep/Header2ActionBar
         - name: v7 appcompat library
           url: http://developer.android.com/tools/support-library/features.html#v7-appcompat
 
@@ -202,6 +204,8 @@ categories:
           url: https://github.com/medyo/fancybuttons
         - name: Flat Button
           url: https://github.com/hoang8f/android-flat-button
+        - name: FloatingActionButton
+          url: https://github.com/FaizMalkani/FloatingActionButton
         - name: Process Button
           url: https://github.com/dmytrodanylyk/android-process-button
         - name: ProgressButton
@@ -490,6 +494,13 @@ categories:
         - name: RxJava
           url: https://github.com/Netflix/RxJava
 
+    - name: Gestures
+      projects:
+        - name: Airy
+          url: https://github.com/mirasmithy/airy
+        - name: SimpleFingerGestures
+          url: https://github.com/championswimmer/SimpleFingerGestures_Android_Library
+          
     - name: Gradle Plugins
       projects:
         - name: sdk-manager-plugin
