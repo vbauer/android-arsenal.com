@@ -1547,3 +1547,10 @@ categories:
           url: https://code.google.com/p/snakeyaml
         - name: YamlBeans
           url: https://github.com/EsotericSoftware/yamlbeans
+
+    - name: Dex Utils
+      projects:
+        - name: smali
+          url: https://code.google.com/p/smali/
+        - name: classes.dex method count helpers
+          url: https://gist.github.com/JakeWharton/6002797
