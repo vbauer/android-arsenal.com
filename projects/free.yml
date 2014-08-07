@@ -1548,9 +1548,11 @@ categories:
         - name: YamlBeans
           url: https://github.com/EsotericSoftware/yamlbeans
 
-    - name: Dex Utils
+    - name: Dex Tools
       projects:
         - name: smali
           url: https://code.google.com/p/smali/
         - name: classes.dex method count helpers
           url: https://gist.github.com/JakeWharton/6002797
+        - name: dex2jar
+          url: https://code.google.com/p/dex2jar/
