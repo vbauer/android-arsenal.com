@@ -1,4 +1,10 @@
 
+## Important information
+
+This repository contains source codes for old version of site. It is still available here: http://android-arsenal.herokuapp.com
+In spite of this, you can send pull requests or open issues here - they will be processed and the new site will be updated.
+
+
 ## Contributing
 
 If you want to make this world a little bit better you can:
