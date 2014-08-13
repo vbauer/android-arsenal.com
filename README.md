@@ -4,6 +4,8 @@
 This repository contains source codes for old version of site. It is still available here: http://android-arsenal.herokuapp.com
 In spite of this, you can send pull requests or open issues here - they will be processed and the new site will be updated.
 
+To send libraries / tools / projects / suggestions on new version of site, use feedback form: http://android-arsenal.com/feedback
+
 
 ## Contributing
 
@@ -14,7 +16,8 @@ If you want to make this world a little bit better you can:
 - Add some new interesting projects or fix mistakes.
   Modify file:
     - **projects/free.yml** - for free projects
-    - or **projects/paid.yml** - for paid projects
+    - **projects/paid.yml** - for paid projects
+    - or **projects/demo.yml** - for open source projects or demos
 - Check your indentations in text to prevent possible problems with YAML parser.
 - Send back a pull request.
 
