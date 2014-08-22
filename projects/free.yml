@@ -342,6 +342,8 @@ categories:
           url: https://github.com/foxykeep/ContentProviderCodeGenerator
         - name: Android SQLiteAssetHelper
           url: https://github.com/jgilfelt/android-sqlite-asset-helper
+        - name: couchbase-lite-android
+          url: https://github.com/couchbase/couchbase-lite-android
 
     - name: Database Browsers
       projects:
