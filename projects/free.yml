@@ -1160,7 +1160,9 @@ categories:
         - name: Twitter4J
           url: http://twitter4j.org
         - name: Scringo
-          url: http://www.scringo.com/
+          url: http://www.scringo.com
+        - name: Sinch
+          url: http://www.sinch.com  
 
     - name: SSH
       projects:
