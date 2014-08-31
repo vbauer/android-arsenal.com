@@ -167,6 +167,13 @@ categories:
         - name: Urban Airship
           url: http://urbanairship.com
 
+    - name: Social Networks
+      projects:
+        - name: Scringo
+          url: http://www.scringo.com
+        - name: Sinch
+          url: http://www.sinch.com
+
     - name: SSH
       projects:
         - name: J2SSH Maverick

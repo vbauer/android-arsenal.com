@@ -502,7 +502,7 @@ categories:
           url: https://github.com/mirasmithy/airy
         - name: SimpleFingerGestures
           url: https://github.com/championswimmer/SimpleFingerGestures_Android_Library
-          
+
     - name: Gradle Plugins
       projects:
         - name: sdk-manager-plugin
@@ -738,7 +738,7 @@ categories:
           url: https://github.com/47deg/android-swipelistview
         - name: TreeViewList
           url: https://code.google.com/p/tree-view-list-android
-        
+
     - name: List View Adapters
       projects:
         - name: Adapter Kit
@@ -1224,10 +1224,6 @@ categories:
           url: https://github.com/nostra13/Android-Simple-Social-Sharing
         - name: Twitter4J
           url: http://twitter4j.org
-        - name: Scringo
-          url: http://www.scringo.com
-        - name: Sinch
-          url: http://www.sinch.com  
 
     - name: SSH
       projects:
