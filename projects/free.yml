@@ -1161,6 +1161,8 @@ categories:
           url: http://sqlcipher.net/sqlcipher-for-android
         - name: Windows Azure ADAL
           url: https://github.com/MSOpenTech/azure-activedirectory-library-for-android
+        - name: OpenPGP API library
+          url: https://github.com/open-keychain/openpgp-api-lib
 
     - name: Sensors
       projects:
