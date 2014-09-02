@@ -1342,6 +1342,8 @@ categories:
           url: https://github.com/RomainPiel/Shimmer-android
         - name: ChromaHashView
           url: https://github.com/MichaelEvans/ChromaHashView
+        - name: TokenAutoComplete
+          url: https://github.com/splitwise/TokenAutoComplete
 
     - name: Testing
       projects:
