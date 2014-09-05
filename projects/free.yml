@@ -222,6 +222,8 @@ categories:
           url: https://github.com/jgilfelt/android-viewbadger
         - name: Android-ActionItemBadge
           url: http://mikepenz.github.io/Android-ActionItemBadge/
+        - name: HamburgerMenuDrawable
+          url: https://github.com/Tibolte/HamburgerMenuDrawable
 
     - name: Caching
       projects:
