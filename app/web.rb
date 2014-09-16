@@ -1,48 +1,10 @@
 require 'sinatra'
-require 'yaml'
 require 'set'
 require 'rack/cache'
 require 'xml-sitemap'
+require_relative 'model'
 
-module Rack
-  class CommonLogger
-    def call(env)
-      @app.call(env)
-    end
-  end
-end
-
-class ProjectsInfo
-    PROJECTS = File.dirname(__FILE__) + "/projects/"
-    attr_reader :count, :categories
-
-    def initialize(file)
-        @count = 0
-        @categories = Hash.new { |h, k| h[k] = [] }
-
-        data = YAML.load_file(PROJECTS + file)
-        categories = data['categories'] || []
-        categories.each do |d|
-            d['name'].split(',').each do |c|
-                projects = d['projects'].sort_by { |p| p['name'].downcase }
-                @count += projects.size
-                @categories[c.strip].concat(projects)
-            end
-        end
-    end
-end
-
-class DataContext
-    attr_reader :free, :paid, :demo
-
-    def initialize
-        @free = ProjectsInfo.new "free.yml"
-        @paid = ProjectsInfo.new "paid.yml"
-        @demo = ProjectsInfo.new "demo.yml"
-    end
-end
-
-class Application < Sinatra::Base
+class BaseApplication < Sinatra::Base
     CACHE_TIME = 86400
 
     configure :production, :development do
@@ -50,6 +12,7 @@ class Application < Sinatra::Base
 
         set :start_time, Time.now
         set :data, DataContext.new
+        set :public_folder, File.dirname(__FILE__) + "/public/"
 
         use Rack::Cache, :verbose => false
         use Rack::ConditionalGet
@@ -64,6 +27,9 @@ class Application < Sinatra::Base
         expires CACHE_TIME
         cache_control :public, :must_revalidate, :max_age => CACHE_TIME
     end
+end
+
+class Application < BaseApplication
 
     not_found do
         @not_found_page ||= render_page(:not_found, {})
