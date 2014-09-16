@@ -1,7 +1,9 @@
 require 'yaml'
 
-# Rack's CommonLogger hook for preventing logging
 module Rack
+  #
+  # Rack's CommonLogger hook for preventing logging
+  #
   class CommonLogger
     def call(env)
       @app.call(env)
@@ -9,7 +11,9 @@ module Rack
   end
 end
 
+#
 # Model class for loading and storing information about project
+#
 class ProjectsInfo
   PROJECTS = File.dirname(__FILE__) + '/../projects/'
   attr_reader :count, :categories
@@ -30,7 +34,9 @@ class ProjectsInfo
   end
 end
 
+#
 # Model class for loading and storing information about all kind of projects.
+#
 class DataContext
   attr_reader :free, :paid, :demo
 

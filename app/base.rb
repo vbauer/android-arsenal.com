@@ -2,6 +2,9 @@ require 'sinatra'
 require 'rack/cache'
 require_relative 'model'
 
+#
+# Basic configured Sinatra application
+#
 class BaseApplication < Sinatra::Base
   CACHE_TIME = 86_400
 
