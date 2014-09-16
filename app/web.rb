@@ -9,9 +9,18 @@ class Application < BaseApplication
     @not_found_page ||= render_page(:not_found, {})
   end
 
-  get '/' do @free_page ||= render_categories(:free, settings.data.free.categories) end
-  get '/paid' do @paid_page ||= render_categories(:paid, settings.data.paid.categories) end
-  get '/demo' do @demo_page ||= render_categories(:demo, settings.data.demo.categories) end
+  get '/' do
+    @free_page ||= render_categories(:free, settings.data.free.categories)
+  end
+
+  get '/paid' do
+    @paid_page ||= render_categories(:paid, settings.data.paid.categories)
+  end
+
+  get '/demo' do
+    @demo_page ||= render_categories(:demo, settings.data.demo.categories)
+  end
+
   get '/contributors' do
     @contributors_page ||= render_page(:contributors, type: :contributors)
   end

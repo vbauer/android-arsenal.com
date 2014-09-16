@@ -18,13 +18,15 @@ class ProjectsInfo
   PROJECTS = File.dirname(__FILE__) + '/../projects/'
   attr_reader :count, :categories
 
+  def load_yaml(file)
+    data = YAML.load_file(PROJECTS + file)
+    data['categories'] || []
+  end
+
   def initialize(file)
     @count = 0
     @categories = Hash.new { |h, k| h[k] = [] }
-
-    data = YAML.load_file(PROJECTS + file)
-    categories = data['categories'] || []
-    categories.each do |d|
+    load_yaml(file).each do |d|
       d['name'].split(',').each do |c|
         projects = d['projects'].sort_by { |p| p['name'].downcase }
         @count += projects.size
