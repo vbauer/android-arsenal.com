@@ -1,3 +1,4 @@
+require 'xml-sitemap'
 
 #
 # Sitemap generator
