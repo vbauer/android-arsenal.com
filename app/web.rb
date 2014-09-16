@@ -1,5 +1,6 @@
 require 'xml-sitemap'
 require_relative 'base'
+require_relative 'sitemap'
 
 #
 # Main web application
@@ -27,7 +28,7 @@ class Application < BaseApplication
 
   get '/sitemap.xml' do
     content_type 'text/xml'
-    @sitemap ||= render_sitemap
+    @sitemap ||= SitemapGenerator.generate
   end
 
   def type_name(type)
@@ -41,30 +42,18 @@ class Application < BaseApplication
     end
   end
 
-  def title(type)
-    'A categorized directory of ' + type_name(type) + ' for Android'
-  end
-
   def render_page(page, extra)
+    type = type_name(extra[:type])
     locals = {
       paid: settings.data.paid.count,
       free: settings.data.free.count,
       demo: settings.data.demo.count,
-      title: title(extra[:type])
+      title: "A categorized directory of #{type} for Android"
     }
     erb(page, locals: locals.merge(extra))
   end
 
   def render_categories(type, categories)
     render_page(:projects, type: type, categories: categories)
-  end
-
-  def render_sitemap
-    map = XmlSitemap::Map.new('android-arsenal.com') do |m|
-      m.add '/paid', period: :hourly
-      m.add '/demo', period: :hourly
-      m.add '/contributors', period: :hourly
-    end
-    map.render
   end
 end
