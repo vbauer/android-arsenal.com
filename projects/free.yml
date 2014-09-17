@@ -711,6 +711,8 @@ categories:
           url: https://github.com/Issacw0ng/SwipeBackLayout
         - name: MaskableLayout
           url: https://github.com/christophesmet/android_maskable_layout
+        - name: Material Ripple Layout
+          url: https://github.com/balysv/material-ripple
 
     - name: List Views
       projects:
