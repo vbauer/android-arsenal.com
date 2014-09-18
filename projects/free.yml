@@ -37,7 +37,7 @@ categories:
         - name: Ogre
           url: http://www.ogre3d.org
         - name: Unity
-          url: http://unity3d.com/ 
+          url: http://unity3d.com/
 
     - name: Action Bars
       projects:
@@ -397,6 +397,9 @@ categories:
           url: http://androidtransfuse.org
         - name: Stabbed Android
           url: http://psdev.de/stabbed-android
+        - name: FragmentArgs
+          url: https://github.com/sockeqwe/fragmentargs
+
 
     - name: Design
       projects:

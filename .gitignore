@@ -1,4 +1,4 @@
 .idea/
 *.ipr
 *.iml
-
+*.DS_Store
