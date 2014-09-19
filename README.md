@@ -47,4 +47,5 @@ Thanks to all contributors that send to me information about libraries, tools, p
 ## Donations
 
 If you'd like to support Android Arsenal development, you could make some donations here: [![Gratipay](http://img.shields.io/gratipay/vbauer.svg)](https://gratipay.com/vbauer)
+
 Thank you very much in advance!
