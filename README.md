@@ -42,3 +42,9 @@ Server should be available on [http://localhost:8080](http://localhost:8080/).
 ## Acknowledgements
 
 Thanks to all contributors that send to me information about libraries, tools, projects or just some useful feedback. You really help me in the development of the [Android Arsenal](http://android-arsenal.com).
+
+
+## Donations
+
+If you'd like to support Android Arsenal development, you could make some donations here: ![http://img.shields.io/gratipay/vbauer.svg](https://gratipay.com/vbauer)
+Thank you very much in advance!
