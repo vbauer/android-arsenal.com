@@ -1401,6 +1401,8 @@ categories:
           url: http://simonvt.github.io/MessageBar
         - name: SuperToasts
           url: https://github.com/JohnPersano/SuperToasts
+        - name: SnackBar
+          url: https://github.com/Kennyc1012/SnackBar
 
     - name: Toolkits For Other PL
       projects:
