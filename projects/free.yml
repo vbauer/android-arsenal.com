@@ -988,6 +988,8 @@ categories:
           url: http://www.parcelabler.com
         - name: Parceler
           url: https://github.com/johncarl81/parceler
+        - name: ParcelablePlease
+          url: https://github.com/sockeqwe/ParcelablePlease
 
     - name: PDF
       projects:
