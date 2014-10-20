@@ -760,6 +760,8 @@ categories:
           url: https://github.com/ManuelPeinado/MultiChoiceAdapter
         - name: Simple Section Adapter
           url: https://github.com/ragunathjawahar/simple-section-adapter
+        - name: AnnotatedAdapter
+          url: https://github.com/sockeqwe/AnnotatedAdapter
 
     - name: List View Sections
       projects:
