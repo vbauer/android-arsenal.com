@@ -1122,6 +1122,8 @@ categories:
           url: https://github.com/Efor18/RangeSeekBar
         - name: SeekArc
           url: https://github.com/TriggerTrap/SeekArc
+        - name: ValueBar
+          url: https://github.com/PhilJay/ValueBar
 
     - name: Ratings
       projects:
