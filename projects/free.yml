@@ -441,6 +441,8 @@ categories:
           url: http://apps.samsung.com
         - name: Amazon Appstore
           url: http://www.amazon.com/mobile-apps/b?node=2350149011
+        - name: B-Flight
+          url: http://b-flight.com
 
     - name: Event Buses
       projects:
