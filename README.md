@@ -1,6 +1,8 @@
 
 ## Important information
 
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/vbauer/android-arsenal.com?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This repository contains source codes for old version of site. It is still available here: http://android-arsenal.herokuapp.com
 In spite of this, you can send pull requests or open issues here - they will be processed and the new site will be updated.
 
