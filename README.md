@@ -1,8 +1,7 @@
 
 ## Important information
 
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/vbauer/android-arsenal.com?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/vbauer/android-arsenal.com?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) 
 [![Dependency Status](https://gemnasium.com/vbauer/android-arsenal.com.svg)](https://gemnasium.com/vbauer/android-arsenal.com)
 
 This repository contains source codes for old version of site. It is still available here: http://android-arsenal.herokuapp.com
@@ -30,7 +29,7 @@ If you want to make this world a little bit better you can:
 
 To install needed dependencies, run this commands in the project directory:
 ```sh
-rvm use 2.1.2
+rvm use 2.1.5
 bundle install
 ```
 
