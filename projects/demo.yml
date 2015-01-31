@@ -27,6 +27,8 @@ categories:
           url: https://github.com/JakeWharton/u2020
         - name: u2020-mortar
           url: https://github.com/lemonlabs/u2020-mortar
+        - name: u2020-mvp
+          url: https://github.com/LiveTyping/u2020-mvp
 
     - name: Audio
       projects:
