@@ -376,6 +376,8 @@ categories:
           url: https://github.com/CiTuX/datetimepicker
         - name: ExtendedCalendarView
           url: https://github.com/tyczj/ExtendedCalendarView
+        - name: Material CalendarView
+          url: https://github.com/prolificinteractive/material-calendarview
         - name: MFCalendarView
           url: https://github.com/MustafaFerhan/MFCalendarView
         - name: Roboto Calendar View
