@@ -1494,6 +1494,8 @@ categories:
           url: https://github.com/throrin19/Android-Validator
         - name: Android Saripaar
           url: https://github.com/ragunathjawahar/android-saripaar
+        - name: HouseOfCards
+          url: https://github.com/prolificinteractive/HouseOfCards
         - name: ValidationKomensky
           url: https://github.com/inmite/android-validation-komensky
         - name: FormValidations
