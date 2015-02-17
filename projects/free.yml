@@ -972,6 +972,8 @@ categories:
           url: http://satyan.github.io/sugar
         - name: Torch
           url: https://github.com/brightify/torch
+        - name: DBFlow
+          url: https://github.com/Raizlabs/DBFlow
 
     - name: Parallax List Views
       projects:
