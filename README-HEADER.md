@@ -5,6 +5,10 @@
 [![Dependency Status](https://gemnasium.com/vbauer/android-arsenal.com.svg)](https://gemnasium.com/vbauer/android-arsenal.com)
 [![Heroku](https://heroku-badge.herokuapp.com/?app=android-arsenal)](http://android-arsenal.herokuapp.com)
 
+<a href="https://android-arsenal.com">
+	<img src="/misc/android-arsenal-logo.png" title="Logo"/>
+</a>
+
 This repository contains source codes for old version of site. It is still available here: http://android-arsenal.herokuapp.com
 In spite of this, you can send pull requests or open issues here - they will be processed and the new site will be updated.
 
