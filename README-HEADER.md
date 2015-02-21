@@ -6,13 +6,13 @@
 [![Heroku](https://heroku-badge.herokuapp.com/?app=android-arsenal)](http://android-arsenal.herokuapp.com)
 
 <a href="https://android-arsenal.com">
-	<img src="/misc/android-arsenal-logo.png" alt="Android Arsenal"/>
+    <img src="/misc/android-arsenal-logo.png" alt="Android Arsenal"/>
 </a>
 
 This repository contains source codes for old version of site. It is still available here: http://android-arsenal.herokuapp.com
 In spite of this, you can send pull requests or open issues here - they will be processed and the new site will be updated.
 
-To send libraries / tools / projects / suggestions on new version of site, use feedback form: http://android-arsenal.com/feedback
+To send libraries / tools / projects / suggestions on new version of site, use feedback form: https://android-arsenal.com/feedback
 
 
 ## Contributing
@@ -49,7 +49,7 @@ Server should be available on [http://localhost:8080](http://localhost:8080/).
 
 ## Acknowledgements
 
-Thanks to all contributors that send to me information about libraries, tools, projects or just some useful feedback. You really help me in the development of the [Android Arsenal](http://android-arsenal.com).
+Thanks to all contributors that send to me information about libraries, tools, projects or just some useful feedback. You really help me in the development of the [Android Arsenal](https://android-arsenal.com).
 
 
 ## Donations
