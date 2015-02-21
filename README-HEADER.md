@@ -6,7 +6,7 @@
 [![Heroku](https://heroku-badge.herokuapp.com/?app=android-arsenal)](http://android-arsenal.herokuapp.com)
 
 <a href="https://android-arsenal.com">
-	<img src="/misc/android-arsenal-logo.png" title="Logo"/>
+	<img src="/misc/android-arsenal-logo.png" alt="Android Arsenal"/>
 </a>
 
 This repository contains source codes for old version of site. It is still available here: http://android-arsenal.herokuapp.com
