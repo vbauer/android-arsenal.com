@@ -694,6 +694,8 @@ categories:
 
     - name: Layouts
       projects:
+        - name: Game of Life View
+          url: https://github.com/thiagokimo/GameOfLifeView
         - name: Android Empty Layout
           url: https://github.com/alamkanak/Android-Empty-Layout
         - name: Android Constrained Widgets
