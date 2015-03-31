@@ -17,10 +17,6 @@ module Sinatra
         @demo_page ||= render_categories(:demo, settings.data.demo.categories)
       end
 
-      page_contributors = lambda do
-        @contributors_page ||= render_page(:contributors, type: :contributors)
-      end
-
       page_sitemap = lambda do
         content_type 'text/xml'
         @sitemap ||= SitemapGenerator.generate
@@ -29,7 +25,6 @@ module Sinatra
       app.get '/', &page_free
       app.get '/paid', &page_paid
       app.get '/demo', &page_demo
-      app.get '/contributors', &page_contributors
       app.get '/sitemap.xml', &page_sitemap
     end
   end

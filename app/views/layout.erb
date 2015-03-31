@@ -62,10 +62,7 @@
                     <li class="<%='active' if defined?(type) && type == :demo%>">
                         <a href="/demo" title="Demo projects">Battlefield <span class="badge"><%= demo %></span></a>
                     </li>
-                    <li class="<%='active' if defined?(type) && type == :contributors%>">
-                        <a href="/contributors">Contributors</a>
-                    </li>
-                    <li><a href="https://github.com/vbauer/android-arsenal.com"
+                    <li><a href="https://github.com/vbauer/android-arsenal.com/issues"
                            title="Library suggestions can be submitted" class="action">Suggest project</a></li>
                     <li><a href="http://ios-cosmos.com" title="Meanwhile in a parallel universe...">
                         <span class="ios-cosmos">The iOS Cosmos</span> <span class="glyphicon glyphicon-phone"></span>
@@ -76,7 +73,7 @@
     </div>
 
     <div class="container content">
-        <div class="alert alert-warning alert-dismissible" role="alert">
+        <div class="alert alert-danger alert-dismissible" role="alert">
             <button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
             <strong>Important:</strong>
             New version of the Android Arsenal is available here: <a href="https://android-arsenal.com">https://android-arsenal.com</a>
