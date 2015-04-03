@@ -629,6 +629,8 @@ categories:
           url: https://github.com/koush/UrlImageViewHelper
         - name: Novoda Image Loader
           url: https://github.com/novoda/ImageLoader
+        - name: Fresco
+          url: https://github.com/facebook/fresco
 
     - name: Image Processing
       projects:
