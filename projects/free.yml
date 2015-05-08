@@ -1285,6 +1285,8 @@ categories:
       projects:
         - name: Painter
           url: https://github.com/agrosner/Painter
+        - name: Decor
+          url: https://github.com/chemouna/decor
 
     - name: SVG
       projects:
