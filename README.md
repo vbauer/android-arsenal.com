@@ -583,6 +583,7 @@ Thank you very much in advance!
 * [Orman](https://github.com/ahmetalpbalkan/orman)
 * [OrmLite](http://ormlite.com)
 * [Persistence](https://github.com/casidiablo/persistence)
+* [Slim Repo](https://github.com/slim-gears/slimrepo)
 * [Sprinkles](https://github.com/emilsjolander/sprinkles)
 * [Sugar ORM](http://satyan.github.io/sugar)
 * [Torch](https://github.com/brightify/torch)
