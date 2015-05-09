@@ -293,6 +293,8 @@ categories:
 
     - name: Content Providers
       projects:
+        - name: Slim Repo
+          url: https://github.com/slim-gears/slimrepo
         - name: Content Provider Helper
           url: https://github.com/jenzz/ContentProviderHelper
         - name: OrmLiteContentProvider
