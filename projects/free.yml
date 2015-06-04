@@ -1457,6 +1457,8 @@ categories:
           url: http://www.onyxbits.de/raccoon
         - name: Madge
           url: https://github.com/JakeWharton/madge
+        - name: Android Keystore Recovery
+          url: https://github.com/rsertelon/android-keystore-recovery
 
     - name: USB
       projects:
