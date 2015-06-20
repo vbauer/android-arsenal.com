@@ -135,6 +135,11 @@ categories:
         - name: Sensor Readout
           url: http://www.onyxbits.de/sensorreadout
 
+    - name: System
+      projects:
+        - name: MLManager
+          url: https://github.com/javiersantos/MLManager
+          
     - name: SSH
       projects:
         - name: android-sshd
