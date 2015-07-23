@@ -94,6 +94,8 @@ categories:
           url: https://github.com/curioustechizen/android-hybridchoice
         - name: ListViewAnimator
           url: https://github.com/chief-worminger/ListViewAnimator
+        - name: Wearable-Listview-Example
+          url: https://github.com/danramirez/wearable-listview-example
 
     - name: Maps
       projects:
