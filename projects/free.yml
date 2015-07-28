@@ -981,6 +981,13 @@ categories:
         - name: Rating Reminder
           url: https://code.google.com/p/rating-reminder/
 
+    - name: RecyclerView Adapters
+      projects:
+        - name: Adapter Wrapper
+          url: https://github.com/rockerhieu/rv-adapter
+        - name: Endless Adapter
+          url: https://github.com/rockerhieu/rv-adapter-endless
+
     - name: REST
       projects:
         - name: Appsly Android Rest
