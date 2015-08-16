@@ -1160,6 +1160,8 @@ categories:
           url: https://github.com/rockerhieu/rv-adapter
         - name: Endless Adapter
           url: https://github.com/rockerhieu/rv-adapter-endless
+        - name: States Adapter
+          url: https://github.com/rockerhieu/rv-adapter-states
 
     - name: REST
       projects:
