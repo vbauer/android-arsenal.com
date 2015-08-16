@@ -388,6 +388,8 @@ categories:
           url: https://github.com/Disegnator/RobotoCalendarView
         - name: TimesSquare for Android
           url: https://github.com/square/android-times-square
+        - name: FlexibleCalendar
+          url: https://github.com/p-v/FlexibleCalendar
 
     - name: Dependency Injections
       projects:
