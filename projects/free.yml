@@ -852,6 +852,11 @@ categories:
         - name: MarkdownView
           url: https://github.com/Gunio/MarkdownView
 
+    - name: Material Design
+      projects:
+        - name: AndroidMdCore
+        - url: https://github.com/henrytao-me/android-md-core
+
     - name: MIME
       projects:
         - name: Apache HttpMime
