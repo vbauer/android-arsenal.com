@@ -855,7 +855,7 @@ categories:
     - name: Material Design
       projects:
         - name: AndroidMdCore
-        - url: https://github.com/henrytao-me/android-md-core
+          url: https://github.com/henrytao-me/android-md-core
 
     - name: MIME
       projects:
