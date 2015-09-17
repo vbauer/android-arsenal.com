@@ -319,6 +319,8 @@ categories:
       projects:
         - name: AboutLibraries
           url: https://github.com/mikepenz/AboutLibraries
+        - name: AboutIt
+          url: https://github.com/victorhaggqvist/AboutIt
 
     - name: CSV
       projects:
