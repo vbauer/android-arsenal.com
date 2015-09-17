@@ -1169,6 +1169,8 @@ categories:
           url: https://github.com/rockerhieu/rv-adapter-endless
         - name: States Adapter
           url: https://github.com/rockerhieu/rv-adapter-states
+        - name: RecyclerView Multistate Section Endless WrapperAdapter
+          url: https://github.com/henrytao-me/recyclerview-multistate-section-endless-adapter
 
     - name: REST
       projects:
