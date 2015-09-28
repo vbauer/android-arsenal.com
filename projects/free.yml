@@ -1314,6 +1314,11 @@ categories:
         - name: Decor
           url: https://github.com/chemouna/decor
 
+    - name: Support Design Library
+      projects:
+        - name: smooth-app-bar-layout
+          url: https://github.com/henrytao-me/smooth-app-bar-layout
+
     - name: SVG
       projects:
         - name: androidsvg
