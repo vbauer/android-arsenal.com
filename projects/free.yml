@@ -228,6 +228,8 @@ categories:
           url: http://mikepenz.github.io/Android-ActionItemBadge/
         - name: HamburgerMenuDrawable
           url: https://github.com/Tibolte/HamburgerMenuDrawable
+        - name: Android SocialButtons
+          url: https://github.com/championswimmer/Android-SocialButtons
 
     - name: Caching
       projects:
