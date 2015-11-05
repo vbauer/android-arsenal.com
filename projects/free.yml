@@ -1404,6 +1404,8 @@ categories:
           url: https://github.com/MichaelEvans/ChromaHashView
         - name: TokenAutoComplete
           url: https://github.com/splitwise/TokenAutoComplete
+        - name: EmailAutoCompleteTextView
+          url: https://github.com/tasomaniac/EmailAutoCompleteTextView
 
     - name: Testing
       projects:
