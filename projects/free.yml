@@ -307,6 +307,8 @@ categories:
           url: https://github.com/TimotheeJeannin/ProviGen
         - name: SQLiteProvider
           url: https://github.com/novoda/SQLiteProvider
+        - name: CPOrm
+          url: https://github.com/Wackymax/CPOrm
 
     - name: Crash Reports
       projects:
@@ -354,6 +356,8 @@ categories:
           url: https://github.com/jgilfelt/android-sqlite-asset-helper
         - name: couchbase-lite-android
           url: https://github.com/couchbase/couchbase-lite-android
+        - name: CPOrm
+          url: https://github.com/Wackymax/CPOrm
 
     - name: Database Browsers
       projects:
@@ -991,6 +995,8 @@ categories:
           url: https://github.com/brightify/torch
         - name: DBFlow
           url: https://github.com/Raizlabs/DBFlow
+        - name: CPOrm
+          url: https://github.com/Wackymax/CPOrm
 
     - name: Parallax List Views
       projects:
