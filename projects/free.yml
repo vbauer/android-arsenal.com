@@ -1071,6 +1071,8 @@ categories:
           url: https://github.com/VenomVendor/SimpleSharedPreferences
         - name: UnifiedPreference
           url: https://github.com/saik0/UnifiedPreference
+        - name: IntegrationPreference
+          url: https://github.com/tasomaniac/IntegrationPreference
 
     - name: Progress Indicators
       projects:
