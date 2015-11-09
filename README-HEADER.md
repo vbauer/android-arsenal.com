@@ -34,7 +34,9 @@ If you want to make this world a little bit better you can:
 
 To install needed dependencies, run this commands in the project directory:
 ```sh
-rvm use 2.1.5
+gem install bundler
+rvm install ruby-2.2.3
+rvm use 2.2.3
 bundle install
 ```
 
