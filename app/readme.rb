@@ -28,7 +28,7 @@ def render_categories(type, data, f)
     count = data.count
 
     categories.sort.each_with_index { |(category, projects), index|
-        f.puts('### ' + category + ' (' + count.to_s + ')')
+        f.puts('### ' + category + ' (' + projects.count.to_s + ')')
         projects.each { |project|
             name = project[ 'name']
             url = project['url']
