@@ -633,6 +633,8 @@ categories:
 
     - name: Image Loaders
       projects:
+        - name: Glide
+          url: https://github.com/bumptech/glide
         - name: LazyList
           url: https://github.com/thest1/LazyList
         - name: Picasso
@@ -1162,6 +1164,8 @@ categories:
 
     - name: Ratings
       projects:
+        - name: surveylib
+          url: https://github.com/AndreiD/surveylib
         - name: Appirater
           url: https://github.com/Huppie/Appirater-for-Android
         - name: AppRater
@@ -1464,6 +1468,8 @@ categories:
           url: https://github.com/JohnPersano/SuperToasts
         - name: SnackBar
           url: https://github.com/Kennyc1012/SnackBar
+        - name: TSnackbar
+          url: https://github.com/AndreiD/TSnackBar
 
     - name: Toolkits For Other PL
       projects:
