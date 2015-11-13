@@ -630,6 +630,8 @@ categories:
           url: https://github.com/biokys/cropimage
         - name: Cropper
           url: https://github.com/edmodo/cropper
+        - name: NoCropper
+          url: https://github.com/jayrambhia/CropperNoCropper
 
     - name: Image Loaders
       projects:
