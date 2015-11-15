@@ -398,6 +398,8 @@ categories:
           url: https://github.com/square/android-times-square
         - name: FlexibleCalendar
           url: https://github.com/p-v/FlexibleCalendar
+        - name: AgendaCalendarView
+          url: https://github.com/Tibolte/AgendaCalendarView
 
     - name: Dependency Injections
       projects:
