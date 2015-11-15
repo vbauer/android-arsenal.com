@@ -1593,6 +1593,8 @@ categories:
           url: https://github.com/castorflex/VerticalViewPager
         - name: LoopingViewPager
           url: https://github.com/imbryk/LoopingViewPager
+        - name: RecyclerPagerAdapter
+          url: https://github.com/henrytao-me/recycler-pager-adapter
 
     - name: Weather
       projects:
