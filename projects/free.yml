@@ -1041,6 +1041,11 @@ categories:
         - name: PDFView
           url: https://github.com/JoanZapata/android-pdfview
 
+    - name: Permissions
+      projects:
+        - name: Permiso
+          url: https://github.com/greysonp/permiso
+
     - name: Physics Engines
       projects:
         - name: androidbox2d
