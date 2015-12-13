@@ -1086,6 +1086,8 @@ categories:
           url: https://github.com/saik0/UnifiedPreference
         - name: IntegrationPreference
           url: https://github.com/tasomaniac/IntegrationPreference
+        - name: RxSharedPreferences
+          url: https://github.com/henrytao-me/rx-shared-preferences
 
     - name: Progress Indicators
       projects:
