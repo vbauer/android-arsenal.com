@@ -668,6 +668,8 @@ categories:
           url: https://code.google.com/p/jjil
         - name: Android GPUImage
           url: https://github.com/CyberAgent/android-gpuimage
+        - name: openalpr-android
+          url: https://github.com/SandroMachado/openalpr-android
 
     - name: Image Views
       projects:
