@@ -529,6 +529,8 @@ categories:
           url: https://github.com/mirasmithy/airy
         - name: SimpleFingerGestures
           url: https://github.com/championswimmer/SimpleFingerGestures_Android_Library
+        - name: HoverTouchView
+          url: https://github.com/nantaphop/HoverTouchView
 
     - name: Gradle Plugins
       projects:
