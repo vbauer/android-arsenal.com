@@ -252,6 +252,8 @@ categories:
           url: https://github.com/Androguide/cardsui-for-android
         - name: Cards-UI
           url: https://github.com/afollestad/Cards-UI
+        - name: SwipeableCard
+          url: https://github.com/michelelacorte/SwipeableCard
 
     - name: Changelog
       projects:
