@@ -1491,6 +1491,8 @@ categories:
           url: https://github.com/Kennyc1012/SnackBar
         - name: TSnackbar
           url: https://github.com/AndreiD/TSnackBar
+        - name: Restaurant
+          url: https://github.com/SandroMachado/restaurant
 
     - name: Toolkits For Other PL
       projects:
