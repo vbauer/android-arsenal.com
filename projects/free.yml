@@ -1233,6 +1233,8 @@ categories:
       projects:
         - name: AndroidPinning
           url: https://github.com/moxie0/AndroidPinning
+        - name: AndroidTampering 
+          url: https://github.com/SandroMachado/AndroidTampering
         - name: Conceal
           url: http://facebook.github.io/conceal
         - name: NetCipher (Onionkit)
