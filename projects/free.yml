@@ -1111,6 +1111,8 @@ categories:
           url: https://github.com/castorflex/SmoothProgressBar
         - name: ContentLoadingProgressDialog
           url: https://github.com/tasomaniac/ContentLoadingProgressDialog
+        - name: ElasticProgressBar
+          url: https://github.com/michelelacorte/ElasticProgressBar
 
     - name: Protocol Buffer
       projects:
