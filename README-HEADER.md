@@ -3,7 +3,7 @@
 
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/vbauer/android-arsenal.com?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Dependency Status](https://gemnasium.com/vbauer/android-arsenal.com.svg)](https://gemnasium.com/vbauer/android-arsenal.com)
-[![Heroku](https://heroku-badge.herokuapp.com/?app=android-arsenal)](http://android-arsenal.herokuapp.com)
+[![Heroku](https://heroku-badge.herokuapp.com/?app=android-arsenal&style=flat&svg=1](http://android-arsenal.herokuapp.com)
 
 <a href="https://android-arsenal.com">
     <img src="/misc/android-arsenal-logo.png" alt="Android Arsenal"/>
