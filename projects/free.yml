@@ -88,6 +88,8 @@ categories:
           url: https://github.com/daimajia/AndroidViewAnimations
         - name: TransitionsBackport
           url: https://github.com/guerwan/TransitionsBackport
+        - name: CubeGrid
+          url: https://github.com/david-wei/CubeGrid
 
     - name: Architecture
       projects:
