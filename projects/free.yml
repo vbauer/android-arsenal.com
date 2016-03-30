@@ -625,6 +625,8 @@ categories:
           url: https://github.com/square/otto-intellij-plugin
         - name: SelectorChapek
           url: https://github.com/inmite/android-selector-chapek
+        - name: StepBuilder generator
+          url: https://github.com/iamMehedi/stepbuilder
 
     - name: Image Croppers
       projects:
@@ -1443,6 +1445,8 @@ categories:
           url: https://github.com/splitwise/TokenAutoComplete
         - name: EmailAutoCompleteTextView
           url: https://github.com/tasomaniac/EmailAutoCompleteTextView
+        - name: PasscodeView
+          url: https://github.com/iamMehedi/PasscodeView
 
     - name: Testing
       projects:
