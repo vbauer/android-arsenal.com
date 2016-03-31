@@ -88,6 +88,8 @@ categories:
           url: https://github.com/daimajia/AndroidViewAnimations
         - name: TransitionsBackport
           url: https://github.com/guerwan/TransitionsBackport
+        - name: CubeGrid
+          url: https://github.com/david-wei/CubeGrid
 
     - name: Architecture
       projects:
@@ -1206,6 +1208,8 @@ categories:
           url: https://github.com/rockerhieu/rv-adapter-states
         - name: RecyclerView Multistate Section Endless WrapperAdapter
           url: https://github.com/henrytao-me/recyclerview-multistate-section-endless-adapter
+        - name: Adapter support drag and load more items
+          url: https://github.com/david-wei/ExpandDragHelper
 
     - name: REST
       projects:
