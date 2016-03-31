@@ -535,6 +535,8 @@ categories:
           url: https://github.com/championswimmer/SimpleFingerGestures_Android_Library
         - name: HoverTouchView
           url: https://github.com/nantaphop/HoverTouchView
+        - name: PeekAndPop
+          url: https://github.com/shalskar/PeekAndPop
 
     - name: Gradle Plugins
       projects:
