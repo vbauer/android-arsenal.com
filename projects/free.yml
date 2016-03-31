@@ -1600,6 +1600,8 @@ categories:
           url: https://github.com/fyhertz/libstreaming
         - name: YouTube Android Player
           url: https://developers.google.com/youtube/android/player
+        - name: Ipcam view
+          url: https://github.com/niqdev/ipcam-view
 
     - name: View Pagers
       projects:
