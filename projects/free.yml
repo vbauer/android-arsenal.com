@@ -1287,6 +1287,11 @@ categories:
         - name: SlidingMenu
           url: https://github.com/jfeinstein10/SlidingMenu
 
+    - name: Snackbars
+      projects:
+        - name: SnackbarBuilder
+          url: https://github.com/andrewlord1990/SnackbarBuilder
+
     - name: SOAP
       projects:
         - name: android-soap-enabler
