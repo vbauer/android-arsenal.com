@@ -444,6 +444,8 @@ categories:
 
     - name: Dialogs
       projects:
+        - name: Pop
+          url: https://github.com/00ec454/pop
         - name: StandOut
           url: https://github.com/pingpongboss/StandOut
         - name: StyledDialogs
