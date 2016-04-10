@@ -107,8 +107,9 @@ Thank you very much in advance!
 * [Google Analytics](https://developers.google.com/analytics/devguides/collection/android)
 * [Yandex Metrica](https://appmetrica.yandex.com)
 
-### Animations (4)
+### Animations (5)
 * [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations)
+* [CubeGrid](https://github.com/david-wei/CubeGrid)
 * [Motion](https://github.com/nvanbenschoten/motion)
 * [Rebound](https://github.com/facebook/rebound)
 * [TransitionsBackport](https://github.com/guerwan/TransitionsBackport)
@@ -305,8 +306,9 @@ Thank you very much in advance!
 * [dex2jar](https://code.google.com/p/dex2jar/)
 * [smali](https://code.google.com/p/smali/)
 
-### Dialogs (4)
+### Dialogs (5)
 * [LicensesDialog](http://psdev.de/LicensesDialog)
+* [Pop](https://github.com/00ec454/pop)
 * [StandOut](https://github.com/pingpongboss/StandOut)
 * [StyledDialogs](https://github.com/inmite/android-styled-dialogs)
 * [UpdateChecker](https://github.com/rampo/UpdateChecker)
@@ -352,9 +354,10 @@ Thank you very much in advance!
 * [Google Fonts](https://www.google.com/fonts)
 * [PixlUI](https://github.com/neopixl/PixlUI)
 
-### Gestures (3)
+### Gestures (4)
 * [Airy](https://github.com/mirasmithy/airy)
 * [HoverTouchView](https://github.com/nantaphop/HoverTouchView)
+* [PeekAndPop](https://github.com/shalskar/PeekAndPop)
 * [SimpleFingerGestures](https://github.com/championswimmer/SimpleFingerGestures_Android_Library)
 
 ### Gradle Plugins (3)
@@ -397,7 +400,7 @@ Thank you very much in advance!
 * [Eclipse ADT](http://developer.android.com/tools/sdk/eclipse-adt.html)
 * [IntelliJ IDEA](http://www.jetbrains.com/idea/features/android.html)
 
-### IDE Plugins (7)
+### IDE Plugins (8)
 * [ADT Templates](https://github.com/jgilfelt/android-adt-templates)
 * [Android for Maven Eclipse](http://rgladwell.github.io/m2e-android)
 * [Android Holo Colors IntelliJ Plugin](https://github.com/jeromevdl/android-holo-colors-idea-plugin)
@@ -405,6 +408,7 @@ Thank you very much in advance!
 * [Dagger IntelliJ Plugin](https://github.com/square/dagger-intellij-plugin)
 * [Otto IntelliJ Plugin](https://github.com/square/otto-intellij-plugin)
 * [SelectorChapek](https://github.com/inmite/android-selector-chapek)
+* [StepBuilder generator](https://github.com/iamMehedi/stepbuilder)
 
 ### Image Croppers (5)
 * [Android CropImage](https://github.com/lvillani/android-cropimage)
@@ -725,7 +729,8 @@ Thank you very much in advance!
 * [Rating Reminder](https://code.google.com/p/rating-reminder)
 * [surveylib](https://github.com/AndreiD/surveylib)
 
-### RecyclerView Adapters (4)
+### RecyclerView Adapters (5)
+* [Adapter support drag and load more items](https://github.com/david-wei/ExpandDragHelper)
 * [Adapter Wrapper](https://github.com/rockerhieu/rv-adapter)
 * [Endless Adapter](https://github.com/rockerhieu/rv-adapter-endless)
 * [RecyclerView Multistate Section Endless WrapperAdapter](https://github.com/henrytao-me/recyclerview-multistate-section-endless-adapter)
@@ -776,6 +781,9 @@ Thank you very much in advance!
 * [android-menudrawer](https://github.com/SimonVT/android-menudrawer)
 * [SlidingLayer](https://github.com/6wunderkinder/android-sliding-layer-lib)
 * [SlidingMenu](https://github.com/jfeinstein10/SlidingMenu)
+
+### Snackbars (1)
+* [SnackbarBuilder](https://github.com/andrewlord1990/SnackbarBuilder)
 
 ### Social Networks (7)
 * [AndroidSocialNetworks](https://github.com/antonkrasov/AndroidSocialNetworks)
@@ -842,7 +850,7 @@ Thank you very much in advance!
 * [Remote Android Test Service](https://github.com/wmbest2/rats-server)
 * [Spoon](https://github.com/square/spoon)
 
-### Text Views (13)
+### Text Views (14)
 * [Android Floating Label](https://github.com/hardik-trivedi/FloatingLabel)
 * [android-flowtextview](https://code.google.com/p/android-flowtextview)
 * [Android-RobotoTextView](https://github.com/johnkil/Android-RobotoTextView)
@@ -854,6 +862,7 @@ Thank you very much in advance!
 * [Float Labeled EditText](https://github.com/wrapp/floatlabelededittext)
 * [HtmlTextView](https://github.com/dschuermann/html-textview)
 * [Justified](https://github.com/programingjd/justified)
+* [PasscodeView](https://github.com/iamMehedi/PasscodeView)
 * [Shimmer-android](https://github.com/RomainPiel/Shimmer-android)
 * [TokenAutoComplete](https://github.com/splitwise/TokenAutoComplete)
 
@@ -921,9 +930,10 @@ Thank you very much in advance!
 * [HouseOfCards](https://github.com/prolificinteractive/HouseOfCards)
 * [ValidationKomensky](https://github.com/inmite/android-validation-komensky)
 
-### Video (4)
+### Video (5)
 * [AndroidFFmpeg](https://github.com/appunite/AndroidFFmpeg)
 * [ijkplayer](https://github.com/bbcallen/ijkplayer)
+* [Ipcam view](https://github.com/niqdev/ipcam-view)
 * [libstreaming](https://github.com/fyhertz/libstreaming)
 * [YouTube Android Player](https://developers.google.com/youtube/android/player)
 
