@@ -1614,6 +1614,8 @@ categories:
           url: https://developers.google.com/youtube/android/player
         - name: Ipcam view
           url: https://github.com/niqdev/ipcam-view
+        - name: AndroidVimeoExtractor
+          url: https://github.com/ed-george/AndroidVimeoExtractor
 
     - name: View Pagers
       projects:
