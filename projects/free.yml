@@ -1059,6 +1059,9 @@ categories:
 
     - name: Permissions
       projects:
+        - name: Ask
+          url: https://github.com/00ec454/Ask
+      projects:
         - name: Permiso
           url: https://github.com/greysonp/permiso
 
