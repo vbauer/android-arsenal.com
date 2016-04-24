@@ -105,6 +105,8 @@ categories:
           url: https://github.com/square/mortar
         - name: Spring for Android
           url: http://projects.spring.io/spring-android
+        - name: MVVM Lifecycle
+          url: https://github.com/henrytao-me/mvvm-life-cycle
 
     - name: Audio
       projects:
