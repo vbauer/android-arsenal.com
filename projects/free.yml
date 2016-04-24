@@ -88,6 +88,8 @@ categories:
           url: https://github.com/daimajia/AndroidViewAnimations
         - name: TransitionsBackport
           url: https://github.com/guerwan/TransitionsBackport
+        - name: CubeGrid
+          url: https://github.com/david-wei/CubeGrid
 
     - name: Architecture
       projects:
@@ -254,6 +256,8 @@ categories:
           url: https://github.com/Androguide/cardsui-for-android
         - name: Cards-UI
           url: https://github.com/afollestad/Cards-UI
+        - name: SwipeableCard
+          url: https://github.com/michelelacorte/SwipeableCard
 
     - name: Changelog
       projects:
@@ -442,6 +446,8 @@ categories:
 
     - name: Dialogs
       projects:
+        - name: Pop
+          url: https://github.com/00ec454/pop
         - name: StandOut
           url: https://github.com/pingpongboss/StandOut
         - name: StyledDialogs
@@ -531,6 +537,10 @@ categories:
           url: https://github.com/mirasmithy/airy
         - name: SimpleFingerGestures
           url: https://github.com/championswimmer/SimpleFingerGestures_Android_Library
+        - name: HoverTouchView
+          url: https://github.com/nantaphop/HoverTouchView
+        - name: PeekAndPop
+          url: https://github.com/shalskar/PeekAndPop
 
     - name: Gradle Plugins
       projects:
@@ -623,6 +633,8 @@ categories:
           url: https://github.com/square/otto-intellij-plugin
         - name: SelectorChapek
           url: https://github.com/inmite/android-selector-chapek
+        - name: StepBuilder generator
+          url: https://github.com/iamMehedi/stepbuilder
 
     - name: Image Croppers
       projects:
@@ -670,6 +682,8 @@ categories:
           url: https://code.google.com/p/jjil
         - name: Android GPUImage
           url: https://github.com/CyberAgent/android-gpuimage
+        - name: openalpr-android
+          url: https://github.com/SandroMachado/openalpr-android
 
     - name: Image Views
       projects:
@@ -1047,6 +1061,9 @@ categories:
 
     - name: Permissions
       projects:
+        - name: Ask
+          url: https://github.com/00ec454/Ask
+      projects:
         - name: Permiso
           url: https://github.com/greysonp/permiso
 
@@ -1107,6 +1124,8 @@ categories:
           url: https://github.com/castorflex/SmoothProgressBar
         - name: ContentLoadingProgressDialog
           url: https://github.com/tasomaniac/ContentLoadingProgressDialog
+        - name: ElasticProgressBar
+          url: https://github.com/michelelacorte/ElasticProgressBar
 
     - name: Protocol Buffer
       projects:
@@ -1200,6 +1219,8 @@ categories:
           url: https://github.com/rockerhieu/rv-adapter-states
         - name: RecyclerView Multistate Section Endless WrapperAdapter
           url: https://github.com/henrytao-me/recyclerview-multistate-section-endless-adapter
+        - name: Adapter support drag and load more items
+          url: https://github.com/david-wei/ExpandDragHelper
 
     - name: REST
       projects:
@@ -1229,6 +1250,8 @@ categories:
       projects:
         - name: AndroidPinning
           url: https://github.com/moxie0/AndroidPinning
+        - name: AndroidTampering 
+          url: https://github.com/SandroMachado/AndroidTampering
         - name: Conceal
           url: http://facebook.github.io/conceal
         - name: NetCipher (Onionkit)
@@ -1278,6 +1301,11 @@ categories:
           url: https://github.com/6wunderkinder/android-sliding-layer-lib
         - name: SlidingMenu
           url: https://github.com/jfeinstein10/SlidingMenu
+
+    - name: Snackbars
+      projects:
+        - name: SnackbarBuilder
+          url: https://github.com/andrewlord1990/SnackbarBuilder
 
     - name: SOAP
       projects:
@@ -1435,6 +1463,8 @@ categories:
           url: https://github.com/splitwise/TokenAutoComplete
         - name: EmailAutoCompleteTextView
           url: https://github.com/tasomaniac/EmailAutoCompleteTextView
+        - name: PasscodeView
+          url: https://github.com/iamMehedi/PasscodeView
 
     - name: Testing
       projects:
@@ -1485,6 +1515,8 @@ categories:
           url: https://github.com/Kennyc1012/SnackBar
         - name: TSnackbar
           url: https://github.com/AndreiD/TSnackBar
+        - name: Restaurant
+          url: https://github.com/SandroMachado/restaurant
 
     - name: Toolkits For Other PL
       projects:
@@ -1585,6 +1617,10 @@ categories:
           url: https://github.com/fyhertz/libstreaming
         - name: YouTube Android Player
           url: https://developers.google.com/youtube/android/player
+        - name: Ipcam view
+          url: https://github.com/niqdev/ipcam-view
+        - name: AndroidVimeoExtractor
+          url: https://github.com/ed-george/AndroidVimeoExtractor
 
     - name: View Pagers
       projects:
