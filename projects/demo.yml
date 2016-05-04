@@ -185,3 +185,8 @@ categories:
       projects:
         - name: Kickflip Android Example
           url: https://github.com/Kickflip/kickflip-android-example
+    
+    - name: Architecture
+      projects:
+        - name: Triangle-Architecture
+          url: https://github.com/longbkiter07/Triangle-Architecture
