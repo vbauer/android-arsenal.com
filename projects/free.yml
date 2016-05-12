@@ -137,6 +137,8 @@ categories:
           url: https://github.com/square/tape
         - name: Bolts
           url: https://github.com/BoltsFramework/Bolts-Android
+        - name: TaskQueue
+          url: https://github.com/NeoLSN/TaskQueue
 
     - name: Backward Compatibility
       projects:
