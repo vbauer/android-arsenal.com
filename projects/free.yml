@@ -1655,6 +1655,8 @@ categories:
           url: https://github.com/survivingwithandroid/WeatherLib
         - name: YWeatherGetter4a
           url: https://github.com/zh-wang/YWeatherGetter4a
+        - name: OpenWeatherMap-Android
+          url: https://github.com/seventhmoon/OpenWeatherMap-Android
 
     - name: WebSockets
       projects:
