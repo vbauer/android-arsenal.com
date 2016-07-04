@@ -460,6 +460,8 @@ categories:
           url: http://psdev.de/LicensesDialog
         - name: UpdateChecker
           url: https://github.com/rampo/UpdateChecker
+        - name: VersionInfo
+          url: https://github.com/saschpe/android-versioninfo
 
     - name: Distribution Platforms
       projects:
