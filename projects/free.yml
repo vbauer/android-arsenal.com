@@ -379,6 +379,8 @@ categories:
           url: http://sqlitedbrowser.sourceforge.net
         - name: Android DbInspector
           url: https://github.com/infinum/android_dbinspector
+        - name: RebDroid
+          url: https://github.com/Snakeice/RebDroid
 
     - name: Date Pickers
       projects:
