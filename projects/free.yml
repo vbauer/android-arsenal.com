@@ -1030,6 +1030,11 @@ categories:
         - name: CPOrm
           url: https://github.com/Wackymax/CPOrm
 
+    - name: Overlays
+      projects:
+        - name: TextOverlay
+          url: https://github.com/saschpe/android-textoverlay
+
     - name: Parallax List Views
       projects:
         - name: ParallaxListView
