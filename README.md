@@ -114,13 +114,14 @@ Thank you very much in advance!
 * [Rebound](https://github.com/facebook/rebound)
 * [TransitionsBackport](https://github.com/guerwan/TransitionsBackport)
 
-### Architecture (7)
+### Architecture (8)
 * [Android Bootstrap](http://www.androidbootstrap.com)
 * [DroidParts](http://droidparts.org)
 * [GreenDroid](http://greendroid.cyrilmottier.com)
 * [Ignition](https://github.com/kaeppler/ignition)
 * [Ketai](https://code.google.com/p/ketai)
 * [Mortar](https://github.com/square/mortar)
+* [MVVM Lifecycle](https://github.com/henrytao-me/mvvm-life-cycle)
 * [Spring for Android](http://projects.spring.io/spring-android)
 
 ### Audio (5)
@@ -130,13 +131,14 @@ Thank you very much in advance!
 * [Patchfield](https://github.com/google/patchfield)
 * [PlayerHater](https://github.com/PRX/PlayerHater)
 
-### Background Processing (6)
+### Background Processing (7)
 * [Android Async](https://bitbucket.org/hal/android-async)
 * [Android Priority Job Queue](https://github.com/path/android-priority-jobqueue)
 * [Bolts](https://github.com/BoltsFramework/Bolts-Android)
 * [Groundy](https://github.com/telly/groundy)
 * [smoothie](https://github.com/lucasr/smoothie)
 * [Tape](https://github.com/square/tape)
+* [TaskQueue](https://github.com/NeoLSN/TaskQueue)
 
 ### Backward Compatibility (7)
 * [Android CalendarView](https://github.com/SimonVT/android-calendarview)
@@ -261,8 +263,9 @@ Thank you very much in advance!
 * [CPOrm](https://github.com/Wackymax/CPOrm)
 * [DatabaseCodeGenerator](https://github.com/foxykeep/ContentProviderCodeGenerator)
 
-### Database Browsers (4)
+### Database Browsers (5)
 * [Android DbInspector](https://github.com/infinum/android_dbinspector)
+* [RebDroid](https://github.com/Snakeice/RebDroid)
 * [SQLite Browser](http://sqlitebrowser.org)
 * [SQLite DB Bowser](http://sqlitedbrowser.sourceforge.net)
 * [SQLite Manager](https://addons.mozilla.org/en-US/firefox/addon/sqlite-manager)
@@ -306,12 +309,13 @@ Thank you very much in advance!
 * [dex2jar](https://code.google.com/p/dex2jar/)
 * [smali](https://code.google.com/p/smali/)
 
-### Dialogs (5)
+### Dialogs (6)
 * [LicensesDialog](http://psdev.de/LicensesDialog)
 * [Pop](https://github.com/00ec454/pop)
 * [StandOut](https://github.com/pingpongboss/StandOut)
 * [StyledDialogs](https://github.com/inmite/android-styled-dialogs)
 * [UpdateChecker](https://github.com/rampo/UpdateChecker)
+* [VersionInfo](https://github.com/saschpe/android-versioninfo)
 
 ### Distribution Platforms (5)
 * [Amazon Appstore](http://www.amazon.com/mobile-apps/b?node=2350149011)
@@ -616,6 +620,9 @@ Thank you very much in advance!
 * [EasyMock](http://easymock.org)
 * [Mockito](https://code.google.com/p/mockito)
 * [PowerMock](https://code.google.com/p/powermock)
+
+### Overlays (1)
+* [TextOverlay](https://github.com/saschpe/android-textoverlay)
 
 ### PDF (4)
 * [Android PDF Writer](http://sourceforge.net/projects/apwlibrary)
@@ -930,8 +937,9 @@ Thank you very much in advance!
 * [HouseOfCards](https://github.com/prolificinteractive/HouseOfCards)
 * [ValidationKomensky](https://github.com/inmite/android-validation-komensky)
 
-### Video (5)
+### Video (6)
 * [AndroidFFmpeg](https://github.com/appunite/AndroidFFmpeg)
+* [AndroidVimeoExtractor](https://github.com/ed-george/AndroidVimeoExtractor)
 * [ijkplayer](https://github.com/bbcallen/ijkplayer)
 * [Ipcam view](https://github.com/niqdev/ipcam-view)
 * [libstreaming](https://github.com/fyhertz/libstreaming)
@@ -949,8 +957,9 @@ Thank you very much in advance!
 * [View Flow](https://github.com/pakerfeldt/android-viewflow)
 * [ViewPagerIndicator](http://viewpagerindicator.com)
 
-### Weather (3)
+### Weather (4)
 * [Android-wunderground-client](https://github.com/47deg/android-wunderground-client)
+* [OpenWeatherMap-Android](https://github.com/seventhmoon/OpenWeatherMap-Android)
 * [Weatherlib](https://github.com/survivingwithandroid/WeatherLib)
 * [YWeatherGetter4a](https://github.com/zh-wang/YWeatherGetter4a)
 
@@ -990,6 +999,9 @@ Thank you very much in advance!
 * [u2020](https://github.com/JakeWharton/u2020)
 * [u2020-mortar](https://github.com/lemonlabs/u2020-mortar)
 * [u2020-mvp](https://github.com/LiveTyping/u2020-mvp)
+
+### Architecture (1)
+* [Triangle-Architecture](https://github.com/longbkiter07/Triangle-Architecture)
 
 ### Audio (3)
 * [tomahawk-android](https://github.com/tomahawk-player/tomahawk-android)
