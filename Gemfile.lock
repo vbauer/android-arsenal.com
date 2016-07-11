@@ -3,9 +3,9 @@ GEM
   specs:
     builder (3.2.2)
     daemons (1.2.3)
-    eventmachine (1.0.8)
+    eventmachine (1.2.0.1)
     rack (1.5.2)
-    rack-cache (1.6.0)
+    rack-cache (1.6.1)
       rack (>= 0.4)
     rack-protection (1.5.3)
       rack
@@ -13,10 +13,10 @@ GEM
       rack (~> 1.5)
       rack-protection (~> 1.4)
       tilt (>= 1.3, < 3)
-    thin (1.6.4)
+    thin (1.7.0)
       daemons (~> 1.0, >= 1.0.9)
       eventmachine (~> 1.0, >= 1.0.4)
-      rack (~> 1.0)
+      rack (>= 1, < 3)
     tilt (2.0.2)
     xml-sitemap (1.3.3)
       builder (>= 2.0)
@@ -25,10 +25,13 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  rack-cache (~> 1.6.0)
+  rack-cache (~> 1.6.1)
   sinatra (~> 1.4.7)
-  thin (~> 1.6.4)
+  thin (~> 1.7.0)
   xml-sitemap (~> 1.3.3)
 
+RUBY VERSION
+   ruby 2.2.3p173
+
 BUNDLED WITH
-   1.11.2
+   1.12.5
