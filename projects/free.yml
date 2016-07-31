@@ -892,6 +892,9 @@ categories:
       projects:
         - name: AndroidMdCore
           url: https://github.com/henrytao-me/android-md-core
+        - name: Material Android
+          url: https://github.com/andrewlord1990/materialandroid
+
 
     - name: MIME
       projects:
