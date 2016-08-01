@@ -1659,6 +1659,11 @@ categories:
         - name: RecyclerPagerAdapter
           url: https://github.com/henrytao-me/recycler-pager-adapter
 
+    - name: Views
+      projects:
+        - name: SimpleRatingBar
+          url: https://github.com/FlyingPumba/SimpleRatingBar
+
     - name: Weather
       projects:
         - name: Android-wunderground-client
