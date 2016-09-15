@@ -1235,7 +1235,9 @@ categories:
           url: https://github.com/henrytao-me/recyclerview-multistate-section-endless-adapter
         - name: Adapter support drag and load more items
           url: https://github.com/david-wei/ExpandDragHelper
-
+        - name: Snappy Recycler Adapter
+          url: https://github.com/longbkiter07/SnappyRecyclerAdapter
+          
     - name: REST
       projects:
         - name: Appsly Android Rest
