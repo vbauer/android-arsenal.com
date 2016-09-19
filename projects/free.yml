@@ -489,6 +489,8 @@ categories:
       projects:
         - name: emojicon
           url: https://github.com/rockerhieu/emojicon
+        - name: emojiconize
+          url: https://github.com/rockerhieu/emojiconize
         - name: emojimenu
           url: https://github.com/crowdint/emojimenu
         - name: KitKatEmoji
@@ -556,6 +558,8 @@ categories:
           url: https://github.com/jvoegele/gradle-android-plugin
         - name: gradle-android-scala-plugin
           url: https://github.com/saturday06/gradle-android-scala-plugin
+        - name: Versionberg
+          url: https://github.com/rockerhieu/Versionberg
 
     - name: Graphics
       projects:
