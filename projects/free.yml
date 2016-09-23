@@ -1326,6 +1326,8 @@ categories:
       projects:
         - name: SnackbarBuilder
           url: https://github.com/andrewlord1990/SnackbarBuilder
+        - name: SnackEngage
+          url: https://github.com/ligi/SnackEngage
 
     - name: SOAP
       projects:
