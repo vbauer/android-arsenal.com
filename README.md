@@ -330,6 +330,7 @@ Thank you very much in advance!
 
 ### Emoji (3)
 * [emojicon](https://github.com/rockerhieu/emojicon)
+* [emojiconize](https://github.com/rockerhieu/emojiconize)
 * [emojimenu](https://github.com/crowdint/emojimenu)
 * [KitKatEmoji](https://github.com/crossle/KitKatEmoji)
 
@@ -368,6 +369,7 @@ Thank you very much in advance!
 * [gradle-android-plugin](https://github.com/jvoegele/gradle-android-plugin)
 * [gradle-android-scala-plugin](https://github.com/saturday06/gradle-android-scala-plugin)
 * [sdk-manager-plugin](https://github.com/JakeWharton/sdk-manager-plugin)
+* [Versionberg](https://github.com/rockerhieu/Versionberg)
 
 ### Graphics (11)
 * [AChartEngine](http://www.achartengine.org)
