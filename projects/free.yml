@@ -107,6 +107,8 @@ categories:
           url: https://github.com/square/mortar
         - name: Spring for Android
           url: http://projects.spring.io/spring-android
+        - name: MVVM Lifecycle
+          url: https://github.com/henrytao-me/mvvm-life-cycle
 
     - name: Audio
       projects:
@@ -135,6 +137,8 @@ categories:
           url: https://github.com/square/tape
         - name: Bolts
           url: https://github.com/BoltsFramework/Bolts-Android
+        - name: TaskQueue
+          url: https://github.com/NeoLSN/TaskQueue
 
     - name: Backward Compatibility
       projects:
@@ -375,6 +379,8 @@ categories:
           url: http://sqlitedbrowser.sourceforge.net
         - name: Android DbInspector
           url: https://github.com/infinum/android_dbinspector
+        - name: RebDroid
+          url: https://github.com/Snakeice/RebDroid
 
     - name: Date Pickers
       projects:
@@ -454,6 +460,8 @@ categories:
           url: http://psdev.de/LicensesDialog
         - name: UpdateChecker
           url: https://github.com/rampo/UpdateChecker
+        - name: VersionInfo
+          url: https://github.com/saschpe/android-versioninfo
 
     - name: Distribution Platforms
       projects:
@@ -481,6 +489,8 @@ categories:
       projects:
         - name: emojicon
           url: https://github.com/rockerhieu/emojicon
+        - name: emojiconize
+          url: https://github.com/rockerhieu/emojiconize
         - name: emojimenu
           url: https://github.com/crowdint/emojimenu
         - name: KitKatEmoji
@@ -548,6 +558,8 @@ categories:
           url: https://github.com/jvoegele/gradle-android-plugin
         - name: gradle-android-scala-plugin
           url: https://github.com/saturday06/gradle-android-scala-plugin
+        - name: Versionberg
+          url: https://github.com/rockerhieu/Versionberg
 
     - name: Graphics
       projects:
@@ -884,6 +896,9 @@ categories:
       projects:
         - name: AndroidMdCore
           url: https://github.com/henrytao-me/android-md-core
+        - name: Material Android
+          url: https://github.com/andrewlord1990/materialandroid
+
 
     - name: MIME
       projects:
@@ -1022,6 +1037,11 @@ categories:
         - name: CPOrm
           url: https://github.com/Wackymax/CPOrm
 
+    - name: Overlays
+      projects:
+        - name: TextOverlay
+          url: https://github.com/saschpe/android-textoverlay
+
     - name: Parallax List Views
       projects:
         - name: ParallaxListView
@@ -1058,6 +1078,9 @@ categories:
           url: https://github.com/JoanZapata/android-pdfview
 
     - name: Permissions
+      projects:
+        - name: Ask
+          url: https://github.com/00ec454/Ask
       projects:
         - name: Permiso
           url: https://github.com/greysonp/permiso
@@ -1216,7 +1239,9 @@ categories:
           url: https://github.com/henrytao-me/recyclerview-multistate-section-endless-adapter
         - name: Adapter support drag and load more items
           url: https://github.com/david-wei/ExpandDragHelper
-
+        - name: Snappy Recycler Adapter
+          url: https://github.com/longbkiter07/SnappyRecyclerAdapter
+          
     - name: REST
       projects:
         - name: Appsly Android Rest
@@ -1301,6 +1326,8 @@ categories:
       projects:
         - name: SnackbarBuilder
           url: https://github.com/andrewlord1990/SnackbarBuilder
+        - name: SnackEngage
+          url: https://github.com/ligi/SnackEngage
 
     - name: SOAP
       projects:
@@ -1640,6 +1667,11 @@ categories:
         - name: RecyclerPagerAdapter
           url: https://github.com/henrytao-me/recycler-pager-adapter
 
+    - name: Views
+      projects:
+        - name: SimpleRatingBar
+          url: https://github.com/FlyingPumba/SimpleRatingBar
+
     - name: Weather
       projects:
         - name: Android-wunderground-client
@@ -1648,6 +1680,8 @@ categories:
           url: https://github.com/survivingwithandroid/WeatherLib
         - name: YWeatherGetter4a
           url: https://github.com/zh-wang/YWeatherGetter4a
+        - name: OpenWeatherMap-Android
+          url: https://github.com/seventhmoon/OpenWeatherMap-Android
 
     - name: WebSockets
       projects:
