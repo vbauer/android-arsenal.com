@@ -410,6 +410,8 @@ categories:
           url: https://github.com/p-v/FlexibleCalendar
         - name: AgendaCalendarView
           url: https://github.com/Tibolte/AgendaCalendarView
+        - name: DateTimeSeer
+          url: https://github.com/p-v/DateTimeSeer
 
     - name: Dependency Injections
       projects:
