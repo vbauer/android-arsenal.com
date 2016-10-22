@@ -580,7 +580,7 @@ categories:
         - name: desCharts
           url: https://github.com/bradipao/desCharts
         - name: GraphView
-          url: http://android-graphview.org
+          url: https://github.com/jjoe64/GraphView
         - name: HzGrapher
           url: https://github.com/handstudio/HzGrapher
         - name: EazeGraph
