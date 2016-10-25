@@ -1577,6 +1577,8 @@ categories:
           url: https://github.com/JakeWharton/madge
         - name: Android Keystore Recovery
           url: https://github.com/rsertelon/android-keystore-recovery
+        - name: DontCommit
+          url: https://github.com/SteveBarnegren/DontCommit
 
     - name: USB
       projects:
