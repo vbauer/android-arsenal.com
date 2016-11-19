@@ -185,6 +185,11 @@ categories:
       projects:
         - name: Kickflip Android Example
           url: https://github.com/Kickflip/kickflip-android-example
+
+    - name: Wear
+      projects:
+        - name: Planning Poker
+          url: https://github.com/saschpe/PlanningPoker
     
     - name: Architecture
       projects:
