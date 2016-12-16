@@ -270,7 +270,7 @@ Thank you very much in advance!
 * [SQLite DB Bowser](http://sqlitedbrowser.sourceforge.net)
 * [SQLite Manager](https://addons.mozilla.org/en-US/firefox/addon/sqlite-manager)
 
-### Date Pickers (13)
+### Date Pickers (14)
 * [AgendaCalendarView](https://github.com/Tibolte/AgendaCalendarView)
 * [android-betterpickers](https://github.com/derekbrameyer/android-betterpickers)
 * [android-datepicker](https://github.com/SimonVT/android-datepicker)
@@ -278,6 +278,7 @@ Thank you very much in advance!
 * [Caldroid](https://github.com/roomorama/Caldroid)
 * [DateTimePicker](https://github.com/flavienlaurent/datetimepicker)
 * [DateTimePicker Android 4.0+](https://github.com/CiTuX/datetimepicker)
+* [DateTimeSeer](https://github.com/p-v/DateTimeSeer)
 * [ExtendedCalendarView](https://github.com/tyczj/ExtendedCalendarView)
 * [FlexibleCalendar](https://github.com/p-v/FlexibleCalendar)
 * [Material CalendarView](https://github.com/prolificinteractive/material-calendarview)
@@ -328,7 +329,7 @@ Thank you very much in advance!
 * [Epublib](http://www.siegmann.nl/epublib)
 * [SkyEpub](http://skyepub.net)
 
-### Emoji (3)
+### Emoji (4)
 * [emojicon](https://github.com/rockerhieu/emojicon)
 * [emojiconize](https://github.com/rockerhieu/emojiconize)
 * [emojimenu](https://github.com/crowdint/emojimenu)
@@ -365,7 +366,7 @@ Thank you very much in advance!
 * [PeekAndPop](https://github.com/shalskar/PeekAndPop)
 * [SimpleFingerGestures](https://github.com/championswimmer/SimpleFingerGestures_Android_Library)
 
-### Gradle Plugins (3)
+### Gradle Plugins (4)
 * [gradle-android-plugin](https://github.com/jvoegele/gradle-android-plugin)
 * [gradle-android-scala-plugin](https://github.com/saturday06/gradle-android-scala-plugin)
 * [sdk-manager-plugin](https://github.com/JakeWharton/sdk-manager-plugin)
@@ -379,7 +380,7 @@ Thank you very much in advance!
 * [Androidplot](http://androidplot.com)
 * [desCharts](https://github.com/bradipao/desCharts)
 * [EazeGraph](https://github.com/blackfizz/EazeGraph)
-* [GraphView](http://android-graphview.org)
+* [GraphView](https://github.com/jjoe64/GraphView)
 * [HoloGraphLibrary](https://bitbucket.org/danielnadeau/holographlibrary/wiki/Home)
 * [HzGrapher](https://github.com/handstudio/HzGrapher)
 * [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
@@ -551,8 +552,9 @@ Thank you very much in advance!
 * [cwac-anddown](https://github.com/commonsguy/cwac-anddown)
 * [MarkdownView](https://github.com/Gunio/MarkdownView)
 
-### Material Design (1)
+### Material Design (2)
 * [AndroidMdCore](https://github.com/henrytao-me/android-md-core)
+* [Material Android](https://github.com/andrewlord1990/materialandroid)
 
 ### Mobile Web Frameworks (8)
 * [ChocolateChip-UI](http://chocolatechip-ui.com)
@@ -738,11 +740,12 @@ Thank you very much in advance!
 * [Rating Reminder](https://code.google.com/p/rating-reminder)
 * [surveylib](https://github.com/AndreiD/surveylib)
 
-### RecyclerView Adapters (5)
+### RecyclerView Adapters (6)
 * [Adapter support drag and load more items](https://github.com/david-wei/ExpandDragHelper)
 * [Adapter Wrapper](https://github.com/rockerhieu/rv-adapter)
 * [Endless Adapter](https://github.com/rockerhieu/rv-adapter-endless)
 * [RecyclerView Multistate Section Endless WrapperAdapter](https://github.com/henrytao-me/recyclerview-multistate-section-endless-adapter)
+* [Snappy Recycler Adapter](https://github.com/longbkiter07/SnappyRecyclerAdapter)
 * [States Adapter](https://github.com/rockerhieu/rv-adapter-states)
 
 ### SOAP (4)
@@ -791,8 +794,9 @@ Thank you very much in advance!
 * [SlidingLayer](https://github.com/6wunderkinder/android-sliding-layer-lib)
 * [SlidingMenu](https://github.com/jfeinstein10/SlidingMenu)
 
-### Snackbars (1)
+### Snackbars (2)
 * [SnackbarBuilder](https://github.com/andrewlord1990/SnackbarBuilder)
+* [SnackEngage](https://github.com/ligi/SnackEngage)
 
 ### Social Networks (7)
 * [AndroidSocialNetworks](https://github.com/antonkrasov/AndroidSocialNetworks)
@@ -900,10 +904,11 @@ Thank you very much in advance!
 * [Scaloid](https://github.com/pocorall/scaloid)
 * [Xtendroid](https://github.com/tobykurien/xtendroid)
 
-### Tools (9)
+### Tools (10)
 * [Android Keystore Recovery](https://github.com/rsertelon/android-keystore-recovery)
 * [Android Studio Templates](https://github.com/gabrielemariotti/AndroidStudioTemplate)
 * [AndroidAssetStudio](https://romannurik.github.io/AndroidAssetStudio)
+* [DontCommit](https://github.com/SteveBarnegren/DontCommit)
 * [GridWichterle](https://github.com/inmite/android-grid-wichterle)
 * [Madge](https://github.com/JakeWharton/madge)
 * [ProGuard](http://proguard.sourceforge.net)
@@ -958,6 +963,9 @@ Thank you very much in advance!
 * [VerticalViewPager](https://github.com/castorflex/VerticalViewPager)
 * [View Flow](https://github.com/pakerfeldt/android-viewflow)
 * [ViewPagerIndicator](http://viewpagerindicator.com)
+
+### Views (1)
+* [SimpleRatingBar](https://github.com/FlyingPumba/SimpleRatingBar)
 
 ### Weather (4)
 * [Android-wunderground-client](https://github.com/47deg/android-wunderground-client)
