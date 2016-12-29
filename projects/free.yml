@@ -1270,6 +1270,8 @@ categories:
 
     - name: Security
       projects:
+        - name: Devknox
+          url: https://devknox.io
         - name: AndroidPinning
           url: https://github.com/moxie0/AndroidPinning
         - name: AndroidTampering 
