@@ -113,6 +113,7 @@ Thank you very much in advance!
 * [Motion](https://github.com/nvanbenschoten/motion)
 * [Rebound](https://github.com/facebook/rebound)
 * [TransitionsBackport](https://github.com/guerwan/TransitionsBackport)
+* [Swipper](https://github.com/pkarira/swipper)
 
 ### Architecture (8)
 * [Android Bootstrap](http://www.androidbootstrap.com)
