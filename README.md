@@ -1103,6 +1103,9 @@ Thank you very much in advance!
 ### Video (1)
 * [Kickflip Android Example](https://github.com/Kickflip/kickflip-android-example)
 
+## Wear (1)
+* [Planning Poker](https://github.com/saschpe/PlanningPoker)
+
 
 ## Paid libraries and tools
 ### 3D Engines (2)
