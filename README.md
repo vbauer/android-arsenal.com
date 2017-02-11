@@ -997,6 +997,7 @@ Thank you very much in advance!
 ## Demo projects
 ### Accounts (1)
 * [Account Authenticator](https://github.com/Udinic/AccountAuthenticator)
+* [Birthday Calendar](https://github.com/saschpe/BirthdayCalendar)
 
 ### Animations (6)
 * [Activity Animation](https://github.com/flavienlaurent/activityanimation)

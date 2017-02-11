@@ -5,6 +5,8 @@ categories:
       projects:
         - name: Account Authenticator
           url: https://github.com/Udinic/AccountAuthenticator
+        - name: Birthday Calendar
+          url: https://github.com/saschpe/BirthdayCalendar
 
     - name: Animations
       projects:
