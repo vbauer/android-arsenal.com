@@ -113,7 +113,6 @@ Thank you very much in advance!
 * [Motion](https://github.com/nvanbenschoten/motion)
 * [Rebound](https://github.com/facebook/rebound)
 * [TransitionsBackport](https://github.com/guerwan/TransitionsBackport)
-* [Swipper](https://github.com/pkarira/swipper)
 
 ### Architecture (8)
 * [Android Bootstrap](http://www.androidbootstrap.com)
@@ -770,10 +769,11 @@ Thank you very much in advance!
 * [FASL](https://mad.cs.fau.de/fasl)
 * [jnlua-android](https://code.google.com/p/jnlua-android)
 
-### Security (9)
+### Security (10)
 * [AndroidPinning](https://github.com/moxie0/AndroidPinning)
 * [AndroidTampering](https://github.com/SandroMachado/AndroidTampering)
 * [Conceal](http://facebook.github.io/conceal)
+* [Devknox](https://devknox.io)
 * [NetCipher (Onionkit)](https://github.com/guardianproject/NetCipher)
 * [OpenPGP API library](https://github.com/open-keychain/openpgp-api-lib)
 * [Secure-Preferences](https://github.com/scottyab/secure-preferences)
@@ -995,7 +995,7 @@ Thank you very much in advance!
 
 
 ## Demo projects
-### Accounts (1)
+### Accounts (2)
 * [Account Authenticator](https://github.com/Udinic/AccountAuthenticator)
 * [Birthday Calendar](https://github.com/saschpe/BirthdayCalendar)
 
@@ -1104,7 +1104,7 @@ Thank you very much in advance!
 ### Video (1)
 * [Kickflip Android Example](https://github.com/Kickflip/kickflip-android-example)
 
-## Wear (1)
+### Wear (1)
 * [Planning Poker](https://github.com/saschpe/PlanningPoker)
 
 
