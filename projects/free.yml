@@ -368,6 +368,8 @@ categories:
           url: https://github.com/couchbase/couchbase-lite-android
         - name: CPOrm
           url: https://github.com/Wackymax/CPOrm
+        - name: Skygear
+          url: https://github.com/skygeario/skygear-SDK-Android
 
     - name: Database Browsers
       projects:
@@ -972,6 +974,8 @@ categories:
           url: https://github.com/stephanenicolas/robospice
         - name: Volley
           url: https://android.googlesource.com/platform/frameworks/volley
+        - name: VolleyEx  
+          url: https://github.com/seventhmoon/VolleyEx
         - name: Wifi Connecter
           url: https://code.google.com/p/android-wifi-connecter
 
