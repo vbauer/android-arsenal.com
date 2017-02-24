@@ -122,6 +122,9 @@ categories:
           url: https://github.com/PRX/PlayerHater
         - name: Android Visualizer
           url: https://github.com/felixpalmer/android-visualizer
+        - name: Spotify Streamer
+          url: https://github.com/seventhmoon/SpotifyStreamer
+        
 
     - name: Background Processing
       projects:
