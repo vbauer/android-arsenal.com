@@ -122,6 +122,8 @@ categories:
           url: https://github.com/PRX/PlayerHater
         - name: Android Visualizer
           url: https://github.com/felixpalmer/android-visualizer
+        - name: Android Playlist File Parser
+          url: https://github.com/saschpe/android-pls-parser
 
     - name: Background Processing
       projects:
