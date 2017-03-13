@@ -1202,6 +1202,8 @@ categories:
       projects:
         - name: android-segmented-control
           url: https://github.com/hoang8f/android-segmented-control
+        - name: iOS-SwitchView
+          url: https://github.com/luongvo/iOS-SwitchView
 
     - name: Range Bars
       projects:
