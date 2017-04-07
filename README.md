@@ -130,6 +130,7 @@ Thank you very much in advance!
 * [Audio Wife](https://github.com/jaydeepw/audio-wife)
 * [Patchfield](https://github.com/google/patchfield)
 * [PlayerHater](https://github.com/PRX/PlayerHater)
+* [Android Playlist File Parser](https://github.com/saschpe/android-pls-parser)
 
 ### Background Processing (7)
 * [Android Async](https://bitbucket.org/hal/android-async)
