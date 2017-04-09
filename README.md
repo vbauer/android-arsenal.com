@@ -1,7 +1,6 @@
 
 ## Important information
 
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/vbauer/android-arsenal.com?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Dependency Status](https://gemnasium.com/vbauer/android-arsenal.com.svg)](https://gemnasium.com/vbauer/android-arsenal.com)
 [![Heroku](https://heroku-badge.herokuapp.com/?app=android-arsenal&style=flat&svg=1)](http://android-arsenal.herokuapp.com)
 
@@ -124,8 +123,9 @@ Thank you very much in advance!
 * [MVVM Lifecycle](https://github.com/henrytao-me/mvvm-life-cycle)
 * [Spring for Android](http://projects.spring.io/spring-android)
 
-### Audio (5)
+### Audio (6)
 * [aacdecoder-android](https://code.google.com/p/aacdecoder-android)
+* [Android Playlist File Parser](https://github.com/saschpe/android-pls-parser)
 * [Android Visualizer](https://github.com/felixpalmer/android-visualizer)
 * [Audio Wife](https://github.com/jaydeepw/audio-wife)
 * [Patchfield](https://github.com/google/patchfield)

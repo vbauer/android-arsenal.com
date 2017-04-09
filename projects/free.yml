@@ -124,7 +124,8 @@ categories:
           url: https://github.com/felixpalmer/android-visualizer
         - name: Spotify Streamer
           url: https://github.com/seventhmoon/SpotifyStreamer
-        
+        - name: Android Playlist File Parser
+          url: https://github.com/saschpe/android-pls-parser
 
     - name: Background Processing
       projects:
@@ -1209,6 +1210,8 @@ categories:
       projects:
         - name: android-segmented-control
           url: https://github.com/hoang8f/android-segmented-control
+        - name: iOS-SwitchView
+          url: https://github.com/luongvo/iOS-SwitchView
 
     - name: Range Bars
       projects:
