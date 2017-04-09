@@ -122,6 +122,8 @@ categories:
           url: https://github.com/PRX/PlayerHater
         - name: Android Visualizer
           url: https://github.com/felixpalmer/android-visualizer
+        - name: Spotify Streamer
+          url: https://github.com/seventhmoon/SpotifyStreamer
         - name: Android Playlist File Parser
           url: https://github.com/saschpe/android-pls-parser
 
@@ -370,6 +372,8 @@ categories:
           url: https://github.com/couchbase/couchbase-lite-android
         - name: CPOrm
           url: https://github.com/Wackymax/CPOrm
+        - name: Skygear
+          url: https://github.com/skygeario/skygear-SDK-Android
 
     - name: Database Browsers
       projects:
@@ -974,6 +978,8 @@ categories:
           url: https://github.com/stephanenicolas/robospice
         - name: Volley
           url: https://android.googlesource.com/platform/frameworks/volley
+        - name: VolleyEx  
+          url: https://github.com/seventhmoon/VolleyEx
         - name: Wifi Connecter
           url: https://code.google.com/p/android-wifi-connecter
 
