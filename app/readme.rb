@@ -11,7 +11,9 @@ def render_link(title, url)
 end
 
 def render_toc(f)
+    f.puts
     f.puts '## Table of content'
+    f.puts
 
     [:free, :demo, :paid].each { |type|
         category = type_name(type).capitalize

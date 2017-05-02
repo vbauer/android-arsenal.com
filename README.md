@@ -62,7 +62,9 @@ If you'd like to support Android Arsenal development, you could make some donati
 
 Thank you very much in advance!
 <hr/>
+
 ## Table of content
+
 * [Free libraries and tools](#free-libraries-and-tools)
 * [Demo projects](#demo-projects)
 * [Paid libraries and tools](#paid-libraries-and-tools)
