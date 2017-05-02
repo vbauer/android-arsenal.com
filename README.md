@@ -123,13 +123,14 @@ Thank you very much in advance!
 * [MVVM Lifecycle](https://github.com/henrytao-me/mvvm-life-cycle)
 * [Spring for Android](http://projects.spring.io/spring-android)
 
-### Audio (6)
+### Audio (7)
 * [aacdecoder-android](https://code.google.com/p/aacdecoder-android)
 * [Android Playlist File Parser](https://github.com/saschpe/android-pls-parser)
 * [Android Visualizer](https://github.com/felixpalmer/android-visualizer)
 * [Audio Wife](https://github.com/jaydeepw/audio-wife)
 * [Patchfield](https://github.com/google/patchfield)
 * [PlayerHater](https://github.com/PRX/PlayerHater)
+* [Spotify Streamer](https://github.com/seventhmoon/SpotifyStreamer)
 
 ### Background Processing (7)
 * [Android Async](https://bitbucket.org/hal/android-async)
@@ -256,12 +257,13 @@ Thank you very much in advance!
 * [FoldableLayout](https://github.com/alexvasilkov/FoldableLayout)
 * [TransitionViewPager](https://code.google.com/p/transitionviewpager)
 
-### Database (5)
+### Database (6)
 * [Android ContentProvider Generator](https://github.com/BoD/android-contentprovider-generator)
 * [Android SQLiteAssetHelper](https://github.com/jgilfelt/android-sqlite-asset-helper)
 * [couchbase-lite-android](https://github.com/couchbase/couchbase-lite-android)
 * [CPOrm](https://github.com/Wackymax/CPOrm)
 * [DatabaseCodeGenerator](https://github.com/foxykeep/ContentProviderCodeGenerator)
+* [Skygear](https://github.com/skygeario/skygear-SDK-Android)
 
 ### Database Browsers (5)
 * [Android DbInspector](https://github.com/infinum/android_dbinspector)
@@ -577,7 +579,7 @@ Thank you very much in advance!
 ### Navigation History (1)
 * [Flow](https://github.com/square/flow)
 
-### Networking (12)
+### Networking (13)
 * [AllJoyn Android](https://www.alljoyn.org/docs-and-downloads/android)
 * [Apache Commons Net](http://commons.apache.org/proper/commons-net)
 * [APL](https://github.com/shouldit/android-proxy)
@@ -589,6 +591,7 @@ Thank you very much in advance!
 * [reyna](https://github.com/B2MSolutions/reyna)
 * [RoboSpice](https://github.com/stephanenicolas/robospice)
 * [Volley](https://android.googlesource.com/platform/frameworks/volley)
+* [VolleyEx](https://github.com/seventhmoon/VolleyEx)
 * [Wifi Connecter](https://code.google.com/p/android-wifi-connecter)
 
 ### OAuth (5)
@@ -723,8 +726,9 @@ Thank you very much in advance!
 * [Simple-Rss2-Android](https://github.com/salendron/Simple-Rss2-Android)
 * [Simplistic RSS](https://github.com/ShirwaM/Simplistic-RSS)
 
-### Radio Buttons (1)
+### Radio Buttons (2)
 * [android-segmented-control](https://github.com/hoang8f/android-segmented-control)
+* [iOS-SwitchView](https://github.com/luongvo/iOS-SwitchView)
 
 ### Range Bars (5)
 * [range-bar](https://github.com/edmodo/range-bar)
