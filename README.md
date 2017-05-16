@@ -197,6 +197,9 @@ Thank you very much in advance!
 * [TH-ProgressButton](https://github.com/torryharris/TH-ProgressButton)
 * [View Badger](https://github.com/jgilfelt/android-viewbadger)
 
+### Chrome Custom Tabs
+* [CustomTabs](https://github.com/saschpe/android-customtabs)
+
 ### CSV (3)
 * [CSVReader](https://code.google.com/p/secrets-for-android/source/browse/trunk/src/au/com/bytecode/opencsv/CSVReader.java)
 * [opencsv](https://code.google.com/p/opencsv/)
