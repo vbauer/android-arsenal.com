@@ -338,6 +338,11 @@ categories:
         - name: AboutIt
           url: https://github.com/victorhaggqvist/AboutIt
 
+    - name: Chrome Custom Tabs
+      projects:
+        - name: CustomTabs
+          url: https://github.com/saschpe/android-customtabs
+
     - name: CSV
       projects:
         - name: opencsv
