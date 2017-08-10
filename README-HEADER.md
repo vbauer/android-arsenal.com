@@ -1,7 +1,6 @@
 
 ## Important information
 
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/vbauer/android-arsenal.com?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Dependency Status](https://gemnasium.com/vbauer/android-arsenal.com.svg)](https://gemnasium.com/vbauer/android-arsenal.com)
 [![Heroku](https://heroku-badge.herokuapp.com/?app=android-arsenal&style=flat&svg=1)](http://android-arsenal.herokuapp.com)
 
@@ -35,8 +34,8 @@ If you want to make this world a little bit better you can:
 To install needed dependencies, run this commands in the project directory:
 ```sh
 gem install bundler
-rvm install ruby-2.2.3
-rvm use 2.2.3
+rvm install ruby-2.3.3
+rvm use 2.3.3
 bundle install
 ```
 
@@ -56,6 +55,9 @@ Thanks to all contributors that send to me information about libraries, tools, p
 
 ## Donations
 
-If you'd like to support Android Arsenal development, you could make some donations here: [![Gratipay](http://img.shields.io/gratipay/vbauer.svg)](https://gratipay.com/vbauer)
+If you'd like to support Android Arsenal development, you could make some donations here:
+
+* [![PayPal](https://img.shields.io/badge/PayPal-VladislavBauer-blue.svg?style=flat)](https://www.paypal.me/VladislavBauer)
+* [![Gratipay](http://img.shields.io/gratipay/vbauer.svg)](https://gratipay.com/vbauer)
 
 Thank you very much in advance!

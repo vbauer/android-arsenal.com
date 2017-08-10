@@ -5,6 +5,8 @@ categories:
       projects:
         - name: Account Authenticator
           url: https://github.com/Udinic/AccountAuthenticator
+        - name: Birthday Calendar
+          url: https://github.com/saschpe/BirthdayCalendar
 
     - name: Animations
       projects:
@@ -185,3 +187,13 @@ categories:
       projects:
         - name: Kickflip Android Example
           url: https://github.com/Kickflip/kickflip-android-example
+
+    - name: Wear
+      projects:
+        - name: Planning Poker
+          url: https://github.com/saschpe/PlanningPoker
+    
+    - name: Architecture
+      projects:
+        - name: Triangle-Architecture
+          url: https://github.com/longbkiter07/Triangle-Architecture

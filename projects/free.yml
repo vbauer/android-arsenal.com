@@ -107,6 +107,8 @@ categories:
           url: https://github.com/square/mortar
         - name: Spring for Android
           url: http://projects.spring.io/spring-android
+        - name: MVVM Lifecycle
+          url: https://github.com/henrytao-me/mvvm-life-cycle
 
     - name: Audio
       projects:
@@ -120,6 +122,10 @@ categories:
           url: https://github.com/PRX/PlayerHater
         - name: Android Visualizer
           url: https://github.com/felixpalmer/android-visualizer
+        - name: Spotify Streamer
+          url: https://github.com/seventhmoon/SpotifyStreamer
+        - name: Android Playlist File Parser
+          url: https://github.com/saschpe/android-pls-parser
 
     - name: Background Processing
       projects:
@@ -135,6 +141,8 @@ categories:
           url: https://github.com/square/tape
         - name: Bolts
           url: https://github.com/BoltsFramework/Bolts-Android
+        - name: TaskQueue
+          url: https://github.com/NeoLSN/TaskQueue
 
     - name: Backward Compatibility
       projects:
@@ -330,6 +338,11 @@ categories:
         - name: AboutIt
           url: https://github.com/victorhaggqvist/AboutIt
 
+    - name: Chrome Custom Tabs
+      projects:
+        - name: CustomTabs
+          url: https://github.com/saschpe/android-customtabs
+
     - name: CSV
       projects:
         - name: opencsv
@@ -364,6 +377,8 @@ categories:
           url: https://github.com/couchbase/couchbase-lite-android
         - name: CPOrm
           url: https://github.com/Wackymax/CPOrm
+        - name: Skygear
+          url: https://github.com/skygeario/skygear-SDK-Android
 
     - name: Database Browsers
       projects:
@@ -375,6 +390,8 @@ categories:
           url: http://sqlitedbrowser.sourceforge.net
         - name: Android DbInspector
           url: https://github.com/infinum/android_dbinspector
+        - name: RebDroid
+          url: https://github.com/Snakeice/RebDroid
 
     - name: Date Pickers
       projects:
@@ -404,6 +421,8 @@ categories:
           url: https://github.com/p-v/FlexibleCalendar
         - name: AgendaCalendarView
           url: https://github.com/Tibolte/AgendaCalendarView
+        - name: DateTimeSeer
+          url: https://github.com/p-v/DateTimeSeer
 
     - name: Dependency Injections
       projects:
@@ -444,6 +463,8 @@ categories:
 
     - name: Dialogs
       projects:
+        - name: Pop
+          url: https://github.com/00ec454/pop
         - name: StandOut
           url: https://github.com/pingpongboss/StandOut
         - name: StyledDialogs
@@ -452,6 +473,8 @@ categories:
           url: http://psdev.de/LicensesDialog
         - name: UpdateChecker
           url: https://github.com/rampo/UpdateChecker
+        - name: VersionInfo
+          url: https://github.com/saschpe/android-versioninfo
 
     - name: Distribution Platforms
       projects:
@@ -479,6 +502,8 @@ categories:
       projects:
         - name: emojicon
           url: https://github.com/rockerhieu/emojicon
+        - name: emojiconize
+          url: https://github.com/rockerhieu/emojiconize
         - name: emojimenu
           url: https://github.com/crowdint/emojimenu
         - name: KitKatEmoji
@@ -546,6 +571,8 @@ categories:
           url: https://github.com/jvoegele/gradle-android-plugin
         - name: gradle-android-scala-plugin
           url: https://github.com/saturday06/gradle-android-scala-plugin
+        - name: Versionberg
+          url: https://github.com/rockerhieu/Versionberg
 
     - name: Graphics
       projects:
@@ -564,7 +591,7 @@ categories:
         - name: desCharts
           url: https://github.com/bradipao/desCharts
         - name: GraphView
-          url: http://android-graphview.org
+          url: https://github.com/jjoe64/GraphView
         - name: HzGrapher
           url: https://github.com/handstudio/HzGrapher
         - name: EazeGraph
@@ -882,6 +909,9 @@ categories:
       projects:
         - name: AndroidMdCore
           url: https://github.com/henrytao-me/android-md-core
+        - name: Material Android
+          url: https://github.com/andrewlord1990/materialandroid
+
 
     - name: MIME
       projects:
@@ -953,6 +983,8 @@ categories:
           url: https://github.com/stephanenicolas/robospice
         - name: Volley
           url: https://android.googlesource.com/platform/frameworks/volley
+        - name: VolleyEx  
+          url: https://github.com/seventhmoon/VolleyEx
         - name: Wifi Connecter
           url: https://code.google.com/p/android-wifi-connecter
 
@@ -1020,6 +1052,11 @@ categories:
         - name: CPOrm
           url: https://github.com/Wackymax/CPOrm
 
+    - name: Overlays
+      projects:
+        - name: TextOverlay
+          url: https://github.com/saschpe/android-textoverlay
+
     - name: Parallax List Views
       projects:
         - name: ParallaxListView
@@ -1056,6 +1093,9 @@ categories:
           url: https://github.com/JoanZapata/android-pdfview
 
     - name: Permissions
+      projects:
+        - name: Ask
+          url: https://github.com/00ec454/Ask
       projects:
         - name: Permiso
           url: https://github.com/greysonp/permiso
@@ -1175,6 +1215,8 @@ categories:
       projects:
         - name: android-segmented-control
           url: https://github.com/hoang8f/android-segmented-control
+        - name: iOS-SwitchView
+          url: https://github.com/luongvo/iOS-SwitchView
 
     - name: Range Bars
       projects:
@@ -1214,7 +1256,9 @@ categories:
           url: https://github.com/henrytao-me/recyclerview-multistate-section-endless-adapter
         - name: Adapter support drag and load more items
           url: https://github.com/david-wei/ExpandDragHelper
-
+        - name: Snappy Recycler Adapter
+          url: https://github.com/longbkiter07/SnappyRecyclerAdapter
+          
     - name: REST
       projects:
         - name: Appsly Android Rest
@@ -1241,6 +1285,8 @@ categories:
 
     - name: Security
       projects:
+        - name: Devknox
+          url: https://devknox.io
         - name: AndroidPinning
           url: https://github.com/moxie0/AndroidPinning
         - name: AndroidTampering 
@@ -1299,6 +1345,8 @@ categories:
       projects:
         - name: SnackbarBuilder
           url: https://github.com/andrewlord1990/SnackbarBuilder
+        - name: SnackEngage
+          url: https://github.com/ligi/SnackEngage
 
     - name: SOAP
       projects:
@@ -1546,6 +1594,8 @@ categories:
           url: https://github.com/JakeWharton/madge
         - name: Android Keystore Recovery
           url: https://github.com/rsertelon/android-keystore-recovery
+        - name: DontCommit
+          url: https://github.com/SteveBarnegren/DontCommit
 
     - name: USB
       projects:
@@ -1612,6 +1662,8 @@ categories:
           url: https://developers.google.com/youtube/android/player
         - name: Ipcam view
           url: https://github.com/niqdev/ipcam-view
+        - name: AndroidVimeoExtractor
+          url: https://github.com/ed-george/AndroidVimeoExtractor
 
     - name: View Pagers
       projects:
@@ -1636,6 +1688,11 @@ categories:
         - name: RecyclerPagerAdapter
           url: https://github.com/henrytao-me/recycler-pager-adapter
 
+    - name: Views
+      projects:
+        - name: SimpleRatingBar
+          url: https://github.com/FlyingPumba/SimpleRatingBar
+
     - name: Weather
       projects:
         - name: Android-wunderground-client
@@ -1644,6 +1701,8 @@ categories:
           url: https://github.com/survivingwithandroid/WeatherLib
         - name: YWeatherGetter4a
           url: https://github.com/zh-wang/YWeatherGetter4a
+        - name: OpenWeatherMap-Android
+          url: https://github.com/seventhmoon/OpenWeatherMap-Android
 
     - name: WebSockets
       projects:

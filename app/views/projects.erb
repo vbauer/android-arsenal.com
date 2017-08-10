@@ -6,7 +6,7 @@
         <div class="col-md-4">
             <h2><%= category %></h2>
             <ul><% projects.each do |project| %>
-                <li><a href="<%= project['url'] %>"><%= project[ 'name'] %></a></li><% end %>
+                <li><a href="<%= project['url'] %>" target="_blank"><%= project[ 'name'] %></a></li><% end %>
             </ul>
         </div>
 <% end %>
