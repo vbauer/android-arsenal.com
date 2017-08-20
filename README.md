@@ -197,9 +197,6 @@ Thank you very much in advance!
 * [TH-ProgressButton](https://github.com/torryharris/TH-ProgressButton)
 * [View Badger](https://github.com/jgilfelt/android-viewbadger)
 
-### Chrome Custom Tabs
-* [CustomTabs](https://github.com/saschpe/android-customtabs)
-
 ### CSV (3)
 * [CSVReader](https://code.google.com/p/secrets-for-android/source/browse/trunk/src/au/com/bytecode/opencsv/CSVReader.java)
 * [opencsv](https://code.google.com/p/opencsv/)
@@ -224,6 +221,9 @@ Thank you very much in advance!
 * [ckChangeLog](https://github.com/cketti/ckChangeLog)
 * [Inscription](https://github.com/MartinvanZ/Inscription)
 * [Saguaro](https://github.com/willowtreeapps/saguaro)
+
+### Chrome Custom Tabs (1)
+* [CustomTabs](https://github.com/saschpe/android-customtabs)
 
 ### Cloud Storages (3)
 * [Driven](https://github.com/bingzer/driven)
@@ -354,9 +354,6 @@ Thank you very much in advance!
 * [reactive-android](https://github.com/Yarikx/reactive-android)
 * [RxJava](https://github.com/Netflix/RxJava)
 
-### Functional Programming (1)
-* [Flow](https://github.com/00ec454/Flow)
-
 ### File/Directory Choosers (5)
 * [aFileChooser](https://github.com/iPaulPro/aFileChooser)
 * [afiledialog](https://code.google.com/p/afiledialog)
@@ -372,6 +369,9 @@ Thank you very much in advance!
 * [Fontify](https://github.com/danh32/Fontify)
 * [Google Fonts](https://www.google.com/fonts)
 * [PixlUI](https://github.com/neopixl/PixlUI)
+
+### Functional Programming (1)
+* [Flow](https://github.com/00ec454/Flow)
 
 ### Gestures (4)
 * [Airy](https://github.com/mirasmithy/airy)
