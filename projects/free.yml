@@ -552,6 +552,11 @@ categories:
         - name: RxJava
           url: https://github.com/Netflix/RxJava
 
+    - name: Functional Programming
+      projects:
+        - name: Flow
+          url: https://github.com/00ec454/Flow
+          
     - name: Gestures
       projects:
         - name: Airy
