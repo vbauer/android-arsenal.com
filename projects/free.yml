@@ -1366,6 +1366,8 @@ categories:
 
     - name: Social Networks
       projects:
+        - name: AndroidSocialFragment
+          url: https://github.com/saschpe/android-social-fragment
         - name: AndroidSocialNetworks
           url: https://github.com/antonkrasov/AndroidSocialNetworks
         - name: Bitlyj

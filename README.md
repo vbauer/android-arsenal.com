@@ -815,6 +815,7 @@ Thank you very much in advance!
 * [SnackEngage](https://github.com/ligi/SnackEngage)
 
 ### Social Networks (7)
+* [AndroidSocialFragment](https://github.com/saschpe/android-social-fragment)
 * [AndroidSocialNetworks](https://github.com/antonkrasov/AndroidSocialNetworks)
 * [Bitlyj](https://code.google.com/p/bitlyj)
 * [Facebook SDK](https://developers.facebook.com/docs/android)
