@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '2.3.3'
+ruby '2.4.3'
 
 gem 'sinatra', '~>2.0.0'
 gem 'rack-cache', '~>1.7.1'
