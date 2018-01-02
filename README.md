@@ -11,7 +11,7 @@
 This repository contains source codes for old version of site. It is still available here: http://android-arsenal.herokuapp.com
 In spite of this, you can send pull requests or open issues here - they will be processed and the new site will be updated.
 
-To send libraries / tools / projects / suggestions on new version of site, use feedback form: https://android-arsenal.com/feedback
+To send libraries / tools / projects / suggestions on new version of site, use feedback form: https://android-arsenal.com/contact
 
 
 ## Contributing
