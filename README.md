@@ -58,7 +58,7 @@ Thanks to all contributors that send to me information about libraries, tools, p
 If you'd like to support Android Arsenal development, you could make some donations here:
 
 * [![PayPal](https://img.shields.io/badge/PayPal-VladislavBauer-blue.svg?style=flat)](https://www.paypal.me/VladislavBauer)
-* [![Gratipay](http://img.shields.io/gratipay/vbauer.svg)](https://gratipay.com/vbauer)
+* [![Open Collective](https://img.shields.io/badge/OpenCollective-Android--Arsenal-blue.svg)](https://opencollective.com/android-arsenal)
 
 Thank you very much in advance!
 <hr/>
