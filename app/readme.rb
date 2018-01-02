@@ -40,17 +40,22 @@ def render_categories(type, data, f)
     }
 end
 
-readme = 'README.md'
-header = 'README-HEADER.md'
-data = DataContext.new
+def generate_readme_file()
+    readme = 'README.md'
+    header = 'README-HEADER.md'
+    data = DataContext.new
 
-FileUtils.cp(header, readme)
-open(readme, 'a') { |f|
-    f.puts '<hr/>'
-    render_toc(f)
-    render_categories(:free, data.free, f)
-    render_categories(:demo, data.demo, f)
-    render_categories(:paid, data.paid, f)
-}
+    FileUtils.cp(header, readme)
+    open(readme, 'a') { |f|
+        f.puts '<hr/>'
+        render_toc(f)
+        render_categories(:free, data.free, f)
+        render_categories(:demo, data.demo, f)
+        render_categories(:paid, data.paid, f)
+    }
+end
 
+
+puts 'Generating README file...';    
+generate_readme_file();
 puts 'README file was generated';
