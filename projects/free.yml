@@ -126,6 +126,8 @@ categories:
           url: https://github.com/seventhmoon/SpotifyStreamer
         - name: Android Playlist File Parser
           url: https://github.com/saschpe/android-pls-parser
+        - name: ExoPlayer2 Shoutcast Metadata Protocol (ICY) extension
+          url: https://github.com/saschpe/android-exoplayer2-ext-icy
 
     - name: Background Processing
       projects:
