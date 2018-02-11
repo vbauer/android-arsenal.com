@@ -136,6 +136,7 @@ Thank you very much in advance!
 * [Patchfield](https://github.com/google/patchfield)
 * [PlayerHater](https://github.com/PRX/PlayerHater)
 * [Spotify Streamer](https://github.com/seventhmoon/SpotifyStreamer)
+* [ExoPlayer2 Shoutcast Metadata Protocol (ICY) extension](https://github.com/saschpe/android-exoplayer2-ext-icy)
 
 ### Background Processing (7)
 * [Android Async](https://bitbucket.org/hal/android-async)
