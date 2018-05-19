@@ -1,7 +1,6 @@
 
 ## Important information
 
-[![Dependency Status](https://gemnasium.com/vbauer/android-arsenal.com.svg)](https://gemnasium.com/vbauer/android-arsenal.com)
 [![Heroku](https://heroku-badge.herokuapp.com/?app=android-arsenal&style=flat&svg=1)](http://android-arsenal.herokuapp.com)
 
 <a href="https://android-arsenal.com">
