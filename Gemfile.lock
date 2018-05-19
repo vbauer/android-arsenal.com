@@ -3,10 +3,10 @@ GEM
   specs:
     builder (3.2.3)
     daemons (1.2.6)
-    eventmachine (1.2.5)
+    eventmachine (1.2.7)
     mustermann (1.0.2)
-    rack (2.0.4)
-    rack-cache (1.7.1)
+    rack (2.0.5)
+    rack-cache (1.7.2)
       rack (>= 0.4)
     rack-protection (2.0.1)
       rack
@@ -27,7 +27,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  rack-cache (~> 1.7.1)
+  rack-cache (~> 1.7.2)
   sinatra (~> 2.0.1)
   thin (~> 1.7.2)
   xml-sitemap (~> 1.3.3)
