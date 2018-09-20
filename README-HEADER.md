@@ -33,8 +33,8 @@ If you want to make this world a little bit better you can:
 To install needed dependencies, run this commands in the project directory:
 ```sh
 gem install bundler
-rvm install ruby-2.4.3
-rvm use 2.4.3
+rvm install ruby-2.5.1
+rvm use 2.5.1
 bundle install
 ```
 
