@@ -5,7 +5,7 @@ GEM
     daemons (1.2.6)
     eventmachine (1.2.7)
     mustermann (1.0.3)
-    rack (2.0.5)
+    rack (2.0.6)
     rack-cache (1.8.0)
       rack (>= 0.4)
     rack-protection (2.0.4)
