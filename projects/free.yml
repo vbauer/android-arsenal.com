@@ -109,6 +109,10 @@ categories:
           url: http://projects.spring.io/spring-android
         - name: MVVM Lifecycle
           url: https://github.com/henrytao-me/mvvm-life-cycle
+        -name: MVVM With Kotlin RxJava
+          url: https://github.com/sanketshah92/MVVM_kotlin_architecture
+        - name: MVVM Architecture-Kotlin
+          url: https://github.com/henrytao-me/mvvm-life-cycle
 
     - name: Audio
       projects:
